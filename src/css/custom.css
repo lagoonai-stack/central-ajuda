@@ -38,3 +38,31 @@ article iframe { border-radius: 8px; margin: 1rem 0; max-width: 100%; }
 
 /* placeholder de imagem pendente destacado */
 blockquote:has(> p:first-child) { border-left-color: var(--ifm-color-primary); }
+
+/* ===== Ajustes de visual Lagoon ===== */
+
+/* 1. Remove a borda vertical entre o menu lateral e o conteúdo */
+.theme-doc-sidebar-container {
+  border-right: none !important;
+}
+.theme-doc-sidebar-container > div::after {
+  display: none !important;
+}
+
+/* 2. Fundo da sidebar transparente */
+.theme-doc-sidebar-container,
+aside.theme-doc-sidebar-container,
+.menu {
+  background: transparent !important;
+}
+
+/* 3. Rodapé fininho com texto pequeno */
+.footer {
+  --ifm-footer-padding-vertical: 0.4rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+.footer__copyright {
+  font-size: 0.7rem;
+  opacity: 0.6;
+}
