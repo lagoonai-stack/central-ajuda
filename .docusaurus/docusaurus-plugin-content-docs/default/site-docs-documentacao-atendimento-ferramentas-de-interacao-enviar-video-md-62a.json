@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-video",
+  "title": "Enviar Vídeo",
+  "description": "https://drive.google.com/file/d/13WQN5JoWkz5FcQyRehu7fSf6zWkdCyVe/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/enviar-video.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/enviar-video",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-video",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Enviar Vídeo"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Modelo de Mensagem",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem"
+  },
+  "next": {
+    "title": "Gravar Áudio",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/gravar-audio"
+  }
+}

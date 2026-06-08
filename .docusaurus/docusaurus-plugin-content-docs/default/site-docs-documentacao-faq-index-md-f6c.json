@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/index",
+  "title": "Comece Aqui",
+  "description": "Comece o uso da plataforma escolhendo qual canal de atendimento deseja utilizar.&#x20;",
+  "source": "@site/docs/documentacao/faq/index.md",
+  "sourceDirName": "documentacao/faq",
+  "slug": "/documentacao/faq/",
+  "permalink": "/documentacao/faq/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Comece Aqui"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Vendas",
+    "permalink": "/documentacao/crm/paineis/vendas"
+  },
+  "next": {
+    "title": "WhatsApp (oficial)",
+    "permalink": "/documentacao/faq/conexao-whatsapp/"
+  }
+}

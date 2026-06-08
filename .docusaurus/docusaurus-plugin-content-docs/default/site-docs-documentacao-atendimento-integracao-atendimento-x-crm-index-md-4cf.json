@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/integracao-atendimento-x-crm/index",
+  "title": "Integração com o CRM",
+  "description": "https://drive.google.com/file/d/1OBLume762vHoP6pEiLzak3zPKDYcVfpA/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/integracao-atendimento-x-crm/index.md",
+  "sourceDirName": "documentacao/atendimento/integracao-atendimento-x-crm",
+  "slug": "/documentacao/atendimento/integracao-atendimento-x-crm/",
+  "permalink": "/documentacao/atendimento/integracao-atendimento-x-crm/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Integração com o CRM"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Gerenciar Grupos (Arquivar, Bloquear, Sair, Excluir)",
+    "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir"
+  },
+  "next": {
+    "title": "Criar Cards Através do Atendimento",
+    "permalink": "/documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1"
+  }
+}

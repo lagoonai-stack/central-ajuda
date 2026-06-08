@@ -1,0 +1,25 @@
+{
+  "id": "faq/numero-privado-lid-e-unificacao-de-contatos",
+  "title": "Número Privado (LID) e Unificação de Contatos",
+  "description": "Recentemente, o WhatsApp implementou uma atualização significativa em suas políticas de privacidade, alterando a forma como os números de telefone são exibidos em novas conversas através da introdução de um identificador chamado LID. Essa mudança pode, em alguns casos, gerar dúvidas e ocasionar a criação de contatos duplicados na plataforma.",
+  "source": "@site/docs/faq/numero-privado-lid-e-unificacao-de-contatos.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/numero-privado-lid-e-unificacao-de-contatos",
+  "permalink": "/faq/numero-privado-lid-e-unificacao-de-contatos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Número Privado (LID) e Unificação de Contatos"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Mensagem 'Aguardando Mensagem'",
+    "permalink": "/faq/mensagens-waiting-message"
+  },
+  "next": {
+    "title": "Rate Limit da API Não Oficial do WhatsApp",
+    "permalink": "/faq/rate-limit-api-nao-oficial"
+  }
+}

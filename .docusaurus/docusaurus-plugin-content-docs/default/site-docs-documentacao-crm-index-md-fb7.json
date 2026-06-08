@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/index",
+  "title": "CRM",
+  "description": "O CRM reúne as ferramentas para gerenciar contatos, acompanhar negociações e organizar fluxos de atendimento em um só lugar.",
+  "source": "@site/docs/documentacao/crm/index.md",
+  "sourceDirName": "documentacao/crm",
+  "slug": "/documentacao/crm/",
+  "permalink": "/documentacao/crm/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CRM"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Transferir Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento"
+  },
+  "next": {
+    "title": "Carteiras",
+    "permalink": "/documentacao/crm/carteiras/"
+  }
+}

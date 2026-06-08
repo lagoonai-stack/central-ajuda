@@ -1,0 +1,1068 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "documentacao/ajustes/conta/dados-da-conta",
+              "path": "/documentacao/ajustes/conta/dados-da-conta",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/conta/horario-de-atendimento",
+              "path": "/documentacao/ajustes/conta/horario-de-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/conta/index",
+              "path": "/documentacao/ajustes/conta/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/conta/processo-de-dar-permissao-para-reconectar-o-numero",
+              "path": "/documentacao/ajustes/conta/processo-de-dar-permissao-para-reconectar-o-numero",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/conta/remover-canal-de-atendimento",
+              "path": "/documentacao/ajustes/conta/remover-canal-de-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/equipes/cadastrar-equipe",
+              "path": "/documentacao/ajustes/equipes/cadastrar-equipe",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento",
+              "path": "/documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/equipes/index",
+              "path": "/documentacao/ajustes/equipes/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/equipes/relacao-de-acessos-x-conversas",
+              "path": "/documentacao/ajustes/equipes/relacao-de-acessos-x-conversas",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor",
+              "path": "/documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/index",
+              "path": "/documentacao/ajustes/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento",
+              "path": "/documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/integracoes/index",
+              "path": "/documentacao/ajustes/integracoes/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem",
+              "path": "/documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-conversa-cobranca",
+              "path": "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-conversa-cobranca",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem",
+              "path": "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem",
+              "path": "/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/modelo-de-mensagens/index",
+              "path": "/documentacao/ajustes/modelo-de-mensagens/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento",
+              "path": "/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens",
+              "path": "/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem",
+              "path": "/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/usuarios/cadastrar-usuarios",
+              "path": "/documentacao/ajustes/usuarios/cadastrar-usuarios",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/usuarios/editar-foto-do-usuario",
+              "path": "/documentacao/ajustes/usuarios/editar-foto-do-usuario",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/usuarios/index",
+              "path": "/documentacao/ajustes/usuarios/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios",
+              "path": "/documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/agentes-inteligentes/aba-configuracoes",
+              "path": "/documentacao/apps/agentes-inteligentes/aba-configuracoes",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/agentes-inteligentes/habilidades",
+              "path": "/documentacao/apps/agentes-inteligentes/habilidades",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/agentes-inteligentes/index",
+              "path": "/documentacao/apps/agentes-inteligentes/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/agentes-inteligentes/indicador-de-digitando",
+              "path": "/documentacao/apps/agentes-inteligentes/indicador-de-digitando",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/agentes-inteligentes/novo-agente",
+              "path": "/documentacao/apps/agentes-inteligentes/novo-agente",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/agentes-inteligentes/simular-tempo-de-digitacao",
+              "path": "/documentacao/apps/agentes-inteligentes/simular-tempo-de-digitacao",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/agentes-inteligentes/versoes-dos-agentes",
+              "path": "/documentacao/apps/agentes-inteligentes/versoes-dos-agentes",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/campanha/arquivar-campanha",
+              "path": "/documentacao/apps/campanha/arquivar-campanha",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/campanha/consultar-campanha",
+              "path": "/documentacao/apps/campanha/consultar-campanha",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha",
+              "path": "/documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/campanha/criar-nova-campanha",
+              "path": "/documentacao/apps/campanha/criar-nova-campanha",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/campanha/exportar-campanha",
+              "path": "/documentacao/apps/campanha/exportar-campanha",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/campanha/gestao-de-permissoes-em-campanhas",
+              "path": "/documentacao/apps/campanha/gestao-de-permissoes-em-campanhas",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/campanha/index",
+              "path": "/documentacao/apps/campanha/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/campanha/riscos-e-custos-da-campanha",
+              "path": "/documentacao/apps/campanha/riscos-e-custos-da-campanha",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/carteirizacao-de-contatos/habilitar-o-app",
+              "path": "/documentacao/apps/carteirizacao-de-contatos/habilitar-o-app",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/carteirizacao-de-contatos/index",
+              "path": "/documentacao/apps/carteirizacao-de-contatos/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chat-interno/ativar-e-desativar-funcionalidade",
+              "path": "/documentacao/apps/chat-interno/ativar-e-desativar-funcionalidade",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chat-interno/index",
+              "path": "/documentacao/apps/chat-interno/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chat-interno/tipos-de-conversa-usuario-x-equipe-x-todos",
+              "path": "/documentacao/apps/chat-interno/tipos-de-conversa-usuario-x-equipe-x-todos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato",
+              "path": "/documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chatbot/copiar-e-colar-do-chatbot-na-plataforma",
+              "path": "/documentacao/apps/chatbot/copiar-e-colar-do-chatbot-na-plataforma",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chatbot/criando-um-chatbot",
+              "path": "/documentacao/apps/chatbot/criando-um-chatbot",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chatbot/enviar-mensagem",
+              "path": "/documentacao/apps/chatbot/enviar-mensagem",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chatbot/enviar-pergunta",
+              "path": "/documentacao/apps/chatbot/enviar-pergunta",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chatbot/gatilhos",
+              "path": "/documentacao/apps/chatbot/gatilhos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chatbot/index",
+              "path": "/documentacao/apps/chatbot/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/chatbot/tipos-de-chatbot",
+              "path": "/documentacao/apps/chatbot/tipos-de-chatbot",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/distribuicao-de-atendimentos/distribuicao-de-atendimentos",
+              "path": "/documentacao/apps/distribuicao-de-atendimentos/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/distribuicao-de-atendimentos/index",
+              "path": "/documentacao/apps/distribuicao-de-atendimentos/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/grupos-do-whatsapp/habilitar-o-app",
+              "path": "/documentacao/apps/grupos-do-whatsapp/habilitar-o-app",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/grupos-do-whatsapp/index",
+              "path": "/documentacao/apps/grupos-do-whatsapp/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/index",
+              "path": "/documentacao/apps/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm",
+              "path": "/documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/mensagens-agendadas/como-gerenciar-os-agendamentos",
+              "path": "/documentacao/apps/mensagens-agendadas/como-gerenciar-os-agendamentos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/mensagens-agendadas/index",
+              "path": "/documentacao/apps/mensagens-agendadas/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/mensagens-agendadas/modelo-para-mensagens-agendadas",
+              "path": "/documentacao/apps/mensagens-agendadas/modelo-para-mensagens-agendadas",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/pagamentos",
+              "path": "/documentacao/apps/pagamentos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/adicionar-etapa",
+              "path": "/documentacao/apps/sequencia/adicionar-etapa",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/concluidos",
+              "path": "/documentacao/apps/sequencia/concluidos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/contatos-na-sequencia",
+              "path": "/documentacao/apps/sequencia/contatos-na-sequencia",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/criar-sequencia",
+              "path": "/documentacao/apps/sequencia/criar-sequencia",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/desabilitar-excluir-sequencia",
+              "path": "/documentacao/apps/sequencia/desabilitar-excluir-sequencia",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/incluir-contato-na-sequencia",
+              "path": "/documentacao/apps/sequencia/incluir-contato-na-sequencia",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/index",
+              "path": "/documentacao/apps/sequencia/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/remover-contatos",
+              "path": "/documentacao/apps/sequencia/remover-contatos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/sequencia/sequencias-via-api",
+              "path": "/documentacao/apps/sequencia/sequencias-via-api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/tempo-de-seguranca",
+              "path": "/documentacao/apps/tempo-de-seguranca",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/apps/transcricao-de-audio-com-ia",
+              "path": "/documentacao/apps/transcricao-de-audio-com-ia",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/comece-aqui/abrir-dados-do-contato",
+              "path": "/documentacao/atendimento/comece-aqui/abrir-dados-do-contato",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/comece-aqui/acessando-pela-web",
+              "path": "/documentacao/atendimento/comece-aqui/acessando-pela-web",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/comece-aqui/acessando-pelo-app",
+              "path": "/documentacao/atendimento/comece-aqui/acessando-pelo-app",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/comece-aqui/index",
+              "path": "/documentacao/atendimento/comece-aqui/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-audio",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/enviar-audio",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-documento",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/enviar-documento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-imagem",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/enviar-imagem",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-video",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/enviar-video",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/gravar-audio",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/gravar-audio",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/index",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/iniciar-chatbot",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/iniciar-chatbot",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento",
+              "path": "/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial",
+              "path": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial",
+              "path": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir",
+              "path": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/gestao-de-grupos-no-atendimento/index",
+              "path": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/index",
+              "path": "/documentacao/atendimento/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/integracao-atendimento-x-crm/index",
+              "path": "/documentacao/atendimento/integracao-atendimento-x-crm/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1",
+              "path": "/documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/operacoes-de-atendimento/alterar-padrao-de-arquivamento-12h-imediato",
+              "path": "/documentacao/atendimento/operacoes-de-atendimento/alterar-padrao-de-arquivamento-12h-imediato",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento",
+              "path": "/documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento",
+              "path": "/documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/operacoes-de-atendimento/index",
+              "path": "/documentacao/atendimento/operacoes-de-atendimento/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento",
+              "path": "/documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento",
+              "path": "/documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento",
+              "path": "/documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira",
+              "path": "/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/carteiras/criar-uma-nova-carteira",
+              "path": "/documentacao/crm/carteiras/criar-uma-nova-carteira",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/carteiras/funcionamento-da-carteirizacao",
+              "path": "/documentacao/crm/carteiras/funcionamento-da-carteirizacao",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/carteiras/incluir-contato-na-carteira",
+              "path": "/documentacao/crm/carteiras/incluir-contato-na-carteira",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/carteiras/index",
+              "path": "/documentacao/crm/carteiras/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/carteiras/permissoes-por-perfil",
+              "path": "/documentacao/crm/carteiras/permissoes-por-perfil",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/bloquear-ou-arquivar-contato",
+              "path": "/documentacao/crm/contato/bloquear-ou-arquivar-contato",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/cadastrar-contato",
+              "path": "/documentacao/crm/contato/cadastrar-contato",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/editar-campos-personalizados",
+              "path": "/documentacao/crm/contato/editar-campos-personalizados",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/exportar-base-de-contatos",
+              "path": "/documentacao/crm/contato/exportar-base-de-contatos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas",
+              "path": "/documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/gerenciar-etiquetas/index",
+              "path": "/documentacao/crm/contato/gerenciar-etiquetas/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta",
+              "path": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1",
+              "path": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/importacao-de-contatos",
+              "path": "/documentacao/crm/contato/importacao-de-contatos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/index",
+              "path": "/documentacao/crm/contato/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/contato/pesquisar-contato",
+              "path": "/documentacao/crm/contato/pesquisar-contato",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/index",
+              "path": "/documentacao/crm/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/paineis/gestao",
+              "path": "/documentacao/crm/paineis/gestao",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/paineis/index",
+              "path": "/documentacao/crm/paineis/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/paineis/primeiros-passos",
+              "path": "/documentacao/crm/paineis/primeiros-passos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/paineis/tipos-de-painel",
+              "path": "/documentacao/crm/paineis/tipos-de-painel",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/crm/paineis/vendas",
+              "path": "/documentacao/crm/paineis/vendas",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code/index",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-perfil-do-whatsapp",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-perfil-do-whatsapp",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/configuracoes-whatsapp",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/configuracoes-whatsapp",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/index",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/portabilidade-de-numero",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/portabilidade-de-numero",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio",
+              "path": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte",
+              "path": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta",
+              "path": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/erros-e-problemas/index",
+              "path": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento",
+              "path": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/index",
+              "path": "/documentacao/faq/conexao-whatsapp/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento",
+              "path": "/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento",
+              "path": "/documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/pagamentos/index",
+              "path": "/documentacao/faq/conexao-whatsapp/pagamentos/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio",
+              "path": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial",
+              "path": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores",
+              "path": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores",
+              "path": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/index",
+              "path": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio",
+              "path": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial",
+              "path": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/index",
+              "path": "/documentacao/faq/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger",
+              "path": "/documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/instagram-messenger/index",
+              "path": "/documentacao/faq/instagram-messenger/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam",
+              "path": "/documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger",
+              "path": "/documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/outros/alterar-informacoes-do-meu-usuario",
+              "path": "/documentacao/outros/alterar-informacoes-do-meu-usuario",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/outros/como-alternar-entre-contas-na-plataforma",
+              "path": "/documentacao/outros/como-alternar-entre-contas-na-plataforma",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma",
+              "path": "/documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/outros/index",
+              "path": "/documentacao/outros/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa",
+              "path": "/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma",
+              "path": "/documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/relatorios/atendimento/como-exportar-relatorio-na-plataforma",
+              "path": "/documentacao/relatorios/atendimento/como-exportar-relatorio-na-plataforma",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/relatorios/atendimento/index",
+              "path": "/documentacao/relatorios/atendimento/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/relatorios/consumo-de-infraestrutura",
+              "path": "/documentacao/relatorios/consumo-de-infraestrutura",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "documentacao/relatorios/index",
+              "path": "/documentacao/relatorios/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "faq/mensagens-waiting-message",
+              "path": "/faq/mensagens-waiting-message",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "faq/numero-privado-lid-e-unificacao-de-contatos",
+              "path": "/faq/numero-privado-lid-e-unificacao-de-contatos",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "faq/rate-limit-api-nao-oficial",
+              "path": "/faq/rate-limit-api-nao-oficial",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "faq/status-de-integridade-do-canal",
+              "path": "/faq/status-de-integridade-do-canal",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/abril-de-2026/02-04-2026",
+              "path": "/novidades-do-sistema/abril-de-2026/02-04-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/abril-de-2026/17-04-2026-app-2.1.34",
+              "path": "/novidades-do-sistema/abril-de-2026/17-04-2026-app-2.1.34",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/abril-de-2026/index",
+              "path": "/novidades-do-sistema/abril-de-2026/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/fevereiro-de-2026/04-02-2026",
+              "path": "/novidades-do-sistema/fevereiro-de-2026/04-02-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/fevereiro-de-2026/12-02-2026",
+              "path": "/novidades-do-sistema/fevereiro-de-2026/12-02-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/fevereiro-de-2026/20-02-2026",
+              "path": "/novidades-do-sistema/fevereiro-de-2026/20-02-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/fevereiro-de-2026/26-02-2026",
+              "path": "/novidades-do-sistema/fevereiro-de-2026/26-02-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/fevereiro-de-2026/27-02-2026",
+              "path": "/novidades-do-sistema/fevereiro-de-2026/27-02-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/fevereiro-de-2026/index",
+              "path": "/novidades-do-sistema/fevereiro-de-2026/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/index",
+              "path": "/novidades-do-sistema/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/janeiro-de-2026/02-01-2026",
+              "path": "/novidades-do-sistema/janeiro-de-2026/02-01-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/janeiro-de-2026/07-01-2026",
+              "path": "/novidades-do-sistema/janeiro-de-2026/07-01-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/janeiro-de-2026/19-01-2026",
+              "path": "/novidades-do-sistema/janeiro-de-2026/19-01-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/janeiro-de-2026/21-01-2026",
+              "path": "/novidades-do-sistema/janeiro-de-2026/21-01-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/janeiro-de-2026/21-01-2026-api",
+              "path": "/novidades-do-sistema/janeiro-de-2026/21-01-2026-api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/janeiro-de-2026/22-01-2026",
+              "path": "/novidades-do-sistema/janeiro-de-2026/22-01-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/janeiro-de-2026/28-01-2026",
+              "path": "/novidades-do-sistema/janeiro-de-2026/28-01-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/janeiro-de-2026/index",
+              "path": "/novidades-do-sistema/janeiro-de-2026/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/junho-de-2026/03-06-2026",
+              "path": "/novidades-do-sistema/junho-de-2026/03-06-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/junho-de-2026/index",
+              "path": "/novidades-do-sistema/junho-de-2026/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/06-05-2026",
+              "path": "/novidades-do-sistema/maio-de-2026/06-05-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/12-05-2026",
+              "path": "/novidades-do-sistema/maio-de-2026/12-05-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/13-05-2026",
+              "path": "/novidades-do-sistema/maio-de-2026/13-05-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/14-05-2026-envio-de-audios-como-mensagem-de-voz",
+              "path": "/novidades-do-sistema/maio-de-2026/14-05-2026-envio-de-audios-como-mensagem-de-voz",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas",
+              "path": "/novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/20-05-2026",
+              "path": "/novidades-do-sistema/maio-de-2026/20-05-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot",
+              "path": "/novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/22-05-2026-gatilhos-no-chatbot",
+              "path": "/novidades-do-sistema/maio-de-2026/22-05-2026-gatilhos-no-chatbot",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/27-05-2026",
+              "path": "/novidades-do-sistema/maio-de-2026/27-05-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/29-05-2026-api-crm-de-vendas",
+              "path": "/novidades-do-sistema/maio-de-2026/29-05-2026-api-crm-de-vendas",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/29-05-2026-crm-de-vendas",
+              "path": "/novidades-do-sistema/maio-de-2026/29-05-2026-crm-de-vendas",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/maio-de-2026/index",
+              "path": "/novidades-do-sistema/maio-de-2026/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/marco-de-2026/12-03-2026",
+              "path": "/novidades-do-sistema/marco-de-2026/12-03-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/marco-de-2026/12-03-2026-filtros-de-webhooks",
+              "path": "/novidades-do-sistema/marco-de-2026/12-03-2026-filtros-de-webhooks",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/marco-de-2026/18-03-2026",
+              "path": "/novidades-do-sistema/marco-de-2026/18-03-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/marco-de-2026/25-03-2026",
+              "path": "/novidades-do-sistema/marco-de-2026/25-03-2026",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "novidades-do-sistema/marco-de-2026/index",
+              "path": "/novidades-do-sistema/marco-de-2026/",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor",
+  "title": "Tipo de associação usuário x supervisor",
+  "description": "Na plataforma, a associação entre usuários e supervisores é uma funcionalidade essencial para uma gestão eficiente das equipes. Com essa associação, os supervisores podem acompanhar o desempenho dos membros da equipe, oferecer suporte, garantir a organização das tarefas e assegurar que os objetivos sejam atingidos de forma eficaz.",
+  "source": "@site/docs/documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor.md",
+  "sourceDirName": "documentacao/ajustes/equipes",
+  "slug": "/documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor",
+  "permalink": "/documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tipo de associação usuário x supervisor"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Relação de acessos x conversas",
+    "permalink": "/documentacao/ajustes/equipes/relacao-de-acessos-x-conversas"
+  },
+  "next": {
+    "title": "Integrações",
+    "permalink": "/documentacao/ajustes/integracoes/"
+  }
+}

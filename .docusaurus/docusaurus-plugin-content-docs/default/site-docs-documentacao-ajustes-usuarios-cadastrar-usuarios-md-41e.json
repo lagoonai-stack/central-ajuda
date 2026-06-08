@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/usuarios/cadastrar-usuarios",
+  "title": "Cadastrar usuários",
+  "description": "O cadastro de novos usuários na plataforma permite incluir membros da equipe, garantindo que cada um tenha acesso às ferramentas e informações essenciais para suas atividades. Esse processo é fundamental para manter a organização, segurança dos dados e facilitar a colaboração entre os membros da equipe.",
+  "source": "@site/docs/documentacao/ajustes/usuarios/cadastrar-usuarios.md",
+  "sourceDirName": "documentacao/ajustes/usuarios",
+  "slug": "/documentacao/ajustes/usuarios/cadastrar-usuarios",
+  "permalink": "/documentacao/ajustes/usuarios/cadastrar-usuarios",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cadastrar usuários"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Usuários",
+    "permalink": "/documentacao/ajustes/usuarios/"
+  },
+  "next": {
+    "title": "Editar foto do usuário",
+    "permalink": "/documentacao/ajustes/usuarios/editar-foto-do-usuario"
+  }
+}

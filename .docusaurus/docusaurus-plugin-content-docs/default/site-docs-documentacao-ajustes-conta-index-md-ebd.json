@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/conta/index",
+  "title": "Conta",
+  "description": "O módulo Conta da plataforma permite que administradores e usuários gerenciem as principais configurações da conta, incluindo informações cadastrais, canais de atendimento, e horário de funcionamento.",
+  "source": "@site/docs/documentacao/ajustes/conta/index.md",
+  "sourceDirName": "documentacao/ajustes/conta",
+  "slug": "/documentacao/ajustes/conta/",
+  "permalink": "/documentacao/ajustes/conta/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Conta"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Ajustes",
+    "permalink": "/documentacao/ajustes/"
+  },
+  "next": {
+    "title": "Dados da conta",
+    "permalink": "/documentacao/ajustes/conta/dados-da-conta"
+  }
+}

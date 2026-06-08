@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/relatorios/consumo-de-infraestrutura",
+  "title": "Consumo de Infraestrutura",
+  "description": "A funcionalidade de Consumo de Infraestrutura na plataforma permite que os administradores acompanhem, o uso dos recursos contratados, como conversas e quantidade de contatos únicos/mês. Essa visualização detalhada é fundamental para o controle de custos, planejamento de upgrades e garantia de continuidade operacional, permitindo decisões mais estratégicas e assertivas sobre o uso da plataforma.",
+  "source": "@site/docs/documentacao/relatorios/consumo-de-infraestrutura.md",
+  "sourceDirName": "documentacao/relatorios",
+  "slug": "/documentacao/relatorios/consumo-de-infraestrutura",
+  "permalink": "/documentacao/relatorios/consumo-de-infraestrutura",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Consumo de Infraestrutura"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Como exportar relatório na plataforma",
+    "permalink": "/documentacao/relatorios/atendimento/como-exportar-relatorio-na-plataforma"
+  },
+  "next": {
+    "title": "Mensagem 'Aguardando Mensagem'",
+    "permalink": "/faq/mensagens-waiting-message"
+  }
+}

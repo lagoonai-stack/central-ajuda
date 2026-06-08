@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/carteiras/incluir-contato-na-carteira",
+  "title": "Incluir e Remover Contatos da Carteira",
+  "description": "Os contatos podem ser incluídos em uma carteira de forma manual ou automática. Neste artigo, você verá como realizar a inclusão e a remoção de contatos pelas diferentes telas disponíveis na plataforma.",
+  "source": "@site/docs/documentacao/crm/carteiras/incluir-contato-na-carteira.md",
+  "sourceDirName": "documentacao/crm/carteiras",
+  "slug": "/documentacao/crm/carteiras/incluir-contato-na-carteira",
+  "permalink": "/documentacao/crm/carteiras/incluir-contato-na-carteira",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Incluir e Remover Contatos da Carteira"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Funcionamento da Carteirização",
+    "permalink": "/documentacao/crm/carteiras/funcionamento-da-carteirizacao"
+  },
+  "next": {
+    "title": "Permissões por Perfil",
+    "permalink": "/documentacao/crm/carteiras/permissoes-por-perfil"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/index",
+  "title": "Atendimento",
+  "description": "O módulo de Atendimento da plataforma foi projetado para otimizar e simplificar o gerenciamento das interações com clientes via WhatsApp. A plataforma permite que as equipes de atendimento realizem ações como iniciar, assumir, transferir e concluir atendimentos de forma ágil e eficaz. Além disso, o sistema oferece funcionalidades adicionais como o uso de chatbots, o envio de diferentes tipos de mensagens, e a personalização de painéis, para tornar o atendimento ainda mais dinâmico e personalizado.",
+  "source": "@site/docs/documentacao/atendimento/index.md",
+  "sourceDirName": "documentacao/atendimento",
+  "slug": "/documentacao/atendimento/",
+  "permalink": "/documentacao/atendimento/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Transcrição de audio com IA",
+    "permalink": "/documentacao/apps/transcricao-de-audio-com-ia"
+  },
+  "next": {
+    "title": "Central de Atendimento",
+    "permalink": "/documentacao/atendimento/comece-aqui/"
+  }
+}

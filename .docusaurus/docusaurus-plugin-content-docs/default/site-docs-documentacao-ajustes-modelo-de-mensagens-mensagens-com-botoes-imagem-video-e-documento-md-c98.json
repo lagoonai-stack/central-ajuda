@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento",
+  "title": "Mensagens com botões, imagem, vídeo e documento",
+  "description": "A criação de mensagens interativas na plataforma melhora a comunicação com os clientes, tornando-a mais engajadora e dinâmica. Com botões, imagens, vídeos e documentos, suas mensagens ficam mais atrativas e aumentam a taxa de interação.",
+  "source": "@site/docs/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento.md",
+  "sourceDirName": "documentacao/ajustes/modelo-de-mensagens",
+  "slug": "/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento",
+  "permalink": "/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mensagens com botões, imagem, vídeo e documento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Editar modelos de mensagem",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem"
+  },
+  "next": {
+    "title": "Parâmetros e personalização de mensagens",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens"
+  }
+}

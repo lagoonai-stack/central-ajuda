@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/configuracoes-whatsapp",
+  "title": "Configurações do WhatsApp",
+  "description": "Esta seção contém guias para configurar e personalizar o perfil do seu WhatsApp Business no portfólio empresarial, incluindo alterações no nome de exibição (display name) e outras informações do perfil.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/configuracoes-whatsapp.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api",
+  "slug": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/configuracoes-whatsapp",
+  "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/configuracoes-whatsapp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Configurações do WhatsApp"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Perfil do WhatsApp",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-perfil-do-whatsapp"
+  },
+  "next": {
+    "title": "Portabilidade de número",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/portabilidade-de-numero"
+  }
+}

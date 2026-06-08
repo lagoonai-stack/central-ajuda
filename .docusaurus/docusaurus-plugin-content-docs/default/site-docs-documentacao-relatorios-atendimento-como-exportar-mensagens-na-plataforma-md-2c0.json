@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma",
+  "title": "Como exportar mensagens na plataforma",
+  "description": "A exportação de conversas é uma funcionalidade essencial para equipes que desejam registrar, analisar ou compartilhar interações realizadas na plataforma. Seja para fins de auditoria, treinamento, controle interno ou documentação, essa ferramenta permite gerar um arquivo com o histórico das conversas de forma simples e organizada.",
+  "source": "@site/docs/documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma.md",
+  "sourceDirName": "documentacao/relatorios/atendimento",
+  "slug": "/documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma",
+  "permalink": "/documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Como exportar mensagens na plataforma"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Como concluir atendimentos em massa",
+    "permalink": "/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa"
+  },
+  "next": {
+    "title": "Como exportar relatório na plataforma",
+    "permalink": "/documentacao/relatorios/atendimento/como-exportar-relatorio-na-plataforma"
+  }
+}

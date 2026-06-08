@@ -1,0 +1,25 @@
+{
+  "id": "novidades-do-sistema/marco-de-2026/12-03-2026-filtros-de-webhooks",
+  "title": "12/03/2026 - Filtros de Webhooks",
+  "description": "🆕 Webhooks: Novos filtros nas assinaturas",
+  "source": "@site/docs/novidades-do-sistema/marco-de-2026/12-03-2026-filtros-de-webhooks.md",
+  "sourceDirName": "novidades-do-sistema/marco-de-2026",
+  "slug": "/novidades-do-sistema/marco-de-2026/12-03-2026-filtros-de-webhooks",
+  "permalink": "/novidades-do-sistema/marco-de-2026/12-03-2026-filtros-de-webhooks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "12/03/2026 - Filtros de Webhooks"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Março de 2026",
+    "permalink": "/novidades-do-sistema/marco-de-2026/"
+  },
+  "next": {
+    "title": "12/03/2026",
+    "permalink": "/novidades-do-sistema/marco-de-2026/12-03-2026"
+  }
+}

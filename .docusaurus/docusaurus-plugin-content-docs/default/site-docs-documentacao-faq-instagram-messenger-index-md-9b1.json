@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/instagram-messenger/index",
+  "title": "Instagram/Messenger",
+  "description": "Comece conectando seu perfil do instagram e página do facebook. A permissão dura por 60 dias, após esse período você precisará renovar o token de acesso.",
+  "source": "@site/docs/documentacao/faq/instagram-messenger/index.md",
+  "sourceDirName": "documentacao/faq/instagram-messenger",
+  "slug": "/documentacao/faq/instagram-messenger/",
+  "permalink": "/documentacao/faq/instagram-messenger/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Instagram/Messenger"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Verificar portfólio empresarial",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial"
+  },
+  "next": {
+    "title": "Conexão",
+    "permalink": "/documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger"
+  }
+}

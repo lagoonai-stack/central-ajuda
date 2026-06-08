@@ -1,0 +1,25 @@
+{
+  "id": "novidades-do-sistema/janeiro-de-2026/21-01-2026-api",
+  "title": "21/01/2026 - API",
+  "description": "🔌 Integrações e API",
+  "source": "@site/docs/novidades-do-sistema/janeiro-de-2026/21-01-2026-api.md",
+  "sourceDirName": "novidades-do-sistema/janeiro-de-2026",
+  "slug": "/novidades-do-sistema/janeiro-de-2026/21-01-2026-api",
+  "permalink": "/novidades-do-sistema/janeiro-de-2026/21-01-2026-api",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "21/01/2026 - API"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "19/01/2026",
+    "permalink": "/novidades-do-sistema/janeiro-de-2026/19-01-2026"
+  },
+  "next": {
+    "title": "21/01/2026",
+    "permalink": "/novidades-do-sistema/janeiro-de-2026/21-01-2026"
+  }
+}

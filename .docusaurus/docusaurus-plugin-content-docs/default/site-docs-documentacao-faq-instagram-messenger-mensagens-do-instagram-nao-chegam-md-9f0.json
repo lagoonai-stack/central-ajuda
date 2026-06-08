@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam",
+  "title": "Mensagens não chegam",
+  "description": "Este artigo explica os passos para garantir que as mensagens do Instagram sejam recebidas corretamente na plataforma. Caso as mensagens não estejam chegando, siga os passos abaixo.",
+  "source": "@site/docs/documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam.md",
+  "sourceDirName": "documentacao/faq/instagram-messenger",
+  "slug": "/documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam",
+  "permalink": "/documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mensagens não chegam"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Conexão",
+    "permalink": "/documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger"
+  },
+  "next": {
+    "title": "Renovar token",
+    "permalink": "/documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger"
+  }
+}

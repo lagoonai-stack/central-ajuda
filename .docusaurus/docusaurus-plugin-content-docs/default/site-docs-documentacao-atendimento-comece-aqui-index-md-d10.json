@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/comece-aqui/index",
+  "title": "Central de Atendimento",
+  "description": "Encontre aqui o seu ponto de partida. A seção 'Comece Aqui' contém toda a documentação necessária para iniciar, desde as instruções para acesso (Web e Mobile) até o entendimento das abas, filtros e o fluxo básico de iniciar um atendimento.\"",
+  "source": "@site/docs/documentacao/atendimento/comece-aqui/index.md",
+  "sourceDirName": "documentacao/atendimento/comece-aqui",
+  "slug": "/documentacao/atendimento/comece-aqui/",
+  "permalink": "/documentacao/atendimento/comece-aqui/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Central de Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Atendimento",
+    "permalink": "/documentacao/atendimento/"
+  },
+  "next": {
+    "title": "Dados do Contato e Gestão Rápida",
+    "permalink": "/documentacao/atendimento/comece-aqui/abrir-dados-do-contato"
+  }
+}

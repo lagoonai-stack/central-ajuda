@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma",
+  "title": "Notas da Conversa",
+  "description": "https://drive.google.com/file/d/1prHksytUTdIYWuIsQ76tV2oUuAu-EEuD/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Notas da Conversa"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Iniciar Chatbot",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/iniciar-chatbot"
+  },
+  "next": {
+    "title": "Solicitar Pagamento",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento"
+  }
+}

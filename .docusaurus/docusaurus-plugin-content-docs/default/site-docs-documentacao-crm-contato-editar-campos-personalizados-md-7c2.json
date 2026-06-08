@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/editar-campos-personalizados",
+  "title": "Editar campos personalizados",
+  "description": "Os campos personalizados são uma ferramenta poderosa para adaptar a plataforma às necessidades específicas do seu negócio. Eles permitem que você capture informações adicionais essenciais para o seu fluxo de trabalho. Este artigo fornecerá uma visão detalhada de como inserir e editar campos personalizados, garantindo que você possa ajustar e atualizar essas informações conforme necessário.",
+  "source": "@site/docs/documentacao/crm/contato/editar-campos-personalizados.md",
+  "sourceDirName": "documentacao/crm/contato",
+  "slug": "/documentacao/crm/contato/editar-campos-personalizados",
+  "permalink": "/documentacao/crm/contato/editar-campos-personalizados",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Editar campos personalizados"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Cadastrar contato",
+    "permalink": "/documentacao/crm/contato/cadastrar-contato"
+  },
+  "next": {
+    "title": "Exportar Base de Contatos",
+    "permalink": "/documentacao/crm/contato/exportar-base-de-contatos"
+  }
+}

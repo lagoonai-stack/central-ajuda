@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/agentes-inteligentes/index",
+  "title": "IA - Agentes Inteligentes",
+  "description": "Eleve o nível do seu atendimento com os Agentes de IA. Agora, você pode implementar assistentes virtuais que compreendem, interagem e resolvem as solicitações dos seus clientes de forma autônoma, diretamente pela plataforma, garantindo que dúvidas frequentes, coleta de dados e qualificação de leads sejam realizados instantaneamente. Com uma força de trabalho digital incansável, sua equipe ganha mais tempo para focar em casos complexos e estratégicos, sem depender de longas filas de espera ou da disponibilidade dos atendentes humanos. Implemente seu primeiro agente e descubra o poder de um atendimento inteligente e escalável!",
+  "source": "@site/docs/documentacao/apps/agentes-inteligentes/index.md",
+  "sourceDirName": "documentacao/apps/agentes-inteligentes",
+  "slug": "/documentacao/apps/agentes-inteligentes/",
+  "permalink": "/documentacao/apps/agentes-inteligentes/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "IA - Agentes Inteligentes"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Apps",
+    "permalink": "/documentacao/apps/"
+  },
+  "next": {
+    "title": "Aba Configurações",
+    "permalink": "/documentacao/apps/agentes-inteligentes/aba-configuracoes"
+  }
+}

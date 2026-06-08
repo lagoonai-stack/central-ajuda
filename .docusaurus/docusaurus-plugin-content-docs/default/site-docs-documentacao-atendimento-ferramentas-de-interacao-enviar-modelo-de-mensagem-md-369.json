@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem",
+  "title": "Modelo de Mensagem",
+  "description": "https://drive.google.com/file/d/1356Ewm-loaDOMK6ztuTbDhnAO3WPCYa-/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Modelo de Mensagem"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Mensagens Rápidas",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida"
+  },
+  "next": {
+    "title": "Enviar Vídeo",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-video"
+  }
+}

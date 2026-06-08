@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/chatbot/enviar-pergunta",
+  "title": "Enviar Pergunta",
+  "description": "O bloco de Enviar Pergunta no construtor de chatbots foi projetado para criar menus interativos e guiar a jornada do usuário de forma estruturada. Essa funcionalidade permite que você ofereça opções de escolha claras durante o atendimento automatizado, melhorando a experiência do cliente e direcionando a conversa para o fluxo correto de forma ágil e eficaz.",
+  "source": "@site/docs/documentacao/apps/chatbot/enviar-pergunta.md",
+  "sourceDirName": "documentacao/apps/chatbot",
+  "slug": "/documentacao/apps/chatbot/enviar-pergunta",
+  "permalink": "/documentacao/apps/chatbot/enviar-pergunta",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Enviar Pergunta"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Enviar Mensagem",
+    "permalink": "/documentacao/apps/chatbot/enviar-mensagem"
+  },
+  "next": {
+    "title": "Gatilhos",
+    "permalink": "/documentacao/apps/chatbot/gatilhos"
+  }
+}

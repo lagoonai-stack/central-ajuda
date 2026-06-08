@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/exportar-base-de-contatos",
+  "title": "Exportar Base de Contatos",
+  "description": "EM CONSTRUCAO",
+  "source": "@site/docs/documentacao/crm/contato/exportar-base-de-contatos.md",
+  "sourceDirName": "documentacao/crm/contato",
+  "slug": "/documentacao/crm/contato/exportar-base-de-contatos",
+  "permalink": "/documentacao/crm/contato/exportar-base-de-contatos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Exportar Base de Contatos"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Editar campos personalizados",
+    "permalink": "/documentacao/crm/contato/editar-campos-personalizados"
+  },
+  "next": {
+    "title": "Gerenciar Etiquetas",
+    "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/"
+  }
+}

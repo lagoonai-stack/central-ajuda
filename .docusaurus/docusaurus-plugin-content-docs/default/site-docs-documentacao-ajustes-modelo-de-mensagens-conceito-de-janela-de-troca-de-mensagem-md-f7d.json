@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem",
+  "title": "Conceito de janela de troca de mensagem",
+  "description": "A Meta cobra por conversa, e não por mensagem enviada. A janela de conversa funciona de forma deslizante, ou seja, é sempre renovada com base na última interação do cliente. Veja o exemplo abaixo.",
+  "source": "@site/docs/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem.md",
+  "sourceDirName": "documentacao/ajustes/modelo-de-mensagens",
+  "slug": "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem",
+  "permalink": "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Conceito de janela de troca de mensagem"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Conceito de janela de conversa (cobrança)",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-conversa-cobranca"
+  },
+  "next": {
+    "title": "Editar modelos de mensagem",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem"
+  }
+}

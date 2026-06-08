@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/gravar-audio",
+  "title": "Gravar Áudio",
+  "description": "https://drive.google.com/file/d/1WK3q5CAym9Hl12LOjfiM8XcYItitkxoM/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/gravar-audio.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/gravar-audio",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/gravar-audio",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gravar Áudio"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Enviar Vídeo",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-video"
+  },
+  "next": {
+    "title": "Iniciar Chatbot",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/iniciar-chatbot"
+  }
+}

@@ -1,0 +1,847 @@
+{
+  "/-150": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/-b70": {
+    "__comp": "a7bd4aaa",
+    "__props": "22dd74f7"
+  },
+  "/-94f": {
+    "__comp": "a94703ab"
+  },
+  "/documentacao/ajustes/-9c5": {
+    "__comp": "17896441",
+    "content": "67a4d1a8"
+  },
+  "/documentacao/ajustes/conta/-133": {
+    "__comp": "17896441",
+    "content": "ebd15ff2"
+  },
+  "/documentacao/ajustes/conta/dados-da-conta-7e6": {
+    "__comp": "17896441",
+    "content": "a2f7ff4f"
+  },
+  "/documentacao/ajustes/conta/horario-de-atendimento-4dc": {
+    "__comp": "17896441",
+    "content": "d781e4ac"
+  },
+  "/documentacao/ajustes/conta/processo-de-dar-permissao-para-reconectar-o-numero-345": {
+    "__comp": "17896441",
+    "content": "af63be58"
+  },
+  "/documentacao/ajustes/conta/remover-canal-de-atendimento-921": {
+    "__comp": "17896441",
+    "content": "dffe9986"
+  },
+  "/documentacao/ajustes/equipes/-5ff": {
+    "__comp": "17896441",
+    "content": "5e42b8f7"
+  },
+  "/documentacao/ajustes/equipes/cadastrar-equipe-97a": {
+    "__comp": "17896441",
+    "content": "bf4b8274"
+  },
+  "/documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento-f5f": {
+    "__comp": "17896441",
+    "content": "4bddd10e"
+  },
+  "/documentacao/ajustes/equipes/relacao-de-acessos-x-conversas-362": {
+    "__comp": "17896441",
+    "content": "7c1ff097"
+  },
+  "/documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor-aa3": {
+    "__comp": "17896441",
+    "content": "f4875682"
+  },
+  "/documentacao/ajustes/integracoes/-091": {
+    "__comp": "17896441",
+    "content": "1a767712"
+  },
+  "/documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento-e50": {
+    "__comp": "17896441",
+    "content": "b6b61f6e"
+  },
+  "/documentacao/ajustes/modelo-de-mensagens/-ee1": {
+    "__comp": "17896441",
+    "content": "d02bf97f"
+  },
+  "/documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem-d49": {
+    "__comp": "17896441",
+    "content": "c7fca9ab"
+  },
+  "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-conversa-cobranca-2d0": {
+    "__comp": "17896441",
+    "content": "29dd3da4"
+  },
+  "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem-3f8": {
+    "__comp": "17896441",
+    "content": "f7dabcd4"
+  },
+  "/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem-9b8": {
+    "__comp": "17896441",
+    "content": "57d37caf"
+  },
+  "/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento-ba2": {
+    "__comp": "17896441",
+    "content": "c982a4e0"
+  },
+  "/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens-3bf": {
+    "__comp": "17896441",
+    "content": "b2d829fb"
+  },
+  "/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem-5f0": {
+    "__comp": "17896441",
+    "content": "8b802f08"
+  },
+  "/documentacao/ajustes/usuarios/-ccc": {
+    "__comp": "17896441",
+    "content": "623b7517"
+  },
+  "/documentacao/ajustes/usuarios/cadastrar-usuarios-d7a": {
+    "__comp": "17896441",
+    "content": "41e3698c"
+  },
+  "/documentacao/ajustes/usuarios/editar-foto-do-usuario-959": {
+    "__comp": "17896441",
+    "content": "76b9db7c"
+  },
+  "/documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios-abd": {
+    "__comp": "17896441",
+    "content": "4332ce40"
+  },
+  "/documentacao/apps/-b19": {
+    "__comp": "17896441",
+    "content": "13b078ac"
+  },
+  "/documentacao/apps/agentes-inteligentes/-e62": {
+    "__comp": "17896441",
+    "content": "063faa36"
+  },
+  "/documentacao/apps/agentes-inteligentes/aba-configuracoes-4b8": {
+    "__comp": "17896441",
+    "content": "67207f14"
+  },
+  "/documentacao/apps/agentes-inteligentes/habilidades-b64": {
+    "__comp": "17896441",
+    "content": "41a001bb"
+  },
+  "/documentacao/apps/agentes-inteligentes/indicador-de-digitando-cb2": {
+    "__comp": "17896441",
+    "content": "928bc458"
+  },
+  "/documentacao/apps/agentes-inteligentes/novo-agente-47f": {
+    "__comp": "17896441",
+    "content": "15de3d32"
+  },
+  "/documentacao/apps/agentes-inteligentes/simular-tempo-de-digitacao-7ae": {
+    "__comp": "17896441",
+    "content": "e200b953"
+  },
+  "/documentacao/apps/agentes-inteligentes/versoes-dos-agentes-5bb": {
+    "__comp": "17896441",
+    "content": "bdcbf875"
+  },
+  "/documentacao/apps/campanha/-6be": {
+    "__comp": "17896441",
+    "content": "f1049034"
+  },
+  "/documentacao/apps/campanha/arquivar-campanha-bab": {
+    "__comp": "17896441",
+    "content": "a69699c6"
+  },
+  "/documentacao/apps/campanha/consultar-campanha-f04": {
+    "__comp": "17896441",
+    "content": "a3ca9862"
+  },
+  "/documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha-f69": {
+    "__comp": "17896441",
+    "content": "0872399f"
+  },
+  "/documentacao/apps/campanha/criar-nova-campanha-4f3": {
+    "__comp": "17896441",
+    "content": "b3974e45"
+  },
+  "/documentacao/apps/campanha/exportar-campanha-523": {
+    "__comp": "17896441",
+    "content": "dd37e7e0"
+  },
+  "/documentacao/apps/campanha/gestao-de-permissoes-em-campanhas-f0a": {
+    "__comp": "17896441",
+    "content": "6dc65a2f"
+  },
+  "/documentacao/apps/campanha/riscos-e-custos-da-campanha-d46": {
+    "__comp": "17896441",
+    "content": "d690010e"
+  },
+  "/documentacao/apps/carteirizacao-de-contatos/-7af": {
+    "__comp": "17896441",
+    "content": "ccce970a"
+  },
+  "/documentacao/apps/carteirizacao-de-contatos/habilitar-o-app-3f0": {
+    "__comp": "17896441",
+    "content": "5b9814df"
+  },
+  "/documentacao/apps/chat-interno/-682": {
+    "__comp": "17896441",
+    "content": "26f73d30"
+  },
+  "/documentacao/apps/chat-interno/ativar-e-desativar-funcionalidade-2b5": {
+    "__comp": "17896441",
+    "content": "b6774db9"
+  },
+  "/documentacao/apps/chat-interno/tipos-de-conversa-usuario-x-equipe-x-todos-eb6": {
+    "__comp": "17896441",
+    "content": "4b08dc78"
+  },
+  "/documentacao/apps/chatbot/-e99": {
+    "__comp": "17896441",
+    "content": "44688aaa"
+  },
+  "/documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato-234": {
+    "__comp": "17896441",
+    "content": "02f2979e"
+  },
+  "/documentacao/apps/chatbot/copiar-e-colar-do-chatbot-na-plataforma-17e": {
+    "__comp": "17896441",
+    "content": "0e4ff8c0"
+  },
+  "/documentacao/apps/chatbot/criando-um-chatbot-2b1": {
+    "__comp": "17896441",
+    "content": "e88a557f"
+  },
+  "/documentacao/apps/chatbot/enviar-mensagem-9d5": {
+    "__comp": "17896441",
+    "content": "ebe1c02e"
+  },
+  "/documentacao/apps/chatbot/enviar-pergunta-316": {
+    "__comp": "17896441",
+    "content": "15fe275c"
+  },
+  "/documentacao/apps/chatbot/gatilhos-acf": {
+    "__comp": "17896441",
+    "content": "51054a01"
+  },
+  "/documentacao/apps/chatbot/tipos-de-chatbot-eae": {
+    "__comp": "17896441",
+    "content": "db943891"
+  },
+  "/documentacao/apps/distribuicao-de-atendimentos/-d91": {
+    "__comp": "17896441",
+    "content": "e325e787"
+  },
+  "/documentacao/apps/distribuicao-de-atendimentos/-caf": {
+    "__comp": "17896441",
+    "content": "ca3c998a"
+  },
+  "/documentacao/apps/grupos-do-whatsapp/-f50": {
+    "__comp": "17896441",
+    "content": "243490e3"
+  },
+  "/documentacao/apps/grupos-do-whatsapp/habilitar-o-app-885": {
+    "__comp": "17896441",
+    "content": "ec97ce22"
+  },
+  "/documentacao/apps/mensagens-agendadas/-768": {
+    "__comp": "17896441",
+    "content": "6c05b058"
+  },
+  "/documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm-e42": {
+    "__comp": "17896441",
+    "content": "376c9421"
+  },
+  "/documentacao/apps/mensagens-agendadas/como-gerenciar-os-agendamentos-7a8": {
+    "__comp": "17896441",
+    "content": "a54bd0e4"
+  },
+  "/documentacao/apps/mensagens-agendadas/modelo-para-mensagens-agendadas-266": {
+    "__comp": "17896441",
+    "content": "f9db54d3"
+  },
+  "/documentacao/apps/pagamentos-0c6": {
+    "__comp": "17896441",
+    "content": "ed6f7a8c"
+  },
+  "/documentacao/apps/sequencia/-9c3": {
+    "__comp": "17896441",
+    "content": "48c326a7"
+  },
+  "/documentacao/apps/sequencia/adicionar-etapa-171": {
+    "__comp": "17896441",
+    "content": "cef2b15f"
+  },
+  "/documentacao/apps/sequencia/concluidos-14f": {
+    "__comp": "17896441",
+    "content": "57c0fb0c"
+  },
+  "/documentacao/apps/sequencia/contatos-na-sequencia-2e6": {
+    "__comp": "17896441",
+    "content": "7af2916d"
+  },
+  "/documentacao/apps/sequencia/criar-sequencia-2e0": {
+    "__comp": "17896441",
+    "content": "71f38852"
+  },
+  "/documentacao/apps/sequencia/desabilitar-excluir-sequencia-85c": {
+    "__comp": "17896441",
+    "content": "fd579a5d"
+  },
+  "/documentacao/apps/sequencia/incluir-contato-na-sequencia-928": {
+    "__comp": "17896441",
+    "content": "d8de2f44"
+  },
+  "/documentacao/apps/sequencia/remover-contatos-358": {
+    "__comp": "17896441",
+    "content": "75ef37ea"
+  },
+  "/documentacao/apps/sequencia/sequencias-via-api-e56": {
+    "__comp": "17896441",
+    "content": "1c45170c"
+  },
+  "/documentacao/apps/tempo-de-seguranca-a73": {
+    "__comp": "17896441",
+    "content": "c8960388"
+  },
+  "/documentacao/apps/transcricao-de-audio-com-ia-99b": {
+    "__comp": "17896441",
+    "content": "1522f730"
+  },
+  "/documentacao/atendimento/-577": {
+    "__comp": "17896441",
+    "content": "07129b4b"
+  },
+  "/documentacao/atendimento/comece-aqui/-880": {
+    "__comp": "17896441",
+    "content": "d103fb88"
+  },
+  "/documentacao/atendimento/comece-aqui/abrir-dados-do-contato-516": {
+    "__comp": "17896441",
+    "content": "aa057207"
+  },
+  "/documentacao/atendimento/comece-aqui/acessando-pela-web-29d": {
+    "__comp": "17896441",
+    "content": "5cbb3c43"
+  },
+  "/documentacao/atendimento/comece-aqui/acessando-pelo-app-1dd": {
+    "__comp": "17896441",
+    "content": "efdc410b"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/-08f": {
+    "__comp": "17896441",
+    "content": "0fc7980e"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento-7d5": {
+    "__comp": "17896441",
+    "content": "08cc4af9"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/enviar-audio-80f": {
+    "__comp": "17896441",
+    "content": "73901975"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/enviar-documento-43f": {
+    "__comp": "17896441",
+    "content": "a47253de"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/enviar-imagem-4ae": {
+    "__comp": "17896441",
+    "content": "ce5239dd"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida-4ed": {
+    "__comp": "17896441",
+    "content": "19d94d7a"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem-bc6": {
+    "__comp": "17896441",
+    "content": "369208eb"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/enviar-video-33c": {
+    "__comp": "17896441",
+    "content": "62ae902c"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/gravar-audio-397": {
+    "__comp": "17896441",
+    "content": "e8536153"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/iniciar-chatbot-bb7": {
+    "__comp": "17896441",
+    "content": "914ebb11"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma-72d": {
+    "__comp": "17896441",
+    "content": "41a9e300"
+  },
+  "/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento-b17": {
+    "__comp": "17896441",
+    "content": "b4d5ea6d"
+  },
+  "/documentacao/atendimento/gestao-de-grupos-no-atendimento/-597": {
+    "__comp": "17896441",
+    "content": "e0fd6c88"
+  },
+  "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial-f2c": {
+    "__comp": "17896441",
+    "content": "15740ba0"
+  },
+  "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial-c2b": {
+    "__comp": "17896441",
+    "content": "89ef2b51"
+  },
+  "/documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir-81b": {
+    "__comp": "17896441",
+    "content": "8a0a5d4e"
+  },
+  "/documentacao/atendimento/integracao-atendimento-x-crm/-55e": {
+    "__comp": "17896441",
+    "content": "4cf57ebb"
+  },
+  "/documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1-0a7": {
+    "__comp": "17896441",
+    "content": "a52e353a"
+  },
+  "/documentacao/atendimento/operacoes-de-atendimento/-cf7": {
+    "__comp": "17896441",
+    "content": "36cde8db"
+  },
+  "/documentacao/atendimento/operacoes-de-atendimento/alterar-padrao-de-arquivamento-12h-imediato-fb1": {
+    "__comp": "17896441",
+    "content": "5bf67204"
+  },
+  "/documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento-131": {
+    "__comp": "17896441",
+    "content": "546ecf3b"
+  },
+  "/documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento-f47": {
+    "__comp": "17896441",
+    "content": "398a4376"
+  },
+  "/documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento-4f1": {
+    "__comp": "17896441",
+    "content": "7788c696"
+  },
+  "/documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento-2c8": {
+    "__comp": "17896441",
+    "content": "527e587a"
+  },
+  "/documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento-de3": {
+    "__comp": "17896441",
+    "content": "74ebb533"
+  },
+  "/documentacao/crm/-371": {
+    "__comp": "17896441",
+    "content": "fb7bd449"
+  },
+  "/documentacao/crm/carteiras/-48b": {
+    "__comp": "17896441",
+    "content": "f28e043a"
+  },
+  "/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira-43a": {
+    "__comp": "17896441",
+    "content": "91b2ace0"
+  },
+  "/documentacao/crm/carteiras/criar-uma-nova-carteira-9a8": {
+    "__comp": "17896441",
+    "content": "48496eec"
+  },
+  "/documentacao/crm/carteiras/funcionamento-da-carteirizacao-4ac": {
+    "__comp": "17896441",
+    "content": "d6396e77"
+  },
+  "/documentacao/crm/carteiras/incluir-contato-na-carteira-6a3": {
+    "__comp": "17896441",
+    "content": "b28db235"
+  },
+  "/documentacao/crm/carteiras/permissoes-por-perfil-7a8": {
+    "__comp": "17896441",
+    "content": "6e26b46f"
+  },
+  "/documentacao/crm/contato/-0a8": {
+    "__comp": "17896441",
+    "content": "918ef5b9"
+  },
+  "/documentacao/crm/contato/bloquear-ou-arquivar-contato-b62": {
+    "__comp": "17896441",
+    "content": "307dae58"
+  },
+  "/documentacao/crm/contato/cadastrar-contato-9f1": {
+    "__comp": "17896441",
+    "content": "4d06c737"
+  },
+  "/documentacao/crm/contato/editar-campos-personalizados-d80": {
+    "__comp": "17896441",
+    "content": "7c2c21a8"
+  },
+  "/documentacao/crm/contato/exportar-base-de-contatos-fc5": {
+    "__comp": "17896441",
+    "content": "a5e1982e"
+  },
+  "/documentacao/crm/contato/gerenciar-etiquetas/-46d": {
+    "__comp": "17896441",
+    "content": "fbaa4fe8"
+  },
+  "/documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas-dee": {
+    "__comp": "17896441",
+    "content": "952b7b6f"
+  },
+  "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-6cc": {
+    "__comp": "17896441",
+    "content": "397cf727"
+  },
+  "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1-4c7": {
+    "__comp": "17896441",
+    "content": "6b0e4bac"
+  },
+  "/documentacao/crm/contato/importacao-de-contatos-424": {
+    "__comp": "17896441",
+    "content": "f1dd5b6e"
+  },
+  "/documentacao/crm/contato/pesquisar-contato-d6f": {
+    "__comp": "17896441",
+    "content": "8d3714ac"
+  },
+  "/documentacao/crm/paineis/-502": {
+    "__comp": "17896441",
+    "content": "dc23519d"
+  },
+  "/documentacao/crm/paineis/gestao-4dc": {
+    "__comp": "17896441",
+    "content": "bdff1077"
+  },
+  "/documentacao/crm/paineis/primeiros-passos-de8": {
+    "__comp": "17896441",
+    "content": "f8681022"
+  },
+  "/documentacao/crm/paineis/tipos-de-painel-1ae": {
+    "__comp": "17896441",
+    "content": "c1f7477d"
+  },
+  "/documentacao/crm/paineis/vendas-03f": {
+    "__comp": "17896441",
+    "content": "626b5aff"
+  },
+  "/documentacao/faq/-bc5": {
+    "__comp": "17896441",
+    "content": "f6ca0076"
+  },
+  "/documentacao/faq/conexao-whatsapp/-653": {
+    "__comp": "17896441",
+    "content": "3890659b"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/-2ac": {
+    "__comp": "17896441",
+    "content": "90a7f0ea"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio-9cd": {
+    "__comp": "17896441",
+    "content": "dbf8d7a0"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code-cf8": {
+    "__comp": "17896441",
+    "content": "f3bf6312"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/-9e3": {
+    "__comp": "17896441",
+    "content": "377e74fe"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name-8b5": {
+    "__comp": "17896441",
+    "content": "3c837e10"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-perfil-do-whatsapp-81b": {
+    "__comp": "17896441",
+    "content": "4ff093fc"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/configuracoes-whatsapp-49d": {
+    "__comp": "17896441",
+    "content": "edbe4f3a"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/portabilidade-de-numero-435": {
+    "__comp": "17896441",
+    "content": "2e3c42c2"
+  },
+  "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio-d21": {
+    "__comp": "17896441",
+    "content": "08c504c1"
+  },
+  "/documentacao/faq/conexao-whatsapp/erros-e-problemas/-442": {
+    "__comp": "17896441",
+    "content": "9845bbc2"
+  },
+  "/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte-bfc": {
+    "__comp": "17896441",
+    "content": "198ceec6"
+  },
+  "/documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta-e45": {
+    "__comp": "17896441",
+    "content": "f36bf212"
+  },
+  "/documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento-fb2": {
+    "__comp": "17896441",
+    "content": "042716ae"
+  },
+  "/documentacao/faq/conexao-whatsapp/pagamentos/-f08": {
+    "__comp": "17896441",
+    "content": "9e94558f"
+  },
+  "/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento-46a": {
+    "__comp": "17896441",
+    "content": "8e577830"
+  },
+  "/documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento-0bd": {
+    "__comp": "17896441",
+    "content": "34a0723e"
+  },
+  "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/-00b": {
+    "__comp": "17896441",
+    "content": "8bb21025"
+  },
+  "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio-53c": {
+    "__comp": "17896441",
+    "content": "382c698b"
+  },
+  "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial-768": {
+    "__comp": "17896441",
+    "content": "daf3988c"
+  },
+  "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores-6d8": {
+    "__comp": "17896441",
+    "content": "5b2a6702"
+  },
+  "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores-2c8": {
+    "__comp": "17896441",
+    "content": "e303205d"
+  },
+  "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio-c10": {
+    "__comp": "17896441",
+    "content": "0c901731"
+  },
+  "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial-430": {
+    "__comp": "17896441",
+    "content": "ce40c52f"
+  },
+  "/documentacao/faq/instagram-messenger/-c52": {
+    "__comp": "17896441",
+    "content": "9b13c833"
+  },
+  "/documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger-4f8": {
+    "__comp": "17896441",
+    "content": "31da28a4"
+  },
+  "/documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam-822": {
+    "__comp": "17896441",
+    "content": "9f02140a"
+  },
+  "/documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger-f8e": {
+    "__comp": "17896441",
+    "content": "7ac2bb32"
+  },
+  "/documentacao/outros/-39e": {
+    "__comp": "17896441",
+    "content": "d0ecc379"
+  },
+  "/documentacao/outros/alterar-informacoes-do-meu-usuario-a3f": {
+    "__comp": "17896441",
+    "content": "06324b05"
+  },
+  "/documentacao/outros/como-alternar-entre-contas-na-plataforma-713": {
+    "__comp": "17896441",
+    "content": "85140233"
+  },
+  "/documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma-32b": {
+    "__comp": "17896441",
+    "content": "697cc64b"
+  },
+  "/documentacao/relatorios/-e34": {
+    "__comp": "17896441",
+    "content": "77290518"
+  },
+  "/documentacao/relatorios/atendimento/-aae": {
+    "__comp": "17896441",
+    "content": "f79b1413"
+  },
+  "/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa-14e": {
+    "__comp": "17896441",
+    "content": "30c38253"
+  },
+  "/documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma-3a9": {
+    "__comp": "17896441",
+    "content": "2c04fae9"
+  },
+  "/documentacao/relatorios/atendimento/como-exportar-relatorio-na-plataforma-b0c": {
+    "__comp": "17896441",
+    "content": "090e01ce"
+  },
+  "/documentacao/relatorios/consumo-de-infraestrutura-0a6": {
+    "__comp": "17896441",
+    "content": "34fc462e"
+  },
+  "/faq/mensagens-waiting-message-732": {
+    "__comp": "17896441",
+    "content": "b90b0e7f"
+  },
+  "/faq/numero-privado-lid-e-unificacao-de-contatos-287": {
+    "__comp": "17896441",
+    "content": "5f10204c"
+  },
+  "/faq/rate-limit-api-nao-oficial-2ba": {
+    "__comp": "17896441",
+    "content": "a3605c52"
+  },
+  "/faq/status-de-integridade-do-canal-5fa": {
+    "__comp": "17896441",
+    "content": "def9c21c"
+  },
+  "/novidades-do-sistema/-9f8": {
+    "__comp": "17896441",
+    "content": "661ef9e0"
+  },
+  "/novidades-do-sistema/abril-de-2026/-3a7": {
+    "__comp": "17896441",
+    "content": "9182c040"
+  },
+  "/novidades-do-sistema/abril-de-2026/02-04-2026-75d": {
+    "__comp": "17896441",
+    "content": "1555a455"
+  },
+  "/novidades-do-sistema/abril-de-2026/17-04-2026-app-2.1.34-ae6": {
+    "__comp": "17896441",
+    "content": "3a930936"
+  },
+  "/novidades-do-sistema/fevereiro-de-2026/-63c": {
+    "__comp": "17896441",
+    "content": "e54e0f92"
+  },
+  "/novidades-do-sistema/fevereiro-de-2026/04-02-2026-a74": {
+    "__comp": "17896441",
+    "content": "fb5fbd77"
+  },
+  "/novidades-do-sistema/fevereiro-de-2026/12-02-2026-10b": {
+    "__comp": "17896441",
+    "content": "ba0c7af1"
+  },
+  "/novidades-do-sistema/fevereiro-de-2026/20-02-2026-f76": {
+    "__comp": "17896441",
+    "content": "be6b5dd5"
+  },
+  "/novidades-do-sistema/fevereiro-de-2026/26-02-2026-1c8": {
+    "__comp": "17896441",
+    "content": "a94010c1"
+  },
+  "/novidades-do-sistema/fevereiro-de-2026/27-02-2026-341": {
+    "__comp": "17896441",
+    "content": "e6e8c660"
+  },
+  "/novidades-do-sistema/janeiro-de-2026/-19c": {
+    "__comp": "17896441",
+    "content": "eadebf27"
+  },
+  "/novidades-do-sistema/janeiro-de-2026/02-01-2026-5fa": {
+    "__comp": "17896441",
+    "content": "257ad581"
+  },
+  "/novidades-do-sistema/janeiro-de-2026/07-01-2026-95e": {
+    "__comp": "17896441",
+    "content": "ee3ede16"
+  },
+  "/novidades-do-sistema/janeiro-de-2026/19-01-2026-d56": {
+    "__comp": "17896441",
+    "content": "7e2db050"
+  },
+  "/novidades-do-sistema/janeiro-de-2026/21-01-2026-174": {
+    "__comp": "17896441",
+    "content": "73b67793"
+  },
+  "/novidades-do-sistema/janeiro-de-2026/21-01-2026-api-94d": {
+    "__comp": "17896441",
+    "content": "ada35ee1"
+  },
+  "/novidades-do-sistema/janeiro-de-2026/22-01-2026-921": {
+    "__comp": "17896441",
+    "content": "31893c98"
+  },
+  "/novidades-do-sistema/janeiro-de-2026/28-01-2026-a7f": {
+    "__comp": "17896441",
+    "content": "178708d8"
+  },
+  "/novidades-do-sistema/junho-de-2026/-803": {
+    "__comp": "17896441",
+    "content": "4dc4e847"
+  },
+  "/novidades-do-sistema/junho-de-2026/03-06-2026-499": {
+    "__comp": "17896441",
+    "content": "fd112450"
+  },
+  "/novidades-do-sistema/maio-de-2026/-bda": {
+    "__comp": "17896441",
+    "content": "15e0eb11"
+  },
+  "/novidades-do-sistema/maio-de-2026/06-05-2026-bfa": {
+    "__comp": "17896441",
+    "content": "dc9bc75e"
+  },
+  "/novidades-do-sistema/maio-de-2026/12-05-2026-2dc": {
+    "__comp": "17896441",
+    "content": "67c416d5"
+  },
+  "/novidades-do-sistema/maio-de-2026/13-05-2026-d01": {
+    "__comp": "17896441",
+    "content": "65918914"
+  },
+  "/novidades-do-sistema/maio-de-2026/14-05-2026-envio-de-audios-como-mensagem-de-voz-220": {
+    "__comp": "17896441",
+    "content": "892567d7"
+  },
+  "/novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas-427": {
+    "__comp": "17896441",
+    "content": "2327c630"
+  },
+  "/novidades-do-sistema/maio-de-2026/20-05-2026-3d9": {
+    "__comp": "17896441",
+    "content": "9caf7187"
+  },
+  "/novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot-98e": {
+    "__comp": "17896441",
+    "content": "7075f912"
+  },
+  "/novidades-do-sistema/maio-de-2026/22-05-2026-gatilhos-no-chatbot-a38": {
+    "__comp": "17896441",
+    "content": "4910b0f4"
+  },
+  "/novidades-do-sistema/maio-de-2026/27-05-2026-dd9": {
+    "__comp": "17896441",
+    "content": "4d2ee785"
+  },
+  "/novidades-do-sistema/maio-de-2026/29-05-2026-api-crm-de-vendas-a25": {
+    "__comp": "17896441",
+    "content": "f7c21887"
+  },
+  "/novidades-do-sistema/maio-de-2026/29-05-2026-crm-de-vendas-2b9": {
+    "__comp": "17896441",
+    "content": "84b66ba1"
+  },
+  "/novidades-do-sistema/marco-de-2026/-02d": {
+    "__comp": "17896441",
+    "content": "d6597a3e"
+  },
+  "/novidades-do-sistema/marco-de-2026/12-03-2026-ee9": {
+    "__comp": "17896441",
+    "content": "68dbf4ad"
+  },
+  "/novidades-do-sistema/marco-de-2026/12-03-2026-filtros-de-webhooks-e50": {
+    "__comp": "17896441",
+    "content": "dc72f751"
+  },
+  "/novidades-do-sistema/marco-de-2026/18-03-2026-b27": {
+    "__comp": "17896441",
+    "content": "3fd6af34"
+  },
+  "/novidades-do-sistema/marco-de-2026/25-03-2026-72b": {
+    "__comp": "17896441",
+    "content": "536c0ad1"
+  },
+  "/-c02": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  }
+}

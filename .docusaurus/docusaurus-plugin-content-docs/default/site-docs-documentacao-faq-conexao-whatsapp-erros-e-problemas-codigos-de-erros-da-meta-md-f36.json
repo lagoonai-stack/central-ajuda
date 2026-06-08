@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta",
+  "title": "Códigos de Erros",
+  "description": "Ao integrar ou utilizar serviços da Meta, alguns códigos de erro podem ser retornados pela plataforma. Neste artigo, você encontrará a descrição desses códigos e orientações para entender suas causas e possíveis soluções.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/erros-e-problemas",
+  "slug": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta",
+  "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Códigos de Erros"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Página de suporte",
+    "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte"
+  },
+  "next": {
+    "title": "Revisão de banimento",
+    "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento"
+  }
+}

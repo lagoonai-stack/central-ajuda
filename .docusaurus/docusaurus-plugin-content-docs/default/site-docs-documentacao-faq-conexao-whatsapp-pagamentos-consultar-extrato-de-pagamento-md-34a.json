@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento",
+  "title": "Extrato",
+  "description": "A Meta Business permite acompanhar os custos das conversas realizadas através da API oficial do WhatsApp. Consultar o extrato de pagamento é essencial para monitorar os gastos e garantir um melhor controle financeiro dentro da plataforma. Neste guia, você aprenderá como acessar e visualizar os detalhes do extrato de pagamento de conversas na Meta Business.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/pagamentos",
+  "slug": "/documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento",
+  "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Extrato"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Configurar",
+    "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento"
+  },
+  "next": {
+    "title": "Portfólio Empresarial",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/"
+  }
+}

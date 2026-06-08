@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/index",
+  "title": "WhatsApp (oficial)",
+  "description": "Esta seção contém guias para conectar seu número de WhatsApp à plataforma através da API Oficial da Meta. Você encontrará informações sobre os diferentes métodos de conexão (QR Code e Cloud API), além de instruções para gerenciar e remover conexões existentes.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/index.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp",
+  "slug": "/documentacao/faq/conexao-whatsapp/",
+  "permalink": "/documentacao/faq/conexao-whatsapp/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WhatsApp (oficial)"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Comece Aqui",
+    "permalink": "/documentacao/faq/"
+  },
+  "next": {
+    "title": "CloudAPI QR Code",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/"
+  }
+}

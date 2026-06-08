@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm",
+  "title": "Agendamentos pelo CRM",
+  "description": "Como Agendar uma Mensagem Diretamente pelo Card do CRM",
+  "source": "@site/docs/documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm.md",
+  "sourceDirName": "documentacao/apps/mensagens-agendadas",
+  "slug": "/documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm",
+  "permalink": "/documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Agendamentos pelo CRM"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Mensagens Agendadas",
+    "permalink": "/documentacao/apps/mensagens-agendadas/"
+  },
+  "next": {
+    "title": "Como Gerenciar os Agendamentos",
+    "permalink": "/documentacao/apps/mensagens-agendadas/como-gerenciar-os-agendamentos"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "faq/status-de-integridade-do-canal",
+  "title": "Status de Integridade do Canal",
+  "description": "O campo de Integridade funciona como um monitor de saúde em tempo real para a sua conexão de WhatsApp. Ele permite que os administradores saibam rapidamente se o canal está operando de forma correta ou se o sistema está lidando com alguma instabilidade técnica.",
+  "source": "@site/docs/faq/status-de-integridade-do-canal.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/status-de-integridade-do-canal",
+  "permalink": "/faq/status-de-integridade-do-canal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Status de Integridade do Canal"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Rate Limit da API Não Oficial do WhatsApp",
+    "permalink": "/faq/rate-limit-api-nao-oficial"
+  },
+  "next": {
+    "title": "Novidades do Sistema",
+    "permalink": "/novidades-do-sistema/"
+  }
+}

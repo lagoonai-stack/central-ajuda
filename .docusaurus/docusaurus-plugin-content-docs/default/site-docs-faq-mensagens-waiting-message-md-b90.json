@@ -1,0 +1,25 @@
+{
+  "id": "faq/mensagens-waiting-message",
+  "title": "Mensagem 'Aguardando Mensagem'",
+  "description": "Este artigo explica por que algumas mensagens recebidas aparecem como \"Aguardando Mensagem\" ou \"waitingMessage\" na plataforma e como resolver esse problema.",
+  "source": "@site/docs/faq/mensagens-waiting-message.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/mensagens-waiting-message",
+  "permalink": "/faq/mensagens-waiting-message",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mensagem 'Aguardando Mensagem'"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Consumo de Infraestrutura",
+    "permalink": "/documentacao/relatorios/consumo-de-infraestrutura"
+  },
+  "next": {
+    "title": "Número Privado (LID) e Unificação de Contatos",
+    "permalink": "/faq/numero-privado-lid-e-unificacao-de-contatos"
+  }
+}

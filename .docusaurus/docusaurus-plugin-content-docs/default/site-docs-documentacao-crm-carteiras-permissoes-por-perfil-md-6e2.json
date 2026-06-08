@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/carteiras/permissoes-por-perfil",
+  "title": "Permissões por Perfil",
+  "description": "A visibilidade dos contatos e as permissões de gerenciamento de carteiras variam conforme o perfil do usuário na plataforma e as configurações ativas no aplicativo de Carteirização de Contatos. Este artigo explica como cada perfil se comporta para que você configure sua operação da forma mais adequada.",
+  "source": "@site/docs/documentacao/crm/carteiras/permissoes-por-perfil.md",
+  "sourceDirName": "documentacao/crm/carteiras",
+  "slug": "/documentacao/crm/carteiras/permissoes-por-perfil",
+  "permalink": "/documentacao/crm/carteiras/permissoes-por-perfil",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Permissões por Perfil"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Incluir e Remover Contatos da Carteira",
+    "permalink": "/documentacao/crm/carteiras/incluir-contato-na-carteira"
+  },
+  "next": {
+    "title": "Contato",
+    "permalink": "/documentacao/crm/contato/"
+  }
+}

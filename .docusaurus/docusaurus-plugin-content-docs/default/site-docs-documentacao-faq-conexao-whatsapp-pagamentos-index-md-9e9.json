@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/pagamentos/index",
+  "title": "Pagamentos",
+  "description": "Esta seção contém guias para configurar e gerenciar os pagamentos relacionados ao uso da API Oficial do WhatsApp Business, incluindo a configuração de formas de pagamento e a consulta de extratos de pagamento de conversas.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/pagamentos/index.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/pagamentos",
+  "slug": "/documentacao/faq/conexao-whatsapp/pagamentos/",
+  "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pagamentos"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Revisão de banimento",
+    "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento"
+  },
+  "next": {
+    "title": "Configurar",
+    "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento"
+  }
+}

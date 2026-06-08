@@ -1,0 +1,25 @@
+{
+  "id": "novidades-do-sistema/maio-de-2026/29-05-2026-crm-de-vendas",
+  "title": "29/05/2026 - CRM de Vendas",
+  "description": "✨ Novo: CRM de Vendas",
+  "source": "@site/docs/novidades-do-sistema/maio-de-2026/29-05-2026-crm-de-vendas.md",
+  "sourceDirName": "novidades-do-sistema/maio-de-2026",
+  "slug": "/novidades-do-sistema/maio-de-2026/29-05-2026-crm-de-vendas",
+  "permalink": "/novidades-do-sistema/maio-de-2026/29-05-2026-crm-de-vendas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "29/05/2026 - CRM de Vendas"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "29/05/2026 - API CRM de Vendas",
+    "permalink": "/novidades-do-sistema/maio-de-2026/29-05-2026-api-crm-de-vendas"
+  },
+  "next": {
+    "title": "Março de 2026",
+    "permalink": "/novidades-do-sistema/marco-de-2026/"
+  }
+}

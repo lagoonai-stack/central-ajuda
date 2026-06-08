@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/index",
+  "title": "Portfólio Empresarial",
+  "description": "O Portfólio Empresarial (Meta Business Manager) é uma plataforma centralizada para gerenciar todos os ativos digitais da sua empresa, incluindo páginas do Facebook, contas de anúncios, contas do Instagram, contas de WhatsApp e catálogos de produtos. Esta seção contém guias para criar, configurar e gerenciar seu portfólio empresarial.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/portfolio-empresarial/index.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/portfolio-empresarial",
+  "slug": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/",
+  "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Portfólio Empresarial"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Extrato",
+    "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento"
+  },
+  "next": {
+    "title": "Alterar logomarca do portfólio",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio"
+  }
+}

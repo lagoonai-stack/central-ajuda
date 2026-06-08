@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/paineis/gestao",
+  "title": "Gestão",
+  "description": "O CRM de Gestão é o módulo para operações de pós-venda da plataforma. Com ele, você organiza e acompanha atendimentos, chamados e fluxos de trabalho do time de suporte, CS e atendimento ao cliente — de forma visual, estruturada e adaptada à realidade da sua operação.",
+  "source": "@site/docs/documentacao/crm/paineis/gestao.md",
+  "sourceDirName": "documentacao/crm/paineis",
+  "slug": "/documentacao/crm/paineis/gestao",
+  "permalink": "/documentacao/crm/paineis/gestao",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gestão"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Painéis",
+    "permalink": "/documentacao/crm/paineis/"
+  },
+  "next": {
+    "title": "Primeiros passos",
+    "permalink": "/documentacao/crm/paineis/primeiros-passos"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa",
+  "title": "Como concluir atendimentos em massa",
+  "description": "Gerenciar um grande volume de atendimentos pode ser um desafio para as equipes. Para facilitar esse processo, a plataforma oferece a funcionalidade de conclusão em massa, permitindo que múltiplos atendimentos sejam finalizados de forma rápida e eficiente.",
+  "source": "@site/docs/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa.md",
+  "sourceDirName": "documentacao/relatorios/atendimento",
+  "slug": "/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa",
+  "permalink": "/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Como concluir atendimentos em massa"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Atendimento",
+    "permalink": "/documentacao/relatorios/atendimento/"
+  },
+  "next": {
+    "title": "Como exportar mensagens na plataforma",
+    "permalink": "/documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma"
+  }
+}

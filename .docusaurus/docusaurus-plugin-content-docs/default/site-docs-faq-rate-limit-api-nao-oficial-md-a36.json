@@ -1,0 +1,25 @@
+{
+  "id": "faq/rate-limit-api-nao-oficial",
+  "title": "Rate Limit da API Não Oficial do WhatsApp",
+  "description": "Para proteger a estabilidade da conexão e evitar bloqueios pelo WhatsApp, a plataforma aplica um controle automático de velocidade de envio nas conexões de API Não Oficial. Esse mecanismo é chamado de rate limit e define quantas mensagens podem ser disparadas por canal em um determinado intervalo de tempo.",
+  "source": "@site/docs/faq/rate-limit-api-nao-oficial.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/rate-limit-api-nao-oficial",
+  "permalink": "/faq/rate-limit-api-nao-oficial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Rate Limit da API Não Oficial do WhatsApp"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Número Privado (LID) e Unificação de Contatos",
+    "permalink": "/faq/numero-privado-lid-e-unificacao-de-contatos"
+  },
+  "next": {
+    "title": "Status de Integridade do Canal",
+    "permalink": "/faq/status-de-integridade-do-canal"
+  }
+}

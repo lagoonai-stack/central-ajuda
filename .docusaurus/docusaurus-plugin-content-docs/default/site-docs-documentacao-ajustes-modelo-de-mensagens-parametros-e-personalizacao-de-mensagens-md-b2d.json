@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens",
+  "title": "Parâmetros e personalização de mensagens",
+  "description": "A personalização de mensagens permite que as empresas criem comunicações mais relevantes e direcionadas para seus clientes, utilizando dados como nome, CPF e endereço. Essa abordagem melhora o engajamento e a satisfação do cliente, tornando as interações mais naturais e eficazes.",
+  "source": "@site/docs/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens.md",
+  "sourceDirName": "documentacao/ajustes/modelo-de-mensagens",
+  "slug": "/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens",
+  "permalink": "/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Parâmetros e personalização de mensagens"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Mensagens com botões, imagem, vídeo e documento",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento"
+  },
+  "next": {
+    "title": "Tipos de modelo de mensagem",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem"
+  }
+}

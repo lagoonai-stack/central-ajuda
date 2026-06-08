@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/usuarios/index",
+  "title": "Usuários",
+  "description": "A funcionalidade Usuários permite gerenciar os acessos à plataforma, garantindo que cada membro da equipe tenha permissões adequadas às suas funções. Com essa ferramenta, é possível adicionar, remover e editar usuários, além de definir diferentes níveis de acesso, garantindo segurança e controle sobre as informações. Dessa forma, a empresa pode organizar melhor sua equipe, permitindo que apenas pessoas autorizadas realizem determinadas ações dentro da plataforma.",
+  "source": "@site/docs/documentacao/ajustes/usuarios/index.md",
+  "sourceDirName": "documentacao/ajustes/usuarios",
+  "slug": "/documentacao/ajustes/usuarios/",
+  "permalink": "/documentacao/ajustes/usuarios/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Usuários"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Tipos de modelo de mensagem",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem"
+  },
+  "next": {
+    "title": "Cadastrar usuários",
+    "permalink": "/documentacao/ajustes/usuarios/cadastrar-usuarios"
+  }
+}

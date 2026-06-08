@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira",
+  "title": "Alterar ou Excluir uma Carteira",
+  "description": "https://drive.google.com/file/d/11yvWcQHG49fAuabvuSNfesYppaOadtoz/view?usp=drivelink",
+  "source": "@site/docs/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira.md",
+  "sourceDirName": "documentacao/crm/carteiras",
+  "slug": "/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira",
+  "permalink": "/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Alterar ou Excluir uma Carteira"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Carteiras",
+    "permalink": "/documentacao/crm/carteiras/"
+  },
+  "next": {
+    "title": "Criar uma Nova Carteira",
+    "permalink": "/documentacao/crm/carteiras/criar-uma-nova-carteira"
+  }
+}

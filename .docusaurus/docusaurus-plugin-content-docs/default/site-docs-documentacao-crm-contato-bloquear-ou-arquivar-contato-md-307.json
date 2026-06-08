@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/bloquear-ou-arquivar-contato",
+  "title": "Bloquear ou Arquivar contato",
+  "description": "Gerenciar contatos de maneira eficiente inclui a possibilidade de bloquear ou arquivar contatos que não são mais ativos ou relevantes. A plataforma oferece funcionalidades que permitem bloquear ou arquivar contatos, garantindo uma organização adequada do seu banco de dados. Este guia irá detalhar como realizar esses processos.",
+  "source": "@site/docs/documentacao/crm/contato/bloquear-ou-arquivar-contato.md",
+  "sourceDirName": "documentacao/crm/contato",
+  "slug": "/documentacao/crm/contato/bloquear-ou-arquivar-contato",
+  "permalink": "/documentacao/crm/contato/bloquear-ou-arquivar-contato",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bloquear ou Arquivar contato"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Contato",
+    "permalink": "/documentacao/crm/contato/"
+  },
+  "next": {
+    "title": "Cadastrar contato",
+    "permalink": "/documentacao/crm/contato/cadastrar-contato"
+  }
+}

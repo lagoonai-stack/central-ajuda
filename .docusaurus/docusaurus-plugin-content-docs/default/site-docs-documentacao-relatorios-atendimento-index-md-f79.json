@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/relatorios/atendimento/index",
+  "title": "Atendimento",
+  "description": "A seção Atendimentos dentro do módulo Relatórios da plataforma permite acompanhar detalhadamente o desempenho da equipe no suporte e no relacionamento com os clientes. Com ele, você pode visualizar métricas como número de atendimentos realizados, tempo médio de resposta, satisfação dos clientes e eficiência na resolução de demandas. Essas informações ajudam a identificar gargalos, aprimorar processos e garantir um atendimento mais ágil e eficaz, contribuindo para uma melhor experiência do cliente.",
+  "source": "@site/docs/documentacao/relatorios/atendimento/index.md",
+  "sourceDirName": "documentacao/relatorios/atendimento",
+  "slug": "/documentacao/relatorios/atendimento/",
+  "permalink": "/documentacao/relatorios/atendimento/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Relatórios",
+    "permalink": "/documentacao/relatorios/"
+  },
+  "next": {
+    "title": "Como concluir atendimentos em massa",
+    "permalink": "/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa"
+  }
+}

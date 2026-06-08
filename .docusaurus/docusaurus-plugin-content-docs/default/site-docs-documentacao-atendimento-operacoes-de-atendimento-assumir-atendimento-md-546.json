@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento",
+  "title": "Assumir Atendimento",
+  "description": "https://drive.google.com/file/d/1DqXcygXDnXw6SYr0rMZRP7Jlb7UNPoxM/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento.md",
+  "sourceDirName": "documentacao/atendimento/operacoes-de-atendimento",
+  "slug": "/documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento",
+  "permalink": "/documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Assumir Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Preferências de Arquivamento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/alterar-padrao-de-arquivamento-12h-imediato"
+  },
+  "next": {
+    "title": "Concluir e Classificar Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento"
+  }
+}

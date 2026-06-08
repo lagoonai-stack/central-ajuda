@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento",
+  "title": "Botão do WhatsApp e tag de rastreamento",
+  "description": "A plataforma permite a personalização e otimização do atendimento ao cliente por meio da integração de botões interativos. Entre as opções disponíveis, destacam-se os botões Flutuante e CTA (Call to Action), que oferecem diferentes abordagens para facilitar a interação do usuário com a empresa.",
+  "source": "@site/docs/documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento.md",
+  "sourceDirName": "documentacao/ajustes/integracoes",
+  "slug": "/documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento",
+  "permalink": "/documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Botão do WhatsApp e tag de rastreamento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Integrações",
+    "permalink": "/documentacao/ajustes/integracoes/"
+  },
+  "next": {
+    "title": "Modelo de Mensagens",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/"
+  }
+}

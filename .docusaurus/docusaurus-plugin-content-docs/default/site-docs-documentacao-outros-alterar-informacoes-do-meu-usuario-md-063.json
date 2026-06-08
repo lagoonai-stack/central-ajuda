@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/outros/alterar-informacoes-do-meu-usuario",
+  "title": "Alterar Informações do Meu Usuário",
+  "description": "Manter os dados do seu usuário atualizados na a plataforma é essencial para garantir uma experiência personalizada e segura na plataforma. Neste artigo, explicaremos como você pode alterar suas informações de usuário de maneira rápida e simples.",
+  "source": "@site/docs/documentacao/outros/alterar-informacoes-do-meu-usuario.md",
+  "sourceDirName": "documentacao/outros",
+  "slug": "/documentacao/outros/alterar-informacoes-do-meu-usuario",
+  "permalink": "/documentacao/outros/alterar-informacoes-do-meu-usuario",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Alterar Informações do Meu Usuário"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Outros",
+    "permalink": "/documentacao/outros/"
+  },
+  "next": {
+    "title": "Como Alternar Entre Contas na plataforma",
+    "permalink": "/documentacao/outros/como-alternar-entre-contas-na-plataforma"
+  }
+}

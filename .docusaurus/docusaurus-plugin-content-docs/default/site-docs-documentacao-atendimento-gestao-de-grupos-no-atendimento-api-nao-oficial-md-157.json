@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial",
+  "title": "Criar Grupos (API Não Oficial)",
+  "description": "https://drive.google.com/file/d/1ARa-6zPqPXSmzFQl1t4SrcxUKh86KG9d/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial.md",
+  "sourceDirName": "documentacao/atendimento/gestao-de-grupos-no-atendimento",
+  "slug": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial",
+  "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Criar Grupos (API Não Oficial)"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Grupos do Whatsapp",
+    "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/"
+  },
+  "next": {
+    "title": "Criar Grupos (API Oficial)",
+    "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial"
+  }
+}

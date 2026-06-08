@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/paineis/tipos-de-painel",
+  "title": "Tipos de Painel",
+  "description": "Ao criar um novo painel no CRM, você escolhe entre dois tipos: Vendas e Gestão. Essa escolha define o comportamento do painel, as funcionalidades disponíveis e como a equipe registra os desfechos das negociações.",
+  "source": "@site/docs/documentacao/crm/paineis/tipos-de-painel.md",
+  "sourceDirName": "documentacao/crm/paineis",
+  "slug": "/documentacao/crm/paineis/tipos-de-painel",
+  "permalink": "/documentacao/crm/paineis/tipos-de-painel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tipos de Painel"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Primeiros passos",
+    "permalink": "/documentacao/crm/paineis/primeiros-passos"
+  },
+  "next": {
+    "title": "Vendas",
+    "permalink": "/documentacao/crm/paineis/vendas"
+  }
+}

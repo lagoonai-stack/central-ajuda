@@ -1,0 +1,25 @@
+{
+  "id": "novidades-do-sistema/index",
+  "title": "Novidades do Sistema",
+  "description": "- Junho de 2026",
+  "source": "@site/docs/novidades-do-sistema/index.md",
+  "sourceDirName": "novidades-do-sistema",
+  "slug": "/novidades-do-sistema/",
+  "permalink": "/novidades-do-sistema/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Novidades do Sistema"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Status de Integridade do Canal",
+    "permalink": "/faq/status-de-integridade-do-canal"
+  },
+  "next": {
+    "title": "Abril de 2026",
+    "permalink": "/novidades-do-sistema/abril-de-2026/"
+  }
+}

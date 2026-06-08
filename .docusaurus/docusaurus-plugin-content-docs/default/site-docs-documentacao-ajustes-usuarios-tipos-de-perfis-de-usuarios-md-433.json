@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios",
+  "title": "Tipos de perfis de usuários",
+  "description": "Neste artigo, você encontrará informações detalhadas sobre os diferentes tipos de perfis de usuários disponíveis na nossa plataforma. Entender os diversos perfis de usuários e suas permissões é essencial para gerenciar de forma eficiente e segura a utilização dos recursos da nossa plataforma.",
+  "source": "@site/docs/documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios.md",
+  "sourceDirName": "documentacao/ajustes/usuarios",
+  "slug": "/documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios",
+  "permalink": "/documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tipos de perfis de usuários"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Editar foto do usuário",
+    "permalink": "/documentacao/ajustes/usuarios/editar-foto-do-usuario"
+  },
+  "next": {
+    "title": "Apps",
+    "permalink": "/documentacao/apps/"
+  }
+}

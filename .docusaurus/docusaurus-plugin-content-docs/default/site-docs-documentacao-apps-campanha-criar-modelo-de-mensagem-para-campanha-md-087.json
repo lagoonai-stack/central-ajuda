@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha",
+  "title": "Criar modelo de mensagem para campanha",
+  "description": "Criar e utilizar modelos de mensagem do tipo campanha na plataforma é fundamental para automatizar e padronizar a comunicação com seus clientes. Esses modelos podem ser usados para campanhas de marketing, notificações, atualizações e muito mais, garantindo que sua mensagem seja consistente e profissional.",
+  "source": "@site/docs/documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha.md",
+  "sourceDirName": "documentacao/apps/campanha",
+  "slug": "/documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha",
+  "permalink": "/documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Criar modelo de mensagem para campanha"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Consultar campanha",
+    "permalink": "/documentacao/apps/campanha/consultar-campanha"
+  },
+  "next": {
+    "title": "Criar nova campanha",
+    "permalink": "/documentacao/apps/campanha/criar-nova-campanha"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/sequencia/index",
+  "title": "Sequência",
+  "description": "O módulo Sequências permite automatizar o acompanhamento de contatos sem esforço manual. Com ele, você configura fluxos de mensagens com intervalos e condições personalizadas — garantindo que cada cliente receba a comunicação certa, no momento certo, sem depender de ações repetitivas da equipe.",
+  "source": "@site/docs/documentacao/apps/sequencia/index.md",
+  "sourceDirName": "documentacao/apps/sequencia",
+  "slug": "/documentacao/apps/sequencia/",
+  "permalink": "/documentacao/apps/sequencia/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sequência"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Pagamentos",
+    "permalink": "/documentacao/apps/pagamentos"
+  },
+  "next": {
+    "title": "Adicionar Etapa",
+    "permalink": "/documentacao/apps/sequencia/adicionar-etapa"
+  }
+}

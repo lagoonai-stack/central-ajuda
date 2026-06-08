@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/erros-e-problemas/index",
+  "title": "Erros comuns",
+  "description": "Esta seção contém informações sobre os principais erros e problemas que podem ocorrer ao utilizar a plataforma, incluindo códigos de erro da Meta, como solicitar revisão de banimentos e como resolver problemas com mensagens do Instagram.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/erros-e-problemas/index.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/erros-e-problemas",
+  "slug": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/",
+  "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Erros comuns"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Remover número",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio"
+  },
+  "next": {
+    "title": "Página de suporte",
+    "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte"
+  }
+}

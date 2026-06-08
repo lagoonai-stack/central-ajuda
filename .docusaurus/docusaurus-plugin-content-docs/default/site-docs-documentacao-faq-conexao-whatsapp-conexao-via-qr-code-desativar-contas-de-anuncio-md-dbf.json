@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio",
+  "title": "Desativar contas de anúncio",
+  "description": "Durante o processo de conexão de um número de WhatsApp à API Oficial da Meta via QR Code, pode acontecer a criação automática de uma conta de anúncios (Ads Account) dentro do Business Manager (BM) vinculado ao número. Essa conta não é necessária para o uso da API e pode ser desativada para manter a organização do BM e evitar acúmulo de contas inativas.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code",
+  "slug": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio",
+  "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Desativar contas de anúncio"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "CloudAPI QR Code",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/"
+  },
+  "next": {
+    "title": "Desconectar",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code"
+  }
+}

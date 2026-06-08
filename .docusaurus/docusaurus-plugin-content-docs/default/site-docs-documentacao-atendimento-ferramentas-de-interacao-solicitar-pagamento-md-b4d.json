@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento",
+  "title": "Solicitar Pagamento",
+  "description": "https://drive.google.com/file/d/1-sb4ia2LC9hdX-H2MEOnC-eORMyN-zqe/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Solicitar Pagamento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Notas da Conversa",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma"
+  },
+  "next": {
+    "title": "Grupos do Whatsapp",
+    "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/"
+  }
+}

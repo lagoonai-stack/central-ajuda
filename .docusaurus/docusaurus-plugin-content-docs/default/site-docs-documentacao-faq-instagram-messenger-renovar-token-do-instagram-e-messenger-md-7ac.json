@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger",
+  "title": "Renovar token",
+  "description": "Na integração com o Instagram e o Facebook Messenger na plataforma, é necessário renovar o token de permissão a cada 60 dias. Esse token é fornecido pela Meta e tem um prazo de validade. Quando expira, as mensagens param de ser recebidas até que a renovação seja feita.",
+  "source": "@site/docs/documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger.md",
+  "sourceDirName": "documentacao/faq/instagram-messenger",
+  "slug": "/documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger",
+  "permalink": "/documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Renovar token"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Mensagens não chegam",
+    "permalink": "/documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam"
+  },
+  "next": {
+    "title": "Outros",
+    "permalink": "/documentacao/outros/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/chatbot/criando-um-chatbot",
+  "title": "Criando um chatbot",
+  "description": "A automação no atendimento ao cliente se tornou uma das estratégias mais eficazes para melhorar a experiência do usuário, reduzir o tempo de resposta e otimizar recursos. Na plataforma, é possível criar chatbots personalizados para responder automaticamente perguntas frequentes, direcionar atendimentos e garantir agilidade no contato com seus clientes, tudo isso integrado aos canais oficiais como WhatsApp, Instagram e Facebook.",
+  "source": "@site/docs/documentacao/apps/chatbot/criando-um-chatbot.md",
+  "sourceDirName": "documentacao/apps/chatbot",
+  "slug": "/documentacao/apps/chatbot/criando-um-chatbot",
+  "permalink": "/documentacao/apps/chatbot/criando-um-chatbot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Criando um chatbot"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Copiar e Colar do Chatbot na plataforma",
+    "permalink": "/documentacao/apps/chatbot/copiar-e-colar-do-chatbot-na-plataforma"
+  },
+  "next": {
+    "title": "Enviar Mensagem",
+    "permalink": "/documentacao/apps/chatbot/enviar-mensagem"
+  }
+}

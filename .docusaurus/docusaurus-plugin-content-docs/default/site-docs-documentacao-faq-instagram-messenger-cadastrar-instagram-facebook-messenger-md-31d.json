@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger",
+  "title": "Conexão",
+  "description": "A integração do Instagram e Messenger à plataforma permite que sua equipe centralize os atendimentos e melhore a eficiência no suporte ao cliente. Com essa conexão, todas as mensagens recebidas nesses canais ficarão disponíveis na plataforma, facilitando o gerenciamento das interações e agilizando as respostas.",
+  "source": "@site/docs/documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger.md",
+  "sourceDirName": "documentacao/faq/instagram-messenger",
+  "slug": "/documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger",
+  "permalink": "/documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Conexão"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Instagram/Messenger",
+    "permalink": "/documentacao/faq/instagram-messenger/"
+  },
+  "next": {
+    "title": "Mensagens não chegam",
+    "permalink": "/documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam"
+  }
+}

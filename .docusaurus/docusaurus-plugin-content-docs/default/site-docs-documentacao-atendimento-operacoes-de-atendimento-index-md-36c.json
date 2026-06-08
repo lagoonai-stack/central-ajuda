@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/operacoes-de-atendimento/index",
+  "title": "Operações no Atendimento",
+  "description": "https://drive.google.com/file/d/1t08jgyLLk2wYIXKuk6oK4Vf0LIstV1Kn/view",
+  "source": "@site/docs/documentacao/atendimento/operacoes-de-atendimento/index.md",
+  "sourceDirName": "documentacao/atendimento/operacoes-de-atendimento",
+  "slug": "/documentacao/atendimento/operacoes-de-atendimento/",
+  "permalink": "/documentacao/atendimento/operacoes-de-atendimento/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Operações no Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Criar Cards Através do Atendimento",
+    "permalink": "/documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1"
+  },
+  "next": {
+    "title": "Preferências de Arquivamento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/alterar-padrao-de-arquivamento-12h-imediato"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte",
+  "title": "Página de suporte",
+  "description": "O Meta Business Manager é uma plataforma gratuita que permite gerenciar e acompanhar as atividades comerciais nas suas contas do Facebook e Instagram de maneira integrada. Através dela, é possível acessar ferramentas de marketing, analisar insights e interagir com seu público de forma eficiente. Para obter suporte ou esclarecer dúvidas sobre o uso do Meta Business Manager, você pode acessar a página inicial de suporte dedicada.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/erros-e-problemas",
+  "slug": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte",
+  "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Página de suporte"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Erros comuns",
+    "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/"
+  },
+  "next": {
+    "title": "Códigos de Erros",
+    "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta"
+  }
+}

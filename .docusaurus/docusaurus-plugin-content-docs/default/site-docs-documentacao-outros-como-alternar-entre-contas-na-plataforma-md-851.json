@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/outros/como-alternar-entre-contas-na-plataforma",
+  "title": "Como Alternar Entre Contas na plataforma",
+  "description": "Se você utiliza mais de uma conta dentro da plataforma — seja por atuar em múltiplos negócios, franquias ou unidades — é possível alternar entre contas de forma rápida e prática, sem precisar sair e entrar novamente no sistema.",
+  "source": "@site/docs/documentacao/outros/como-alternar-entre-contas-na-plataforma.md",
+  "sourceDirName": "documentacao/outros",
+  "slug": "/documentacao/outros/como-alternar-entre-contas-na-plataforma",
+  "permalink": "/documentacao/outros/como-alternar-entre-contas-na-plataforma",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Como Alternar Entre Contas na plataforma"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Alterar Informações do Meu Usuário",
+    "permalink": "/documentacao/outros/alterar-informacoes-do-meu-usuario"
+  },
+  "next": {
+    "title": "Como Ativar as Notificações Web na Plataforma",
+    "permalink": "/documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/pesquisar-contato",
+  "title": "Pesquisar contato",
+  "description": "Realizar pesquisas de contatos de forma rápida e eficiente é essencial para garantir uma gestão eficaz de clientes na plataforma. Este guia oferece instruções claras e diretas para ajudá-lo a encontrar contatos facilmente, permitindo acesso imediato às informações necessárias para suas interações e tomadas de decisão.",
+  "source": "@site/docs/documentacao/crm/contato/pesquisar-contato.md",
+  "sourceDirName": "documentacao/crm/contato",
+  "slug": "/documentacao/crm/contato/pesquisar-contato",
+  "permalink": "/documentacao/crm/contato/pesquisar-contato",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pesquisar contato"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Importar Contatos em Lote",
+    "permalink": "/documentacao/crm/contato/importacao-de-contatos"
+  },
+  "next": {
+    "title": "Painéis",
+    "permalink": "/documentacao/crm/paineis/"
+  }
+}

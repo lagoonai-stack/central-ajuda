@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/usuarios/editar-foto-do-usuario",
+  "title": "Editar foto do usuário",
+  "description": "Manter sua foto de perfil atualizada não apenas personaliza sua experiência na plataforma, mas também facilita a identificação e comunicação entre os membros da equipe.",
+  "source": "@site/docs/documentacao/ajustes/usuarios/editar-foto-do-usuario.md",
+  "sourceDirName": "documentacao/ajustes/usuarios",
+  "slug": "/documentacao/ajustes/usuarios/editar-foto-do-usuario",
+  "permalink": "/documentacao/ajustes/usuarios/editar-foto-do-usuario",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Editar foto do usuário"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Cadastrar usuários",
+    "permalink": "/documentacao/ajustes/usuarios/cadastrar-usuarios"
+  },
+  "next": {
+    "title": "Tipos de perfis de usuários",
+    "permalink": "/documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios"
+  }
+}

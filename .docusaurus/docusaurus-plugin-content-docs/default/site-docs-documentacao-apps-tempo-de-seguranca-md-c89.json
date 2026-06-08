@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/tempo-de-seguranca",
+  "title": "Tempo de Segurança",
+  "description": "O tempo de segurança na plataforma é uma funcionalidade que permite inserir um tempo de segurança de alguns segundos antes de enviar as mensagens aos contatos. Esse intervalo de tempo permite que você revise a mensagem e, se necessário, cancele o envio antes que ela seja enviada definitivamente.",
+  "source": "@site/docs/documentacao/apps/tempo-de-seguranca.md",
+  "sourceDirName": "documentacao/apps",
+  "slug": "/documentacao/apps/tempo-de-seguranca",
+  "permalink": "/documentacao/apps/tempo-de-seguranca",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tempo de Segurança"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Sequências via API",
+    "permalink": "/documentacao/apps/sequencia/sequencias-via-api"
+  },
+  "next": {
+    "title": "Transcrição de audio com IA",
+    "permalink": "/documentacao/apps/transcricao-de-audio-com-ia"
+  }
+}

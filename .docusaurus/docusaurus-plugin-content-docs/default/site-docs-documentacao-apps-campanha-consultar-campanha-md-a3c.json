@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/campanha/consultar-campanha",
+  "title": "Consultar campanha",
+  "description": "A funcionalidade de consulta de campanhas na plataforma permite que as empresas gerenciem suas estratégias de marketing de forma eficaz. Este processo facilita o monitoramento de seu desempenho, garantindo uma comunicação consistente e impactante com os clientes.",
+  "source": "@site/docs/documentacao/apps/campanha/consultar-campanha.md",
+  "sourceDirName": "documentacao/apps/campanha",
+  "slug": "/documentacao/apps/campanha/consultar-campanha",
+  "permalink": "/documentacao/apps/campanha/consultar-campanha",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Consultar campanha"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Arquivar campanha",
+    "permalink": "/documentacao/apps/campanha/arquivar-campanha"
+  },
+  "next": {
+    "title": "Criar modelo de mensagem para campanha",
+    "permalink": "/documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/comece-aqui/abrir-dados-do-contato",
+  "title": "Dados do Contato e Gestão Rápida",
+  "description": "O Painel de Dados do Contato oferece uma visão detalhada e funcionalidades de gestão essenciais para otimizar a organização e a segmentação dos seus contatos diretamente na tela de atendimento.",
+  "source": "@site/docs/documentacao/atendimento/comece-aqui/abrir-dados-do-contato.md",
+  "sourceDirName": "documentacao/atendimento/comece-aqui",
+  "slug": "/documentacao/atendimento/comece-aqui/abrir-dados-do-contato",
+  "permalink": "/documentacao/atendimento/comece-aqui/abrir-dados-do-contato",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dados do Contato e Gestão Rápida"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Central de Atendimento",
+    "permalink": "/documentacao/atendimento/comece-aqui/"
+  },
+  "next": {
+    "title": "Acessando a Plataforma pela Web",
+    "permalink": "/documentacao/atendimento/comece-aqui/acessando-pela-web"
+  }
+}

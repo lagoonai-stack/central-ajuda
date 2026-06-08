@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir",
+  "title": "Gerenciar Grupos (Arquivar, Bloquear, Sair, Excluir)",
+  "description": "https://drive.google.com/file/d/1DE1f1BVmFJWT3D6274jzOyordW2eSC7Z/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir.md",
+  "sourceDirName": "documentacao/atendimento/gestao-de-grupos-no-atendimento",
+  "slug": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir",
+  "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gerenciar Grupos (Arquivar, Bloquear, Sair, Excluir)"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Criar Grupos (API Oficial)",
+    "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial"
+  },
+  "next": {
+    "title": "Integração com o CRM",
+    "permalink": "/documentacao/atendimento/integracao-atendimento-x-crm/"
+  }
+}

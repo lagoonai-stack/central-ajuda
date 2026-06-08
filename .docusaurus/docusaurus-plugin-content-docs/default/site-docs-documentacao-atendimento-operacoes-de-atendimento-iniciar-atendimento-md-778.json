@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento",
+  "title": "Iniciar Atendimento",
+  "description": "https://drive.google.com/file/d/1Cd8d4KXSFMHwjjC43ZATn39m0LCrsPf3/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento.md",
+  "sourceDirName": "documentacao/atendimento/operacoes-de-atendimento",
+  "slug": "/documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento",
+  "permalink": "/documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Iniciar Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Concluir e Classificar Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento"
+  },
+  "next": {
+    "title": "Reiniciar Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento"
+  }
+}

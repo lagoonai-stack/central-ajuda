@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/carteiras/index",
+  "title": "Carteiras",
+  "description": "Nesta seção, você aprenderá como criar e gerenciar carteiras de contatos na plataforma. Com elas, é possível vincular contatos a uma equipe e a um atendente responsável, garantindo que cada atendimento seja sempre direcionado ao usuário correto de forma automática e organizada.",
+  "source": "@site/docs/documentacao/crm/carteiras/index.md",
+  "sourceDirName": "documentacao/crm/carteiras",
+  "slug": "/documentacao/crm/carteiras/",
+  "permalink": "/documentacao/crm/carteiras/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Carteiras"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "CRM",
+    "permalink": "/documentacao/crm/"
+  },
+  "next": {
+    "title": "Alterar ou Excluir uma Carteira",
+    "permalink": "/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira"
+  }
+}

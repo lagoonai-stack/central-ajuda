@@ -1,0 +1,25 @@
+{
+  "id": "novidades-do-sistema/abril-de-2026/17-04-2026-app-2.1.34",
+  "title": "17/04/2026 - App 2.1.34",
+  "description": "👥Novidade: Grupos agora disponíveis no aplicativo",
+  "source": "@site/docs/novidades-do-sistema/abril-de-2026/17-04-2026-app-2.1.34.md",
+  "sourceDirName": "novidades-do-sistema/abril-de-2026",
+  "slug": "/novidades-do-sistema/abril-de-2026/17-04-2026-app-2.1.34",
+  "permalink": "/novidades-do-sistema/abril-de-2026/17-04-2026-app-2.1.34",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "17/04/2026 - App 2.1.34"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "02/04/2026",
+    "permalink": "/novidades-do-sistema/abril-de-2026/02-04-2026"
+  },
+  "next": {
+    "title": "Fevereiro de 2026",
+    "permalink": "/novidades-do-sistema/fevereiro-de-2026/"
+  }
+}

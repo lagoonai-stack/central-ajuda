@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/chatbot/enviar-mensagem",
+  "title": "Enviar Mensagem",
+  "description": "O bloco Enviar Mensagem é o componente essencial para a comunicação direta dentro do seu fluxo de chatbot. O seu principal objetivo é transmitir informações e entregar conteúdos de valor ao cliente durante o atendimento automatizado.",
+  "source": "@site/docs/documentacao/apps/chatbot/enviar-mensagem.md",
+  "sourceDirName": "documentacao/apps/chatbot",
+  "slug": "/documentacao/apps/chatbot/enviar-mensagem",
+  "permalink": "/documentacao/apps/chatbot/enviar-mensagem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Enviar Mensagem"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Criando um chatbot",
+    "permalink": "/documentacao/apps/chatbot/criando-um-chatbot"
+  },
+  "next": {
+    "title": "Enviar Pergunta",
+    "permalink": "/documentacao/apps/chatbot/enviar-pergunta"
+  }
+}

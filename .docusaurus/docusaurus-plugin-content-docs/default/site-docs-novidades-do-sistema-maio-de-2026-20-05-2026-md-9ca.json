@@ -1,0 +1,25 @@
+{
+  "id": "novidades-do-sistema/maio-de-2026/20-05-2026",
+  "title": "20/05/2026",
+  "description": "🤖 IA: Falha ao adicionar arquivos DOCX na Base de Conhecimento",
+  "source": "@site/docs/novidades-do-sistema/maio-de-2026/20-05-2026.md",
+  "sourceDirName": "novidades-do-sistema/maio-de-2026",
+  "slug": "/novidades-do-sistema/maio-de-2026/20-05-2026",
+  "permalink": "/novidades-do-sistema/maio-de-2026/20-05-2026",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "20/05/2026"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "14/05/2026 - Permissão de Campanhas e Exclusão de Etiquetas",
+    "permalink": "/novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas"
+  },
+  "next": {
+    "title": "22/05/2026 - Etiquetas no Chatbot",
+    "permalink": "/novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial",
+  "title": "Verificar portfólio empresarial",
+  "description": "Como Verificar um portfólio empresarial na Meta",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/portfolio-empresarial",
+  "slug": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial",
+  "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Verificar portfólio empresarial"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Informações do portfólio",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio"
+  },
+  "next": {
+    "title": "Instagram/Messenger",
+    "permalink": "/documentacao/faq/instagram-messenger/"
+  }
+}

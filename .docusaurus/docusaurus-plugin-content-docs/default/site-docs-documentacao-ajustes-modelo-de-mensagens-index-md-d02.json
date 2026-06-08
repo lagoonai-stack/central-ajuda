@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/modelo-de-mensagens/index",
+  "title": "Modelo de Mensagens",
+  "description": "Os modelos de mensagem são mensagens pré-aprovadas utilizadas para iniciar conversas no WhatsApp Business, garantindo comunicação eficiente e conforme as diretrizes da Meta. Eles são obrigatórios para conversas de marketing, utilidade e autenticação, permitindo o envio de notificações importantes, promoções e confirmações de identidade. Para serem utilizados, os modelos devem ser aprovados pela Meta antes do envio aos clientes. Além disso, é possível personalizar esses modelos com variáveis dinâmicas, tornando a comunicação mais personalizada e relevante.",
+  "source": "@site/docs/documentacao/ajustes/modelo-de-mensagens/index.md",
+  "sourceDirName": "documentacao/ajustes/modelo-de-mensagens",
+  "slug": "/documentacao/ajustes/modelo-de-mensagens/",
+  "permalink": "/documentacao/ajustes/modelo-de-mensagens/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Modelo de Mensagens"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Botão do WhatsApp e tag de rastreamento",
+    "permalink": "/documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento"
+  },
+  "next": {
+    "title": "Como criar modelo de mensagem",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem"
+  }
+}

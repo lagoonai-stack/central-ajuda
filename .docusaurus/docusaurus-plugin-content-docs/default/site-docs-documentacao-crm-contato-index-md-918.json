@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/index",
+  "title": "Contato",
+  "description": "O módulo Contatos da plataforma centraliza todas as informações dos seus clientes em um único lugar, facilitando a gestão e o acompanhamento do relacionamento com cada um deles. Nele, você pode cadastrar, organizar e segmentar contatos de acordo com suas necessidades, além de visualizar o histórico de interações e atividades. Com essa funcionalidade, sua equipe ganha mais eficiência no atendimento, garantindo uma comunicação personalizada e estratégica para fortalecer o vínculo com os clientes.",
+  "source": "@site/docs/documentacao/crm/contato/index.md",
+  "sourceDirName": "documentacao/crm/contato",
+  "slug": "/documentacao/crm/contato/",
+  "permalink": "/documentacao/crm/contato/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Contato"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Permissões por Perfil",
+    "permalink": "/documentacao/crm/carteiras/permissoes-por-perfil"
+  },
+  "next": {
+    "title": "Bloquear ou Arquivar contato",
+    "permalink": "/documentacao/crm/contato/bloquear-ou-arquivar-contato"
+  }
+}

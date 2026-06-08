@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/transcricao-de-audio-com-ia",
+  "title": "Transcrição de audio com IA",
+  "description": "A funcionalidade de transcrição de áudio com IA na plataforma é uma ferramenta avançada que transforma mensagens de áudio recebidas em texto de forma automática. Essa funcionalidade é especialmente útil para agilizar o atendimento ao cliente, tornando a comunicação mais acessível e eficiente.",
+  "source": "@site/docs/documentacao/apps/transcricao-de-audio-com-ia.md",
+  "sourceDirName": "documentacao/apps",
+  "slug": "/documentacao/apps/transcricao-de-audio-com-ia",
+  "permalink": "/documentacao/apps/transcricao-de-audio-com-ia",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Transcrição de audio com IA"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Tempo de Segurança",
+    "permalink": "/documentacao/apps/tempo-de-seguranca"
+  },
+  "next": {
+    "title": "Atendimento",
+    "permalink": "/documentacao/atendimento/"
+  }
+}

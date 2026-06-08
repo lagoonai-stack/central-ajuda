@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida",
+  "title": "Mensagens Rápidas",
+  "description": "https://drive.google.com/file/d/1TEOuEwJ3FVjVXbKz9YikM9cj-VEWzPWo/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mensagens Rápidas"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Enviar Imagem",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-imagem"
+  },
+  "next": {
+    "title": "Modelo de Mensagem",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem"
+  }
+}

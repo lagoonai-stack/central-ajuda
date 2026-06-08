@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/agentes-inteligentes/aba-configuracoes",
+  "title": "Aba Configurações",
+  "description": "A aba “Configurações” é o painel de controle do seu Agente de IA. Aqui você define desde seu modelo de raciocínio até como ele deve se comportar em situações de transferência e no controle de suas respostas.",
+  "source": "@site/docs/documentacao/apps/agentes-inteligentes/aba-configuracoes.md",
+  "sourceDirName": "documentacao/apps/agentes-inteligentes",
+  "slug": "/documentacao/apps/agentes-inteligentes/aba-configuracoes",
+  "permalink": "/documentacao/apps/agentes-inteligentes/aba-configuracoes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Aba Configurações"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "IA - Agentes Inteligentes",
+    "permalink": "/documentacao/apps/agentes-inteligentes/"
+  },
+  "next": {
+    "title": "Habilidades",
+    "permalink": "/documentacao/apps/agentes-inteligentes/habilidades"
+  }
+}

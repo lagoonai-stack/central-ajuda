@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/index",
+  "title": "CloudAPI",
+  "description": "A conexão WhatsApp Cloud API da plataforma é o método tradicional utilizado para vincular sua conta de WhatsApp à plataforma de forma segura e eficiente. Esse processo é essencial para garantir a comunicação entre a API e o WhatsApp Business, permitindo o envio e recebimento de mensagens dentro do sistema.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/index.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api",
+  "slug": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/",
+  "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CloudAPI"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Desconectar",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code"
+  },
+  "next": {
+    "title": "Display name",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/carteiras/criar-uma-nova-carteira",
+  "title": "Criar uma Nova Carteira",
+  "description": "https://drive.google.com/file/d/1QCAPcV6EIG93JkxAdUZwIcPWEMHqwOE/view",
+  "source": "@site/docs/documentacao/crm/carteiras/criar-uma-nova-carteira.md",
+  "sourceDirName": "documentacao/crm/carteiras",
+  "slug": "/documentacao/crm/carteiras/criar-uma-nova-carteira",
+  "permalink": "/documentacao/crm/carteiras/criar-uma-nova-carteira",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Criar uma Nova Carteira"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Alterar ou Excluir uma Carteira",
+    "permalink": "/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira"
+  },
+  "next": {
+    "title": "Funcionamento da Carteirização",
+    "permalink": "/documentacao/crm/carteiras/funcionamento-da-carteirizacao"
+  }
+}

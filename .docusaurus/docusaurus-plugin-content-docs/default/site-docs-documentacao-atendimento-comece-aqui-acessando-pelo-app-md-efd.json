@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/comece-aqui/acessando-pelo-app",
+  "title": "Acessando a Plataforma pelo Aplicativo Móvel",
+  "description": "Ao acessar sua conta pelo aplicativo, um código de validação será enviado para o seu canal de comunicação principal para garantir a segurança do seu login.",
+  "source": "@site/docs/documentacao/atendimento/comece-aqui/acessando-pelo-app.md",
+  "sourceDirName": "documentacao/atendimento/comece-aqui",
+  "slug": "/documentacao/atendimento/comece-aqui/acessando-pelo-app",
+  "permalink": "/documentacao/atendimento/comece-aqui/acessando-pelo-app",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Acessando a Plataforma pelo Aplicativo Móvel"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Acessando a Plataforma pela Web",
+    "permalink": "/documentacao/atendimento/comece-aqui/acessando-pela-web"
+  },
+  "next": {
+    "title": "Ferramentas de Interação",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/"
+  }
+}

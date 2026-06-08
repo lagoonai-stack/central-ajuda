@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/gerenciar-etiquetas/index",
+  "title": "Gerenciar Etiquetas",
+  "description": "Gerencie aqui as etiquetas da sua base de contatos. Esta seção reúne tudo o que você precisa para criar, personalizar, vincular e excluir etiquetas — mantendo seus contatos organizados e fáceis de segmentar na plataforma.",
+  "source": "@site/docs/documentacao/crm/contato/gerenciar-etiquetas/index.md",
+  "sourceDirName": "documentacao/crm/contato/gerenciar-etiquetas",
+  "slug": "/documentacao/crm/contato/gerenciar-etiquetas/",
+  "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gerenciar Etiquetas"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Exportar Base de Contatos",
+    "permalink": "/documentacao/crm/contato/exportar-base-de-contatos"
+  },
+  "next": {
+    "title": "Excluir Etiquetas",
+    "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas"
+  }
+}

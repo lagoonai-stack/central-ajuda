@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem",
+  "title": "Editar modelos de mensagem",
+  "description": "Manter seus modelos de mensagem atualizados é fundamental para garantir uma comunicação eficiente e alinhada com os objetivos da empresa. A plataforma permite a edição de determinados campos nos modelos cadastrados, facilitando ajustes rápidos sem a necessidade de aprovação pela Meta.",
+  "source": "@site/docs/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem.md",
+  "sourceDirName": "documentacao/ajustes/modelo-de-mensagens",
+  "slug": "/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem",
+  "permalink": "/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Editar modelos de mensagem"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Conceito de janela de troca de mensagem",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem"
+  },
+  "next": {
+    "title": "Mensagens com botões, imagem, vídeo e documento",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento"
+  }
+}

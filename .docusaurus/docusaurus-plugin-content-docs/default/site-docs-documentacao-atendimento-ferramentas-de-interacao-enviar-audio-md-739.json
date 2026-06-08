@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-audio",
+  "title": "Enviar Áudio",
+  "description": "https://drive.google.com/file/d/1nfEPmuuGcmenP0ALUCEZaetbLJMzn1jE/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/enviar-audio.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/enviar-audio",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-audio",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Enviar Áudio"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Agendar Mensagem",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento"
+  },
+  "next": {
+    "title": "Enviar Documento",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-documento"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/carteirizacao-de-contatos/habilitar-o-app",
+  "title": "Habilitar o App",
+  "description": "Ao longo deste conteúdo, você verá como habilitar e desabilitar essa funcionalidade conforme as necessidades da sua operação, além de entender como a carteirização garante que cada contato seja direcionado automaticamente ao atendente responsável pela sua carteira.",
+  "source": "@site/docs/documentacao/apps/carteirizacao-de-contatos/habilitar-o-app.md",
+  "sourceDirName": "documentacao/apps/carteirizacao-de-contatos",
+  "slug": "/documentacao/apps/carteirizacao-de-contatos/habilitar-o-app",
+  "permalink": "/documentacao/apps/carteirizacao-de-contatos/habilitar-o-app",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Habilitar o App"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Carteirização de Contatos",
+    "permalink": "/documentacao/apps/carteirizacao-de-contatos/"
+  },
+  "next": {
+    "title": "Chat Interno",
+    "permalink": "/documentacao/apps/chat-interno/"
+  }
+}

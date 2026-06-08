@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1",
+  "title": "Criar Cards Através do Atendimento",
+  "description": "https://drive.google.com/file/d/1M20U1wqVPGLJx37pKv6WXTmCEovQKb0/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1.md",
+  "sourceDirName": "documentacao/atendimento/integracao-atendimento-x-crm",
+  "slug": "/documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1",
+  "permalink": "/documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Criar Cards Através do Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Integração com o CRM",
+    "permalink": "/documentacao/atendimento/integracao-atendimento-x-crm/"
+  },
+  "next": {
+    "title": "Operações no Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/"
+  }
+}

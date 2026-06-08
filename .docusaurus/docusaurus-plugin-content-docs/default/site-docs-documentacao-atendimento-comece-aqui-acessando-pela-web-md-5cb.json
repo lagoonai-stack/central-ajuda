@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/comece-aqui/acessando-pela-web",
+  "title": "Acessando a Plataforma pela Web",
+  "description": "A plataforma utiliza um código de validação em cada acesso para garantir a segurança da sua conta.",
+  "source": "@site/docs/documentacao/atendimento/comece-aqui/acessando-pela-web.md",
+  "sourceDirName": "documentacao/atendimento/comece-aqui",
+  "slug": "/documentacao/atendimento/comece-aqui/acessando-pela-web",
+  "permalink": "/documentacao/atendimento/comece-aqui/acessando-pela-web",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Acessando a Plataforma pela Web"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Dados do Contato e Gestão Rápida",
+    "permalink": "/documentacao/atendimento/comece-aqui/abrir-dados-do-contato"
+  },
+  "next": {
+    "title": "Acessando a Plataforma pelo Aplicativo Móvel",
+    "permalink": "/documentacao/atendimento/comece-aqui/acessando-pelo-app"
+  }
+}

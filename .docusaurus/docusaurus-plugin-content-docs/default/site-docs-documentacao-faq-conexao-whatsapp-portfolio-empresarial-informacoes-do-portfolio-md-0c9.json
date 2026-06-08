@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio",
+  "title": "Informações do portfólio",
+  "description": "O que é o Portfólio Empresarial no Meta Business Manager?",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/portfolio-empresarial",
+  "slug": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio",
+  "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Informações do portfólio"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Incluir administradores",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores"
+  },
+  "next": {
+    "title": "Verificar portfólio empresarial",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial"
+  }
+}

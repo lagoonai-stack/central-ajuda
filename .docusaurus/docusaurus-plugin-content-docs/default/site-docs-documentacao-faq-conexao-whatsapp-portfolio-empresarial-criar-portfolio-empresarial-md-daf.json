@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial",
+  "title": "Criar portfólio empresarial",
+  "description": "O Meta Business Manager é uma plataforma que ajuda empresas a gerenciar suas páginas do Facebook, contas de anúncios e permissões de usuários de forma centralizada e segura. Criar Portfólio Empresarial é essencial para quem deseja controlar suas campanhas publicitárias, contas de WhatsApp e ativos de forma profissional.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/portfolio-empresarial",
+  "slug": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial",
+  "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Criar portfólio empresarial"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Alterar logomarca do portfólio",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio"
+  },
+  "next": {
+    "title": "Desativar autenticação em dois fatores",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores"
+  }
+}

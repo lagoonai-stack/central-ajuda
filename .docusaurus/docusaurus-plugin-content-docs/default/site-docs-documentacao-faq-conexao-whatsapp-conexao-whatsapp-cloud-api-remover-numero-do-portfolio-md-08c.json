@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio",
+  "title": "Remover número",
+  "description": "Em determinadas situações, pode ser necessário remover um número de telefone da conta do WhatsApp Business (WABA) dentro do Business Manager da Meta — seja para substituição, reorganização de estrutura ou reonboarding. A remoção do número libera o uso dele em uma nova conexão com a API oficial, mas deve ser feita com atenção para evitar perda de dados.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api",
+  "slug": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio",
+  "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Remover número"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Portabilidade de número",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/portabilidade-de-numero"
+  },
+  "next": {
+    "title": "Erros comuns",
+    "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/"
+  }
+}

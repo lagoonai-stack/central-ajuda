@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento",
+  "title": "Reiniciar Atendimento",
+  "description": "https://drive.google.com/file/d/1aO0pF1eAF1ULeNSJyjSaqsfQoX1l-ov8/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento.md",
+  "sourceDirName": "documentacao/atendimento/operacoes-de-atendimento",
+  "slug": "/documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento",
+  "permalink": "/documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Reiniciar Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Iniciar Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento"
+  },
+  "next": {
+    "title": "Transferir Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento"
+  }
+}

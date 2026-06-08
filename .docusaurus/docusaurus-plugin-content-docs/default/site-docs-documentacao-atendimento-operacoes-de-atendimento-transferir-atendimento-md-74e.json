@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento",
+  "title": "Transferir Atendimento",
+  "description": "https://drive.google.com/file/d/1VDgntx73JKrSHxe3BSNRnkNPPh1LUNAG/view",
+  "source": "@site/docs/documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento.md",
+  "sourceDirName": "documentacao/atendimento/operacoes-de-atendimento",
+  "slug": "/documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento",
+  "permalink": "/documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Transferir Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Reiniciar Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento"
+  },
+  "next": {
+    "title": "CRM",
+    "permalink": "/documentacao/crm/"
+  }
+}

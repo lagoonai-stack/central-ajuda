@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/conta/remover-canal-de-atendimento",
+  "title": "Remover Canal de Atendimento",
+  "description": "Na plataforma, os canais de atendimento são essenciais para a comunicação com os clientes, porém, em alguns casos, pode ser necessário remover um canal que não está mais em uso. Esse processo deve ser realizado com atenção para evitar impactos no atendimento e na gestão da equipe.",
+  "source": "@site/docs/documentacao/ajustes/conta/remover-canal-de-atendimento.md",
+  "sourceDirName": "documentacao/ajustes/conta",
+  "slug": "/documentacao/ajustes/conta/remover-canal-de-atendimento",
+  "permalink": "/documentacao/ajustes/conta/remover-canal-de-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Remover Canal de Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Processo de dar permissão para reconectar o número",
+    "permalink": "/documentacao/ajustes/conta/processo-de-dar-permissao-para-reconectar-o-numero"
+  },
+  "next": {
+    "title": "Equipes",
+    "permalink": "/documentacao/ajustes/equipes/"
+  }
+}

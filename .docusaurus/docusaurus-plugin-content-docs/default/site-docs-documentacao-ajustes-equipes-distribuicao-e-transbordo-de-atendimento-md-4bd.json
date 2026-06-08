@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento",
+  "title": "Distribuição e transbordo de atendimento",
+  "description": "A funcionalidade de Distribuição de Atendimento e Transbordo permite encaminhar conversas para os atendentes de uma equipe de forma circular, garantindo que cada interação seja direcionada a um atendente por vez, seguindo uma ordem predefinida. Isso assegura uma distribuição uniforme dos atendimentos, otimizando o fluxo de trabalho e evitando sobrecarga para um único atendente.",
+  "source": "@site/docs/documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento.md",
+  "sourceDirName": "documentacao/ajustes/equipes",
+  "slug": "/documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento",
+  "permalink": "/documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Distribuição e transbordo de atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Cadastrar equipe",
+    "permalink": "/documentacao/ajustes/equipes/cadastrar-equipe"
+  },
+  "next": {
+    "title": "Relação de acessos x conversas",
+    "permalink": "/documentacao/ajustes/equipes/relacao-de-acessos-x-conversas"
+  }
+}

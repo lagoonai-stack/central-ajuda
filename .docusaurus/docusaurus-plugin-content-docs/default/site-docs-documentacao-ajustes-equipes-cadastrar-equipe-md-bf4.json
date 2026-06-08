@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/equipes/cadastrar-equipe",
+  "title": "Cadastrar equipe",
+  "description": "O cadastro de equipes na plataforma é fundamental para organizar e gerenciar colaboradores de forma eficiente. Com essa funcionalidade, é possível delegar tarefas, acompanhar o desempenho da equipe e otimizar a comunicação interna, garantindo um fluxo de trabalho mais estruturado.",
+  "source": "@site/docs/documentacao/ajustes/equipes/cadastrar-equipe.md",
+  "sourceDirName": "documentacao/ajustes/equipes",
+  "slug": "/documentacao/ajustes/equipes/cadastrar-equipe",
+  "permalink": "/documentacao/ajustes/equipes/cadastrar-equipe",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cadastrar equipe"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Equipes",
+    "permalink": "/documentacao/ajustes/equipes/"
+  },
+  "next": {
+    "title": "Distribuição e transbordo de atendimento",
+    "permalink": "/documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento"
+  }
+}

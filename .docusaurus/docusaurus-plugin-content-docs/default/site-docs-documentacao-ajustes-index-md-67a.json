@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/index",
+  "title": "Ajustes",
+  "description": "A funcionalidade Ajustes da plataforma permite a personalização e configuração da plataforma de acordo com as necessidades do seu negócio. Nesse módulo, você pode gerenciar permissões de usuários, definir preferências de notificações, configurar integrações e ajustar parâmetros essenciais para o funcionamento da ferramenta. Com um ambiente intuitivo e de fácil acesso, os Ajustes garantem mais controle e flexibilidade na administração da sua conta, proporcionando uma experiência otimizada para toda a equipe.",
+  "source": "@site/docs/documentacao/ajustes/index.md",
+  "sourceDirName": "documentacao/ajustes",
+  "slug": "/documentacao/ajustes/",
+  "permalink": "/documentacao/ajustes/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ajustes"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Início",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Conta",
+    "permalink": "/documentacao/ajustes/conta/"
+  }
+}

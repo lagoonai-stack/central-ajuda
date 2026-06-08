@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name",
+  "title": "Display name",
+  "description": "O nome de exibição (Display Name) é a identificação pública do seu número de WhatsApp na API oficial. Ele aparece para os seus clientes e, por isso, deve estar alinhado à identidade da empresa. Se você precisa ajustar o nome exibido, a alteração pode ser feita diretamente no Gerenciador de Negócios (Business Manager) da Meta, seguindo os passos abaixo.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api",
+  "slug": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name",
+  "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Display name"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "CloudAPI",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/"
+  },
+  "next": {
+    "title": "Perfil do WhatsApp",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-perfil-do-whatsapp"
+  }
+}

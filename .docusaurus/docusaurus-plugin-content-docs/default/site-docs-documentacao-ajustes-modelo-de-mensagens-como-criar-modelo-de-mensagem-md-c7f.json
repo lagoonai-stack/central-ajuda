@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem",
+  "title": "Como criar modelo de mensagem",
+  "description": "Criar e utilizar modelos de mensagem na a plataforma é essencial para padronizar e agilizar a comunicação com seus clientes. Eles podem ser aplicados em diversos contextos, como atendimentos, campanhas de marketing, notificações, atualizações e outros tipos de interação. Com isso, você garante uma comunicação mais consistente, eficiente e profissional.",
+  "source": "@site/docs/documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem.md",
+  "sourceDirName": "documentacao/ajustes/modelo-de-mensagens",
+  "slug": "/documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem",
+  "permalink": "/documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Como criar modelo de mensagem"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Modelo de Mensagens",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/"
+  },
+  "next": {
+    "title": "Conceito de janela de conversa (cobrança)",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-conversa-cobranca"
+  }
+}

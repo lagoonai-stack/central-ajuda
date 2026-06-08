@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/equipes/index",
+  "title": "Equipes",
+  "description": "O módulo \"Equipes\" da plataforma permite organizar e gerenciar grupos de atendimento, garantindo que os membros certos estejam alocados às demandas corretas. Com essa funcionalidade, é possível criar, editar e excluir equipes, além de definir quais usuários fazem parte de cada uma delas. Isso facilita a distribuição de atendimentos, melhora a comunicação interna e aumenta a eficiência operacional. Além disso, a configuração das equipes impacta diretamente na visibilidade dos atendimentos, permitindo que cada membro tenha acesso apenas às interações relevantes para sua função.",
+  "source": "@site/docs/documentacao/ajustes/equipes/index.md",
+  "sourceDirName": "documentacao/ajustes/equipes",
+  "slug": "/documentacao/ajustes/equipes/",
+  "permalink": "/documentacao/ajustes/equipes/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Equipes"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Remover Canal de Atendimento",
+    "permalink": "/documentacao/ajustes/conta/remover-canal-de-atendimento"
+  },
+  "next": {
+    "title": "Cadastrar equipe",
+    "permalink": "/documentacao/ajustes/equipes/cadastrar-equipe"
+  }
+}

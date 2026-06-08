@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/enviar-documento",
+  "title": "Enviar Documento",
+  "description": "https://drive.google.com/file/d/1-ESAyivkHY4lDu7U6jWwxBri29ZmAZm/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/enviar-documento.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/enviar-documento",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-documento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Enviar Documento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Enviar Áudio",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-audio"
+  },
+  "next": {
+    "title": "Enviar Imagem",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-imagem"
+  }
+}

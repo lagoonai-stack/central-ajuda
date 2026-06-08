@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas",
+  "title": "Excluir Etiquetas",
+  "description": "Excluir uma etiqueta de contatos é uma ação permanente e irreversível — ao confirmar, a etiqueta é removida de todos os contatos que a possuem simultaneamente. Para evitar exclusões acidentais, a plataforma exibe o impacto em tempo real e, quando necessário, solicita uma validação de segurança antes de concluir a ação. Este artigo explica quem pode excluir etiquetas, como funciona o processo e o que esperar em cada situação.",
+  "source": "@site/docs/documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas.md",
+  "sourceDirName": "documentacao/crm/contato/gerenciar-etiquetas",
+  "slug": "/documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas",
+  "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Excluir Etiquetas"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Gerenciar Etiquetas",
+    "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/"
+  },
+  "next": {
+    "title": "Vincular Etiqueta a um Contato",
+    "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1"
+  }
+}

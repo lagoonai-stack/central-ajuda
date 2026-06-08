@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento",
+  "title": "Agendar Mensagem",
+  "description": "https://drive.google.com/file/d/1piMIYunr9Il1IoQxrclGh-6sF2xETYqA/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento.md",
+  "sourceDirName": "documentacao/atendimento/ferramentas-de-interacao",
+  "slug": "/documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento",
+  "permalink": "/documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Agendar Mensagem"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Ferramentas de Interação",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/"
+  },
+  "next": {
+    "title": "Enviar Áudio",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/enviar-audio"
+  }
+}

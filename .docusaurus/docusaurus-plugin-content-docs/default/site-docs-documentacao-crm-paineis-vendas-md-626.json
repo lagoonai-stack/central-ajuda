@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/paineis/vendas",
+  "title": "Vendas",
+  "description": "O CRM de Vendas é o módulo de gestão de negociações da plataforma. Com ele, você acompanha cada oportunidade desde o primeiro contato até o fechamento — de forma visual, organizada e adaptada ao seu processo comercial.",
+  "source": "@site/docs/documentacao/crm/paineis/vendas.md",
+  "sourceDirName": "documentacao/crm/paineis",
+  "slug": "/documentacao/crm/paineis/vendas",
+  "permalink": "/documentacao/crm/paineis/vendas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Vendas"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Tipos de Painel",
+    "permalink": "/documentacao/crm/paineis/tipos-de-painel"
+  },
+  "next": {
+    "title": "Comece Aqui",
+    "permalink": "/documentacao/faq/"
+  }
+}

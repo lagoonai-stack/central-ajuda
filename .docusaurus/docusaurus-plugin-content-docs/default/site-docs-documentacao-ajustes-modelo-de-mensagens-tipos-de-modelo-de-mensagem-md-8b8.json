@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem",
+  "title": "Tipos de modelo de mensagem",
+  "description": "Os modelos de mensagem são textos padronizados criados para iniciar conversas de forma eficiente e profissional. Eles são amplamente utilizados em atendimento ao cliente, vendas e campanhas de reengajamento, garantindo consistência na comunicação e agilidade no suporte.",
+  "source": "@site/docs/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem.md",
+  "sourceDirName": "documentacao/ajustes/modelo-de-mensagens",
+  "slug": "/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem",
+  "permalink": "/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tipos de modelo de mensagem"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Parâmetros e personalização de mensagens",
+    "permalink": "/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens"
+  },
+  "next": {
+    "title": "Usuários",
+    "permalink": "/documentacao/ajustes/usuarios/"
+  }
+}

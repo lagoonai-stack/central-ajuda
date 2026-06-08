@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta",
+  "title": "Criar e Editar Etiquetas",
+  "description": "Etiquetas são criadas e gerenciadas diretamente pelo painel de etiquetas, acessível dentro do cadastro de qualquer contato. Você pode criar etiquetas com nomes e cores personalizados, além de editar etiquetas existentes a qualquer momento. Este artigo explica como fazer isso passo a passo.",
+  "source": "@site/docs/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta.md",
+  "sourceDirName": "documentacao/crm/contato/gerenciar-etiquetas",
+  "slug": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta",
+  "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Criar e Editar Etiquetas"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Vincular Etiqueta a um Contato",
+    "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1"
+  },
+  "next": {
+    "title": "Importar Contatos em Lote",
+    "permalink": "/documentacao/crm/contato/importacao-de-contatos"
+  }
+}

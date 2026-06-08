@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/agentes-inteligentes/habilidades",
+  "title": "Habilidades",
+  "description": "As Habilidades são as ações práticas que seu Agente de IA pode executar. É aqui que você transforma a capacidade de conversação do agente em resultados tangíveis, como transferir um atendimento, criar um card no CRM ou atualizar dados de um contato.",
+  "source": "@site/docs/documentacao/apps/agentes-inteligentes/habilidades.md",
+  "sourceDirName": "documentacao/apps/agentes-inteligentes",
+  "slug": "/documentacao/apps/agentes-inteligentes/habilidades",
+  "permalink": "/documentacao/apps/agentes-inteligentes/habilidades",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Habilidades"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Aba Configurações",
+    "permalink": "/documentacao/apps/agentes-inteligentes/aba-configuracoes"
+  },
+  "next": {
+    "title": "Indicador de Digitando",
+    "permalink": "/documentacao/apps/agentes-inteligentes/indicador-de-digitando"
+  }
+}

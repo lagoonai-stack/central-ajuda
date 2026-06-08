@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/chat-interno/index",
+  "title": "Chat Interno",
+  "description": "https://drive.google.com/file/d/1WsyvHMhW7bm3gbGJTztdCViEDPKp8Dtv/view",
+  "source": "@site/docs/documentacao/apps/chat-interno/index.md",
+  "sourceDirName": "documentacao/apps/chat-interno",
+  "slug": "/documentacao/apps/chat-interno/",
+  "permalink": "/documentacao/apps/chat-interno/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chat Interno"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Habilitar o App",
+    "permalink": "/documentacao/apps/carteirizacao-de-contatos/habilitar-o-app"
+  },
+  "next": {
+    "title": "Habilitar o App",
+    "permalink": "/documentacao/apps/chat-interno/ativar-e-desativar-funcionalidade"
+  }
+}

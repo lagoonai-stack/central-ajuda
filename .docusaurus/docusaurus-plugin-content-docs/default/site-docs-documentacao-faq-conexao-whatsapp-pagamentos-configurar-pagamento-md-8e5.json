@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento",
+  "title": "Configurar",
+  "description": "Para utilizar a API Oficial do WhatsApp Business, é necessário cadastrar uma forma de pagamento válida na sua conta do Meta Business Manager. Este processo é essencial para que você possa enviar mensagens e utilizar os recursos oferecidos pela API. A seguir, apresentamos um guia passo a passo para ajudá-lo a adicionar um cartão de crédito à sua conta.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/pagamentos",
+  "slug": "/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento",
+  "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Configurar"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Pagamentos",
+    "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/"
+  },
+  "next": {
+    "title": "Extrato",
+    "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento"
+  }
+}

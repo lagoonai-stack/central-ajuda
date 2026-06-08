@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma",
+  "title": "Como Ativar as Notificações Web na Plataforma",
+  "description": "Receber notificações em tempo real é essencial para manter a produtividade e não perder nenhuma interação importante com seus clientes. Pensando nisso, a plataforma permite que você ative notificações web diretamente na plataforma, garantindo alertas imediatos sempre que houver um novo atendimento, nova mensagem e/ou notificação de chat interno.",
+  "source": "@site/docs/documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma.md",
+  "sourceDirName": "documentacao/outros",
+  "slug": "/documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma",
+  "permalink": "/documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Como Ativar as Notificações Web na Plataforma"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Como Alternar Entre Contas na plataforma",
+    "permalink": "/documentacao/outros/como-alternar-entre-contas-na-plataforma"
+  },
+  "next": {
+    "title": "Relatórios",
+    "permalink": "/documentacao/relatorios/"
+  }
+}

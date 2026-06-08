@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code",
+  "title": "Desconectar",
+  "description": "Em determinadas situações, pode ser necessário remover um número de telefone da conta WhatsApp Business dentro do APP Whatsapp Business — seja para substituição, reorganização de estrutura ou reonboarding. A remoção do número libera o uso dele em uma nova conexão com a API oficial, mas deve ser feita com atenção para evitar perda de dados.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code",
+  "slug": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code",
+  "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Desconectar"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Desativar contas de anúncio",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio"
+  },
+  "next": {
+    "title": "CloudAPI",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/"
+  }
+}

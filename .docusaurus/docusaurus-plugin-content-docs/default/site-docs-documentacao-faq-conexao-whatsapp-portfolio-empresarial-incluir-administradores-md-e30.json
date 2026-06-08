@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores",
+  "title": "Incluir administradores",
+  "description": "Adicionar novos administradores ao portfólio empresarial da Meta é essencial para compartilhar a gestão de ativos empresariais, como páginas, contas de anúncios e outras ferramentas importantes. O processo é simples e garante que as pessoas autorizadas possam colaborar de forma eficiente e segura.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/portfolio-empresarial",
+  "slug": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores",
+  "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Incluir administradores"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Desativar autenticação em dois fatores",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores"
+  },
+  "next": {
+    "title": "Informações do portfólio",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio"
+  }
+}

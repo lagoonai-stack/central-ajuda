@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="pt-BR" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-documentacao/apps/chatbot/criando-um-chatbot" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.7.0">
+<title data-rh="true">Criando um chatbot | Central de Ajuda</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://help.lagoonone.com.br/img/social-card.png"><meta data-rh="true" name="twitter:image" content="https://help.lagoonone.com.br/img/social-card.png"><meta data-rh="true" property="og:url" content="https://help.lagoonone.com.br/documentacao/apps/chatbot/criando-um-chatbot"><meta data-rh="true" property="og:locale" content="pt_BR"><meta data-rh="true" name="docusaurus_locale" content="pt-BR"><meta data-rh="true" name="docsearch:language" content="pt-BR"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Criando um chatbot | Central de Ajuda"><meta data-rh="true" name="description" content="A automação no atendimento ao cliente se tornou uma das estratégias mais eficazes para melhorar a experiência do usuário, reduzir o tempo de resposta e otimizar recursos. Na plataforma, é possível criar chatbots personalizados para responder automaticamente perguntas frequentes, direcionar atendimentos e garantir agilidade no contato com seus clientes, tudo isso integrado aos canais oficiais como WhatsApp, Instagram e Facebook."><meta data-rh="true" property="og:description" content="A automação no atendimento ao cliente se tornou uma das estratégias mais eficazes para melhorar a experiência do usuário, reduzir o tempo de resposta e otimizar recursos. Na plataforma, é possível criar chatbots personalizados para responder automaticamente perguntas frequentes, direcionar atendimentos e garantir agilidade no contato com seus clientes, tudo isso integrado aos canais oficiais como WhatsApp, Instagram e Facebook."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://help.lagoonone.com.br/documentacao/apps/chatbot/criando-um-chatbot"><link data-rh="true" rel="alternate" href="https://help.lagoonone.com.br/documentacao/apps/chatbot/criando-um-chatbot" hreflang="pt-BR"><link data-rh="true" rel="alternate" href="https://help.lagoonone.com.br/documentacao/apps/chatbot/criando-um-chatbot" hreflang="x-default"><link rel="stylesheet" href="/assets/css/styles.09652334.css">
+<script src="/assets/js/runtime~main.9645d0ff.js" defer="defer"></script>
+<script src="/assets/js/main.a366162a.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();null!==e?t(e):window.matchMedia("(prefers-color-scheme: dark)").matches?t("dark"):(window.matchMedia("(prefers-color-scheme: light)").matches,t("light"))}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Pular para o conteúdo principal"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Pular para o conteúdo principal</a></div><nav aria-label="Main" class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><button aria-label="Alternar a barra de navegação" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.png" alt="Lagoon One" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.png" alt="Lagoon One" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Central de Ajuda</b></a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/">Documentação</a></div><div class="navbar__items navbar__items--right"><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="Alterar entre os modos claro e escuro (modo modo claro ativado)" aria-label="Alterar entre os modos claro e escuro (modo modo claro ativado)" aria-live="polite" aria-pressed="false"><svg viewBox="0 0 24 24" width="24" height="24" class="lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" class="darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Volte para o topo" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/">Início</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" href="/documentacao/ajustes/">Documentação</a></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/ajustes/">Ajustes</a><button aria-label="Expandir a categoria lateral &#x27;Ajustes&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/documentacao/apps/">Apps</a><button aria-label="Fechar a categoria lateral &#x27;Apps&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/apps/agentes-inteligentes/">Agentes Inteligentes</a><button aria-label="Expandir a categoria lateral &#x27;Agentes Inteligentes&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/apps/campanha/">Campanha</a><button aria-label="Expandir a categoria lateral &#x27;Campanha&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/apps/carteirizacao-de-contatos/">Carteirizacao De Contatos</a><button aria-label="Expandir a categoria lateral &#x27;Carteirizacao De Contatos&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/apps/chat-interno/">Chat Interno</a><button aria-label="Expandir a categoria lateral &#x27;Chat Interno&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/documentacao/apps/chatbot/">Chatbot</a><button aria-label="Fechar a categoria lateral &#x27;Chatbot&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato">Adicionar/Remover Etiquetas do Contato</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/chatbot/copiar-e-colar-do-chatbot-na-plataforma">Copiar e Colar do Chatbot na plataforma</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/documentacao/apps/chatbot/criando-um-chatbot">Criando um chatbot</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/chatbot/enviar-mensagem">Enviar Mensagem</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/chatbot/enviar-pergunta">Enviar Pergunta</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/chatbot/gatilhos">Gatilhos</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/chatbot/tipos-de-chatbot">Tipos de Chatbot</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/apps/distribuicao-de-atendimentos/">Distribuicao De Atendimentos</a><button aria-label="Expandir a categoria lateral &#x27;Distribuicao De Atendimentos&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/apps/grupos-do-whatsapp/">Grupos do WhatsApp</a><button aria-label="Expandir a categoria lateral &#x27;Grupos do WhatsApp&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/apps/mensagens-agendadas/">Mensagens Agendadas</a><button aria-label="Expandir a categoria lateral &#x27;Mensagens Agendadas&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/pagamentos">Pagamentos</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/apps/sequencia/">Sequencia</a><button aria-label="Expandir a categoria lateral &#x27;Sequencia&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/tempo-de-seguranca">Tempo de Segurança</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacao/apps/transcricao-de-audio-com-ia">Transcrição de audio com IA</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/atendimento/">Atendimento</a><button aria-label="Expandir a categoria lateral &#x27;Atendimento&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/crm/">CRM</a><button aria-label="Expandir a categoria lateral &#x27;CRM&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/faq/">FAQ</a><button aria-label="Expandir a categoria lateral &#x27;FAQ&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/outros/">Outros</a><button aria-label="Expandir a categoria lateral &#x27;Outros&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/documentacao/relatorios/">Relatórios</a><button aria-label="Expandir a categoria lateral &#x27;Relatórios&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/faq/mensagens-waiting-message">FAQ</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/novidades-do-sistema/">Novidades do Sistema</a><button aria-label="Expandir a categoria lateral &#x27;Novidades do Sistema&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumbs__item"><a aria-label="Página Inicial" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">Documentação</span><meta itemprop="position" content="1"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item"><a class="breadcrumbs__link" itemprop="item" href="/documentacao/apps/"><span itemprop="name">Apps</span></a><meta itemprop="position" content="2"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item"><a class="breadcrumbs__link" itemprop="item" href="/documentacao/apps/chatbot/"><span itemprop="name">Chatbot</span></a><meta itemprop="position" content="3"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link" itemprop="name">Criando um chatbot</span><meta itemprop="position" content="4"></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">Nessa página</button></div><div class="theme-doc-markdown markdown"><header><h1>Criando um chatbot</h1></header><p>A automação no atendimento ao cliente se tornou uma das estratégias mais eficazes para melhorar a experiência do usuário, reduzir o tempo de resposta e otimizar recursos. Na <strong>plataforma</strong>, é possível criar <strong>chatbots personalizados</strong> para responder automaticamente perguntas frequentes, direcionar atendimentos e garantir agilidade no contato com seus clientes, tudo isso integrado aos canais oficiais como <strong>WhatsApp</strong>, Instagram e Facebook.</p>
+<p>Neste artigo, você vai aprender como configurar um chatbot na <strong>plataforma</strong> de forma prática e eficiente.</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>dica</div><div class="admonitionContent_BuS1"><p><strong>Pré-requisitos:</strong></p><ul>
+<li>Uma conta ativa na <strong>plataforma</strong>;</li>
+<li>Permissão de administrador para configurar o chatbot;</li>
+<li>Um <strong>canal de atendimento</strong> configurado (WhatsApp, Instagram ou Facebook);</li>
+<li>Mapeamento das perguntas e respostas que deseja automatizar;</li>
+<li>Clareza sobre o objetivo do bot (ex: triagem de atendimento, envio de informações, direcionamento por setor).</li>
+</ul></div></div>
+<p><strong>Passo a passo para criar um chatbot na plataforma</strong></p>
+<p><strong>Passo 1:</strong> No painel da <strong>plataforma</strong>, clique no menu <strong>&quot;Apps</strong>&quot; e em seguida selecione <strong>&quot;Chatbot&quot;</strong>.</p>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>XGRGG6fEsoCJcrj7t7o6</code>)</p>
+</blockquote>
+<p><strong>Passo 2</strong>: Defina o <strong>tipo de Chatbot</strong> (Atendimento ou Automação), em seguida clique em “+ <strong>Novo &quot;</strong> para iniciar a criação de um fluxo.</p>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>D9Q2gqDsnl7gK0cHZRev</code>)</p>
+</blockquote>
+<p><strong>Passo 3:</strong> Escolha um nome que represente a função do bot (ex: &quot;Bot de Suporte&quot;, &quot;Bot Comercial&quot;).
+Selecione o canal no qual o <strong>chatbot</strong> será ativado (WhatsApp, Instagram ou Facebook), e qual a equipe padrão onde todas as conversas que se iniciarem serão criadas Clique no botão <strong>&quot;salvar&quot;.</strong></p>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>KR69aIh4THBbP3VmCRgo</code>)</p>
+</blockquote>
+<p><strong>Passo 4:</strong> O sistema vai apresentar a tela de edição do seu <strong>chatbot</strong>. No centro da tela serão exibidos os componentes de execução do chatbot, à direita será exibida a apresentação do seu chatbot, ou seja, como ele será exibido no <strong>WhatsApp</strong> do seu cliente.</p>
+<p>Abaixo, no centro da tela, tem um botão de <strong>salvar as alterações</strong>. Do lado esquerdo tem um botão para <strong>testar</strong> e do lado direito um botão para <strong>publicar a versão em produção</strong>.</p>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>Ih1Ql0KLf4GGHDdtVNrM</code>)</p>
+</blockquote>
+<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>perigo</div><div class="admonitionContent_BuS1"><p><strong>Observação</strong>:</p><ul>
+<li>O botão <strong>&quot;Testar&quot;</strong> deve ser utilizado para validar o funcionamento do chatbot <strong>antes da publicação oficial</strong>. Ao realizar essa publicação de teste, o chatbot <strong>não ficará visível no canal de atendimento escolhido</strong>, ou seja, apenas você poderá testá-lo.</li>
+<li>Ao clicar em <strong>&quot;Testar&quot;</strong>, a plataforma gera um <strong>código com hashtag</strong> exclusivo. Esse código, ao ser enviado no canal de atendimento (como o WhatsApp, por exemplo), <strong>ativa o chatbot em modo de teste</strong>, permitindo que você simule a experiência do cliente e avalie o fluxo ainda em fase de desenvolvimento.</li>
+<li>Para isso, é necessário clicar em <strong>&quot;Testar&quot;</strong> e, em seguida, <strong>confirmar a ação clicando em &quot;Publicar alterações&quot;</strong> na janela (modal) exibida na tela.</li>
+<li>Quando o seu chatbot estiver pronto para uso, clique no botão <strong>&quot;Publicar versão&quot;</strong>, localizado no canto inferior direito da tela. Ao realizar essa ação, o chatbot será disponibilizado oficialmente e, caso já esteja associado a um canal de atendimento, <strong>passará a responder automaticamente às conversas recebidas</strong>\</li>
+</ul></div></div>
+<p><strong>Passo 5</strong>: Agora é o momento de definir as <strong>instruções que o seu chatbot deverá executar</strong>. Para isso, clique no botão <strong>“+”</strong> e selecione uma das opções disponíveis a seguir:</p>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>sELljHJHhJnS4qeI8BLz</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Mensagem: i</strong>nstrução que vai disparar uma mensagem tão logo chegue a vez dela no fluxo do seu chatbot. Essa mensagem pode ser uma mensagem de texto apenas, um áudio, uma mensagem de texto com imagem / vídeo ou pode ser um documento um PDF. Durante a execução o chatbot vai exibir essa mensagem e vai passar para a próxima instrução.</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>7vgGlGyYLwYHnNJDocRB</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Modelo de mensagem:</strong> você pode escolher uma mensagem do tipo marketing ou do tipo utilidade que tenha sido previamente cadastrada e aprovada pela meta, e enviar para o seu contato. Esse tipo de mensagem é imprescindível que seja utilizado quando você estiver configurando um chatbot de automação, por exemplo. Em uma campanha ou em uma sequência como não se sabe se a janela de 24h estará aberta no momento do disparo, o ideal é que coloque uma mensagem modelo, assim garantirá que essa mensagem chegue até o contato.</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>5ucAmTgrRIMxu59vHBxh</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Pergunta:</strong> a pergunta pode ser apenas uma pergunta com texto, com menu de botões ou uma pergunta com uma lista de opções. Independente do modelo que você selecionar o sistema vai ficar aguardando a resposta do seu contato. Assim que o contato responder o sistema vai executar o próximo comando da configuração.Uma pergunta ainda pode ser configurada para:</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>npiQ211hfDvCw4v2pPri</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Resposta inválida</strong>: a pergunta é com botões ou lista, por exemplo, e seu contato equivocadamente encaminhar um áudio ou um texto. Neste caso é possível configurar o envio de uma mensagem alertando o contato.</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>UuXX7LIqFH9vjoWeO4Nu</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Tempo de espera</strong>: configure o tempo de espera a ser aguardado entre o envio de mensagens ou o tempo total de espera.<!-- -->
+<ul>
+<li>O tempo limite de espera é o tempo máximo que você vai esperar até que o usuário responda. Se ele não responder naquele tempo máximo o sistema vai executar o subfluxo de tempo limite de espera.</li>
+<li>Tempo de tolerância é o tempo entre uma mensagem e outra enviada pelo usuário. É ideal para que agrupe todas as mensagens enviadas e as trate como uma só (por exemplo, para enviar para processamento de uma Inteligência Artificial).</li>
+<li><strong>Integração:</strong> pode ser utilizado para disparo juntamente com webhook que vai encaminhar um arquiov JSON para uma sistema externo.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>1GhvK28EmwycTWPspFo6</code>)</p>
+</blockquote>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>eu49kDZltiEuiXJbFyLW</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Webhooks</strong>: são comandos enviados para ferramentas/sistemas externos (ex.: n8n ou Make). Envia um JSON para uma url externa à plataforma. Nesta URL você vai receber um arquivo com todas as informações sobre o atendimento e sobre o contato com qual você está interagindo naquele momento. Ao devolver uma informação com o código 200 ou 400, o chatbot sistema vai iniciar um fluxo de sucesso ou falha da execução do webhook. Você também pode programar fluxos de retorno ao invés de códigos, como por exemplo retornar um “OK”, “CPF INVÁLIDO”, “NENHUM PAGAMENTO ABERTO”, etc. Com isso você pode criar fluxos alternativos no chatbot que serão executados caso após receber o retorno. Importante citar que uma vez feito o disparo para o seu sistema, o chatbot aguarda por até 20 segundos por uma resposta. Caso ele não obtenha uma resposta do seu sistema no prazo máximo de 20 segundos, vai entra num fluxo alternativo sinalizando que não recebeu um retorno do webhook. Neste ponto você você precisa configurar quais serão as ações a seguir.</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>IDzRjHbOBW5rsiPWzhzI</code>)</p>
+</blockquote>
+<ul>
+<li>
+<p>As <strong>condicionais</strong> são estruturas utilizadas para <strong>testar informações</strong> e, com base no resultado desse teste, direcionar o fluxo para um caminho específico.</p>
+<p>Cada condicional pode conter <strong>vários casos</strong>, e dentro de cada caso é possível definir <strong>condições</strong> que precisam ser atendidas. Essas condições podem ser:</p>
+<ul>
+<li>Do tipo <strong>“E”</strong>: todas as condições devem ser verdadeiras ao mesmo tempo.</li>
+<li>Do tipo <strong>“OU”</strong>: apenas uma das condições precisa ser verdadeira.</li>
+</ul>
+<p>Para alterar o tipo da condicional (<strong>E/OU</strong>), clique no <strong>canto superior direito do agrupamento</strong>.</p>
+<p>No <strong>canto superior esquerdo</strong>, você pode clicar em <strong>“Caso 1”</strong> para <strong>renomear a condicional</strong>, facilitando a leitura e organização.</p>
+<p>É possível adicionar <strong>outros casos</strong> ao grupo de condicionais. O sistema executa os casos <strong>de forma sequencial</strong>:</p>
+<ul>
+<li>Testa o primeiro caso.</li>
+<li>Se nenhuma condição for satisfeita, passa para o segundo.</li>
+<li>Continua testando os casos seguintes, um a um.</li>
+</ul>
+<p>Se <strong>nenhum caso for atendido</strong>, o sistema segue para o <strong>caso padrão</strong>, que representa o <strong>fluxo final</strong> da condicional.</p>
+</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>770Yv4t1hpVIIKiQ7afT</code>)</p>
+</blockquote>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>3TZM2SZU0tikSOPh87Eh</code>)</p>
+</blockquote>
+<p>Atualmente, você pode validar dentro de uma <strong>condicional</strong>:</p>
+<ul>
+<li><strong>Horário de funcionamento</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>QYW1eOE1UKdy8Mzx6RXT</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Uma resposta a uma pergunta feita</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>8MDW7wYRYz1hNfVQ0yNq</code>)</p>
+</blockquote>
+<ul>
+<li><strong>A uma resposta a um modelo de mensagem</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>D2uaJf22luMtA8HtkR9f</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Teste de valor de um campo personalizado do contato</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>og9kolR89yWpuxn5heJ4</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Etiqueta associada a um contato</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>N6xsUlVOOOoJ23rr8lnX</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Última mensagem enviada pelo contato</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>iHSKTP10XhvV75J24m5g</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Metadados do contato ou do atendimento</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>CNOoJGi7WIkkdc7XzmxH</code>)</p>
+</blockquote>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>8oQnOEnjsc9owkqOyAqo</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Data atual</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>xmiuM5xDmU1UnteQLtAL</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Dia da semana atual</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>7zp5l04sqhPybbIG2DRC</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Horário atual</strong></li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>l0FnYvCoYOfcPEwzit26</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Ponto de retorno</strong>: são utilizados para que você desvie o fluxo de execução do seu chatbot para qualquer outro ponto do próprio chatbot. Isso faz com que você não precise ficar copiando e duplicando fluxos,é possível marcar uma um ponto de retorno naquele ponto do seu código do chatbot e então, em qualquer local, você pode desviar o fluxo para aquele ponto de retorno.</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>Qjp1h6sJVUtYPXnno4f4</code>)</p>
+</blockquote>
+<ul>
+<li><strong>Ações:</strong> escolha ações dentre as seguinte possíveis:<!-- -->
+<ul>
+<li>Adicionar ou remover uma etiqueta ao contato.</li>
+<li>Adicionar o seu contato ou remover contato de uma sequência.</li>
+<li>Aguardar mensagens do contato - essa opção de aguardar mensagens do contato faz com que o chatbot espere até um determinado limite de tempo para que o contato encaminhe uma mensagem, e ficar em pausa durante esse tempo configado esperando uma resposta do contato. Se Neste período o contato encaminhar uma mensagem o chatbot continua para a ação seguinte, caso o tempo limite configurado seja excedido ele entrará no fluxo de exceção por limite de tempo excedido.</li>
+<li>Espera por alguns segundos: diferente da do aguardar mensagem do contato aqui o chatbot começa a contar o tempo e quando ele acabar vai para a próxima instrução. Ele é ideal para você colocar intervalos de tempo entre disparo de mensagens para seus contatos.</li>
+<li>Direcionar para outro chatbot.</li>
+<li>Direcionar para um ponto de retorno.</li>
+<li>Retornar para o menu anterior</li>
+<li>Encaminhar o atendimento para uma equipe, assim a qualquer momento você pode pegar um atendimento e encaminhar para uma equipe seja por escolha do seu contato, seja por exemplo, devido a um tempo limite atingido</li>
+<li>Encerrar um atendimento</li>
+<li>Modificar meta dados internos do contato ou do atendimento</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>YD0pVjoGJ4YGDZ5bcdn9</code>)</p>
+</blockquote>
+<p>Ao final você clique no botão <strong>salvar alterações</strong>. Após os testes você clica no botão <strong>publicar versão</strong> para que este chatbot fique disponível e comece a responder ao canal de atendimento para o qual ele foi associado.</p>
+<blockquote>
+<p>🖼️ <strong>[IMAGEM PENDENTE]</strong> — reenviar do GitBook (ref. <code>GlEwwJdso9LiLOeTtEfH</code>)</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="considerações-finais">Considerações finais<a href="#considerações-finais" class="hash-link" aria-label="Link direto para Considerações finais" title="Link direto para Considerações finais">​</a></h3>
+<ul>
+<li>Criar um chatbot na <strong>plataforma</strong> é uma forma inteligente de oferecer <strong>atendimento 24/7</strong>, qualificar seus leads e garantir mais agilidade no suporte. Além disso, você pode monitorar os resultados através de <strong>relatórios de atendimento</strong>, acompanhando quantos contatos foram atendidos pelo bot e onde os clientes mais interagem.</li>
+<li>É possível ainda ver o fluxo de um atendimento no <strong>Log de Atendimento.</strong></li>
+<li>Lembre-se: um chatbot eficiente depende de <strong>mensagens claras, fluxos bem estruturados</strong> e constante <strong>análise de performance</strong>.</li>
+</ul>
+<p>\</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Páginas de documentação"><a class="pagination-nav__link pagination-nav__link--prev" href="/documentacao/apps/chatbot/copiar-e-colar-do-chatbot-na-plataforma"><div class="pagination-nav__sublabel">Anterior</div><div class="pagination-nav__label">Copiar e Colar do Chatbot na plataforma</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/documentacao/apps/chatbot/enviar-mensagem"><div class="pagination-nav__sublabel">Próxima</div><div class="pagination-nav__label">Enviar Mensagem</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#considerações-finais" class="table-of-contents__link toc-highlight">Considerações finais</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">© 2026 Lagoon One.</div></div></div></footer></div>
+</body>
+</html>

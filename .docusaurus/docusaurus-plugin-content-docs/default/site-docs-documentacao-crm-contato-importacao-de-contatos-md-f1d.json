@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/importacao-de-contatos",
+  "title": "Importar Contatos em Lote",
+  "description": "A funcionalidade de importação de contatos na a plataforma permite integrar informações de outras fontes diretamente na plataforma, como nome, e-mail, telefone, etiquetas e campos personalizados, desde que os dados estejam organizados de forma adequada. É importante que cada tipo de dado esteja em uma coluna separada no arquivo de origem, garantindo que a importação seja precisa e eficiente.",
+  "source": "@site/docs/documentacao/crm/contato/importacao-de-contatos.md",
+  "sourceDirName": "documentacao/crm/contato",
+  "slug": "/documentacao/crm/contato/importacao-de-contatos",
+  "permalink": "/documentacao/crm/contato/importacao-de-contatos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Importar Contatos em Lote"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Criar e Editar Etiquetas",
+    "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta"
+  },
+  "next": {
+    "title": "Pesquisar contato",
+    "permalink": "/documentacao/crm/contato/pesquisar-contato"
+  }
+}

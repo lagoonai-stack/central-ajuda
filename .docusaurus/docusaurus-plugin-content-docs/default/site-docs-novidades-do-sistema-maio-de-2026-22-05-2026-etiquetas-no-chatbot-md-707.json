@@ -1,0 +1,25 @@
+{
+  "id": "novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot",
+  "title": "22/05/2026 - Etiquetas no Chatbot",
+  "description": "✨Melhoria: crie etiquetas diretamente no builder do chatbot",
+  "source": "@site/docs/novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot.md",
+  "sourceDirName": "novidades-do-sistema/maio-de-2026",
+  "slug": "/novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot",
+  "permalink": "/novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "22/05/2026 - Etiquetas no Chatbot"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "20/05/2026",
+    "permalink": "/novidades-do-sistema/maio-de-2026/20-05-2026"
+  },
+  "next": {
+    "title": "22/05/2026 - Gatilhos no Chatbot",
+    "permalink": "/novidades-do-sistema/maio-de-2026/22-05-2026-gatilhos-no-chatbot"
+  }
+}

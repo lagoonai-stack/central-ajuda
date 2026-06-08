@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/integracoes/index",
+  "title": "Integrações",
+  "description": "A plataforma oferece diversas integrações para otimizar a comunicação e a gestão do seu atendimento. Conecte-se a ferramentas essenciais, como botão do WhatsApp, automações, e outros sistemas, garantindo um fluxo de trabalho mais eficiente e automatizado. Com as integrações, sua equipe pode centralizar informações, reduzir tarefas manuais e melhorar a experiência do cliente.",
+  "source": "@site/docs/documentacao/ajustes/integracoes/index.md",
+  "sourceDirName": "documentacao/ajustes/integracoes",
+  "slug": "/documentacao/ajustes/integracoes/",
+  "permalink": "/documentacao/ajustes/integracoes/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Integrações"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Tipo de associação usuário x supervisor",
+    "permalink": "/documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor"
+  },
+  "next": {
+    "title": "Botão do WhatsApp e tag de rastreamento",
+    "permalink": "/documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento"
+  }
+}

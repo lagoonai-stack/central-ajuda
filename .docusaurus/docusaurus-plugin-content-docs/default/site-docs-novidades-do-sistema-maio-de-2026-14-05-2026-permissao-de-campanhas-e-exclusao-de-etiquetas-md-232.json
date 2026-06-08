@@ -1,0 +1,25 @@
+{
+  "id": "novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas",
+  "title": "14/05/2026 - Permissão de Campanhas e Exclusão de Etiquetas",
+  "description": "🗂️ Novo Recurso: Gestão de Permissões em Campanhas",
+  "source": "@site/docs/novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas.md",
+  "sourceDirName": "novidades-do-sistema/maio-de-2026",
+  "slug": "/novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas",
+  "permalink": "/novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "14/05/2026 - Permissão de Campanhas e Exclusão de Etiquetas"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "14/05/2026 - Envio de áudios como mensagem de voz",
+    "permalink": "/novidades-do-sistema/maio-de-2026/14-05-2026-envio-de-audios-como-mensagem-de-voz"
+  },
+  "next": {
+    "title": "20/05/2026",
+    "permalink": "/novidades-do-sistema/maio-de-2026/20-05-2026"
+  }
+}

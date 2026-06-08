@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/conta/horario-de-atendimento",
+  "title": "Horário de atendimento",
+  "description": "A funcionalidade \"Horário de Atendimento\" da plataforma permite que as empresas definam e gerenciem os horários de operação de suas atividades. Essa ferramenta é essencial para assegurar que os clientes e a equipe estejam sempre cientes dos horários de atendimento, facilitando a gestão de tempo e melhorando a satisfação do cliente. Com o \"Horário de Atendimento\", sua empresa pode configurar horários de funcionamento específicos para diferentes dias da semana, feriados e eventos especiais.",
+  "source": "@site/docs/documentacao/ajustes/conta/horario-de-atendimento.md",
+  "sourceDirName": "documentacao/ajustes/conta",
+  "slug": "/documentacao/ajustes/conta/horario-de-atendimento",
+  "permalink": "/documentacao/ajustes/conta/horario-de-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Horário de atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Dados da conta",
+    "permalink": "/documentacao/ajustes/conta/dados-da-conta"
+  },
+  "next": {
+    "title": "Processo de dar permissão para reconectar o número",
+    "permalink": "/documentacao/ajustes/conta/processo-de-dar-permissao-para-reconectar-o-numero"
+  }
+}

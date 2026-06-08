@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento",
+  "title": "Revisão de banimento",
+  "description": "O que significa um banimento ou bloqueio?",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/erros-e-problemas",
+  "slug": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento",
+  "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Revisão de banimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Códigos de Erros",
+    "permalink": "/documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta"
+  },
+  "next": {
+    "title": "Pagamentos",
+    "permalink": "/documentacao/faq/conexao-whatsapp/pagamentos/"
+  }
+}

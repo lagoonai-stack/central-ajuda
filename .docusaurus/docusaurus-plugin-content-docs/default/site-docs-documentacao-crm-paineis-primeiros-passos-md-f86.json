@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/paineis/primeiros-passos",
+  "title": "Primeiros passos",
+  "description": "Se você acabou de acessar o CRM Painéis pela primeira vez, este guia mostra o caminho completo: desde a escolha do tipo de painel até o registro do primeiro card.",
+  "source": "@site/docs/documentacao/crm/paineis/primeiros-passos.md",
+  "sourceDirName": "documentacao/crm/paineis",
+  "slug": "/documentacao/crm/paineis/primeiros-passos",
+  "permalink": "/documentacao/crm/paineis/primeiros-passos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Primeiros passos"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Gestão",
+    "permalink": "/documentacao/crm/paineis/gestao"
+  },
+  "next": {
+    "title": "Tipos de Painel",
+    "permalink": "/documentacao/crm/paineis/tipos-de-painel"
+  }
+}

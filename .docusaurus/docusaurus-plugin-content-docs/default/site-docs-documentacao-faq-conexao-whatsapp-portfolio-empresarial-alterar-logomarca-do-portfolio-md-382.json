@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio",
+  "title": "Alterar logomarca do portfólio",
+  "description": "Alterar a logomarca de uma empresa pode ser um passo significativo na construção de uma identidade visual coesa e moderna. No caso do portfólio empresarial da Meta, essa mudança pode refletir a evolução e o crescimento da empresa, além de fortalecer a presença da marca nos diferentes canais de comunicação. Este artigo abordará o processo de alteração da logomarca no portfólio empresarial da Meta, fornecendo um guia passo a passo e destacando os pré-requisitos necessários para garantir uma transição suave e bem-sucedida.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/portfolio-empresarial",
+  "slug": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio",
+  "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Alterar logomarca do portfólio"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Portfólio Empresarial",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/"
+  },
+  "next": {
+    "title": "Criar portfólio empresarial",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial"
+  }
+}

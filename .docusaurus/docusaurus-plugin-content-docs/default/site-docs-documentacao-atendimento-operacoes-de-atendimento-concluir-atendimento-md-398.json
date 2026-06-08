@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento",
+  "title": "Concluir e Classificar Atendimento",
+  "description": "https://drive.google.com/file/d/1Qn0zwWBWRCQQiIVKoTuKm9fOSToF1gDM/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento.md",
+  "sourceDirName": "documentacao/atendimento/operacoes-de-atendimento",
+  "slug": "/documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento",
+  "permalink": "/documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Concluir e Classificar Atendimento"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Assumir Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento"
+  },
+  "next": {
+    "title": "Iniciar Atendimento",
+    "permalink": "/documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento"
+  }
+}

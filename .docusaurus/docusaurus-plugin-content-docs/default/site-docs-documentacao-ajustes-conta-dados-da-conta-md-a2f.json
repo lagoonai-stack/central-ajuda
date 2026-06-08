@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/ajustes/conta/dados-da-conta",
+  "title": "Dados da conta",
+  "description": "Os dados da conta na plataforma são informações essenciais sobre a empresa. Esses dados incluem informações como nome da empresa, tipo de empresa, razão social, CNPJ, Administrador da conta, entre outras informações relevantes.",
+  "source": "@site/docs/documentacao/ajustes/conta/dados-da-conta.md",
+  "sourceDirName": "documentacao/ajustes/conta",
+  "slug": "/documentacao/ajustes/conta/dados-da-conta",
+  "permalink": "/documentacao/ajustes/conta/dados-da-conta",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dados da conta"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Conta",
+    "permalink": "/documentacao/ajustes/conta/"
+  },
+  "next": {
+    "title": "Horário de atendimento",
+    "permalink": "/documentacao/ajustes/conta/horario-de-atendimento"
+  }
+}

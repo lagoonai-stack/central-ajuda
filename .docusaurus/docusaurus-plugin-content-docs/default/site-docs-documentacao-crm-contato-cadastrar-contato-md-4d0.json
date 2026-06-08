@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/cadastrar-contato",
+  "title": "Cadastrar contato",
+  "description": "O cadastro de contatos é essencial para uma gestão eficiente de clientes e relacionamentos na plataforma. Ele permite organizar e centralizar informações importantes, otimizando o acompanhamento e as interações. Este guia oferece instruções claras para realizar o cadastro de contatos, garantindo que todas as informações essenciais sejam registradas de forma correta e eficiente, contribuindo para uma gestão mais estratégica e produtiva.",
+  "source": "@site/docs/documentacao/crm/contato/cadastrar-contato.md",
+  "sourceDirName": "documentacao/crm/contato",
+  "slug": "/documentacao/crm/contato/cadastrar-contato",
+  "permalink": "/documentacao/crm/contato/cadastrar-contato",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cadastrar contato"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Bloquear ou Arquivar contato",
+    "permalink": "/documentacao/crm/contato/bloquear-ou-arquivar-contato"
+  },
+  "next": {
+    "title": "Editar campos personalizados",
+    "permalink": "/documentacao/crm/contato/editar-campos-personalizados"
+  }
+}

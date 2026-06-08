@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code/index",
+  "title": "CloudAPI QR Code",
+  "description": "A conexão via QR Code (Coexistencia) na API Oficial da plataforma é o método utilizado para vincular sua conta de WhatsApp à plataforma de forma segura e eficiente. Esse processo é essencial para garantir a comunicação entre a API e o WhatsApp Business, permitindo o envio e recebimento de mensagens dentro do sistema.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/index.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/conexao-via-qr-code",
+  "slug": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/",
+  "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CloudAPI QR Code"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "WhatsApp (oficial)",
+    "permalink": "/documentacao/faq/conexao-whatsapp/"
+  },
+  "next": {
+    "title": "Desativar contas de anúncio",
+    "permalink": "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio"
+  }
+}

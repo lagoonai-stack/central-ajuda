@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial",
+  "title": "Criar Grupos (API Oficial)",
+  "description": "https://drive.google.com/file/d/1pF8Nc98xS9Yx7z2onBJXWTPF-sjt7r/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial.md",
+  "sourceDirName": "documentacao/atendimento/gestao-de-grupos-no-atendimento",
+  "slug": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial",
+  "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Criar Grupos (API Oficial)"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Criar Grupos (API Não Oficial)",
+    "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial"
+  },
+  "next": {
+    "title": "Gerenciar Grupos (Arquivar, Bloquear, Sair, Excluir)",
+    "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir"
+  }
+}

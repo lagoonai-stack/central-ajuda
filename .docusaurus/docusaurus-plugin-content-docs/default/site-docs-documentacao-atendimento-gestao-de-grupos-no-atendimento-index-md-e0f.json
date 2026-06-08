@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/atendimento/gestao-de-grupos-no-atendimento/index",
+  "title": "Grupos do Whatsapp",
+  "description": "https://drive.google.com/file/d/1JlAglfnwv8afNy9sValeRftGN9oDbk/view?usp=sharing",
+  "source": "@site/docs/documentacao/atendimento/gestao-de-grupos-no-atendimento/index.md",
+  "sourceDirName": "documentacao/atendimento/gestao-de-grupos-no-atendimento",
+  "slug": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/",
+  "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Grupos do Whatsapp"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Solicitar Pagamento",
+    "permalink": "/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento"
+  },
+  "next": {
+    "title": "Criar Grupos (API Não Oficial)",
+    "permalink": "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial"
+  }
+}

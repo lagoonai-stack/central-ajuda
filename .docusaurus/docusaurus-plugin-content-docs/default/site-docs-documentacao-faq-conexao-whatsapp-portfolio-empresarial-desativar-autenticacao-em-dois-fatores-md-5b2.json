@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores",
+  "title": "Desativar autenticação em dois fatores",
+  "description": "A autenticação em dois fatores (2FA) é uma camada adicional de segurança exigida pela Meta para acessar ativos no Portfólio empresarial.Em algumas situações, como quando um novo membro da equipe precisa ser adicionado ou quando há dificuldades de acesso à conta, pode ser necessário desativar temporariamente essa exigência no Portfólio empresarial.",
+  "source": "@site/docs/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores.md",
+  "sourceDirName": "documentacao/faq/conexao-whatsapp/portfolio-empresarial",
+  "slug": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores",
+  "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Desativar autenticação em dois fatores"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Criar portfólio empresarial",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial"
+  },
+  "next": {
+    "title": "Incluir administradores",
+    "permalink": "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores"
+  }
+}

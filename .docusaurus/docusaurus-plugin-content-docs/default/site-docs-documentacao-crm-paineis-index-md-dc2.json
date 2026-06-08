@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/paineis/index",
+  "title": "Painéis",
+  "description": "O CRM Painéis é onde você organiza e acompanha suas negociações e fluxos operacionais. A plataforma oferece dois tipos de painel — Vendas e Gestão — cada um pensado para um propósito diferente.",
+  "source": "@site/docs/documentacao/crm/paineis/index.md",
+  "sourceDirName": "documentacao/crm/paineis",
+  "slug": "/documentacao/crm/paineis/",
+  "permalink": "/documentacao/crm/paineis/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Painéis"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Pesquisar contato",
+    "permalink": "/documentacao/crm/contato/pesquisar-contato"
+  },
+  "next": {
+    "title": "Gestão",
+    "permalink": "/documentacao/crm/paineis/gestao"
+  }
+}

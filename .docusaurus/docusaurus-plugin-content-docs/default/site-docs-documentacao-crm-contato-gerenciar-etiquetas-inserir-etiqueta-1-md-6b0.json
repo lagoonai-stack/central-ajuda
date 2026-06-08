@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1",
+  "title": "Vincular Etiqueta a um Contato",
+  "description": "Vincular uma etiqueta a um contato permite segmentá-lo e localizá-lo com mais facilidade na plataforma. Você pode fazer isso pelo CRM ou diretamente durante um atendimento — escolha o caminho que fizer mais sentido para o seu fluxo de trabalho.",
+  "source": "@site/docs/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1.md",
+  "sourceDirName": "documentacao/crm/contato/gerenciar-etiquetas",
+  "slug": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1",
+  "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Vincular Etiqueta a um Contato"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Excluir Etiquetas",
+    "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas"
+  },
+  "next": {
+    "title": "Criar e Editar Etiquetas",
+    "permalink": "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta"
+  }
+}

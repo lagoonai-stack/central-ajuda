@@ -1,0 +1,25 @@
+{
+  "id": "documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato",
+  "title": "Adicionar/Remover Etiquetas do Contato",
+  "description": "O bloco Adicionar/remover etiquetas do contato permite aplicar ou retirar etiquetas de um contato automaticamente durante o fluxo do chatbot — sem precisar fazer isso manualmente pela tela de Contatos. Ele fica disponível no grupo Contato, dentro das ações do builder.",
+  "source": "@site/docs/documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato.md",
+  "sourceDirName": "documentacao/apps/chatbot",
+  "slug": "/documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato",
+  "permalink": "/documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Adicionar/Remover Etiquetas do Contato"
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chatbot",
+    "permalink": "/documentacao/apps/chatbot/"
+  },
+  "next": {
+    "title": "Copiar e Colar do Chatbot na plataforma",
+    "permalink": "/documentacao/apps/chatbot/copiar-e-colar-do-chatbot-na-plataforma"
+  }
+}
