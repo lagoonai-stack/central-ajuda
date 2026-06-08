@@ -1,0 +1,7 @@
+node_modules
+build
+.docusaurus
+*.log
+preview_*.png
+shot*.py
+convert.py

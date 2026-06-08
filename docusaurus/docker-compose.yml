@@ -1,0 +1,5 @@
+services:
+  central-ajuda:
+    build: .
+    container_name: central-ajuda
+    restart: unless-stopped

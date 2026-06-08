@@ -1,0 +1,40 @@
+/* Paleta Lagoon One — verde da marca */
+:root {
+  --ifm-color-primary: #2faa4a;
+  --ifm-color-primary-dark: #2a9943;
+  --ifm-color-primary-darker: #28903f;
+  --ifm-color-primary-darkest: #217634;
+  --ifm-color-primary-light: #3cbb58;
+  --ifm-color-primary-lighter: #48c063;
+  --ifm-color-primary-lightest: #66cb7d;
+  --ifm-code-font-size: 95%;
+  --ifm-font-family-base: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #3cbb58;
+  --ifm-color-primary-dark: #35a84f;
+  --ifm-color-primary-darker: #329e4a;
+  --ifm-color-primary-darkest: #29823d;
+  --ifm-color-primary-light: #4ec469;
+  --ifm-color-primary-lighter: #59c873;
+  --ifm-color-primary-lightest: #79d28e;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #0d1117;
+  --ifm-navbar-background-color: #04340f;
+}
+
+[data-theme='light'] {
+  --ifm-navbar-background-color: #04340f;
+}
+/* navbar verde escuro como no BookStack/marca */
+.navbar { --ifm-navbar-link-color: #ffffff; }
+.navbar__title { color: #ffffff; }
+.navbar__toggle { color: #ffffff; }
+
+/* iframes de vídeo responsivos */
+article iframe { border-radius: 8px; margin: 1rem 0; max-width: 100%; }
+
+/* placeholder de imagem pendente destacado */
+blockquote:has(> p:first-child) { border-left-color: var(--ifm-color-primary); }
