@@ -21,7 +21,7 @@ A utilização de grupos contribui significativamente para a eficiência da comu
 2. No menu exibido, selecione **“Novo grupo”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `0iqO5Ixw6ERhHkuouj7E`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_api-nao-oficial_image.avif)
 
 
 **Passo 2: Configurar o controle de acesso**
@@ -40,7 +40,7 @@ Ao selecionar **“Novo grupo”**, será exibido um painel para definir quem po
    A lista de moderadores disponíveis será filtrada conforme o acesso definido na etapa anterior.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `GEU1GipRCATmmCligBfT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_api-nao-oficial_image%20%281%29.avif)
 
 
 **Definição de canal responsável**
@@ -53,7 +53,7 @@ Quando o grupo possuir **mais de um canal de atendimento da mesma conta como par
 * Caso o grupo esteja configurado como **“Somente administradores”** e o canal responsável não seja administrador, o envio de mensagens ficará **bloqueado**, respeitando as regras do WhatsApp.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `FUgrzc5RXSa7LtXe5kfw`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_api-nao-oficial_image%20%283%29.avif)
 
 
 **Passo 3: Definir as informações de identificação do grupo**
@@ -66,7 +66,7 @@ Após configurar o controle de acesso e clicar em **Continuar**, será exibida u
 4. **Etiquetas do grupo** - opcionais.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `HegMOV5necO6lxHwDvuH`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_api-nao-oficial_image%20%284%29.avif)
 
 
 **Passo 4: Definir as Configurações do Grupo**
@@ -103,7 +103,7 @@ Ative essa opção caso deseje que a entrada de novos participantes **exija apro
 Após ajustar todas as configurações conforme sua necessidade, clique em **“Criar grupo”** para concluir o processo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `s49A0TMdB4Su0M2Eg6SU`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_api-nao-oficial_image%20%288%29.png)
 
 
 **Passo 5: Gerenciar um grupo existente**
@@ -113,7 +113,7 @@ Após a criação do grupo, diversas opções de gerenciamento ficam disponívei
 **Acessar os detalhes do grupo**
 
 Com a conversa do grupo aberta, clique no ícone
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `8AaInlROAhm0mVik0pa9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_api-nao-oficial_image%20%289%29.png)
 (Ver detalhes do grupo) no cabeçalho. Isso abrirá o painel lateral **“Dados do grupo”**, onde todas as ações de administração estarão centralizadas.
 
 **Opções de gerenciamento no painel “Dados do grupo”**

@@ -17,7 +17,7 @@ A Meta estabelece critérios específicos para a criação de Grupos nos canais 
 Caso o canal **não atenda a esse critério**, a criação de Grupos não poderá ser concluída, e o sistema exibirá a seguinte **mensagem de aviso**:
 
 
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `qcluzoTtdeg5IfADFOEx`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_Api-oficial_image.avif)
 
 
 :::
@@ -37,7 +37,7 @@ Caso o canal **não atenda a esse critério**, a criação de Grupos não poder�
 2. No menu exibido, selecione **“Novo grupo”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `3aRPIpJWPz5tc4fTVaV9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_Api-oficial_image%20%281%29.avif)
 
 
 **Passo 2: Configurar o controle de acesso**
@@ -56,7 +56,7 @@ Ao selecionar **“Novo grupo”**, será exibido um painel para definir quem po
    A lista de moderadores disponíveis será filtrada conforme o acesso definido na etapa anterior.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `nHdwt5SUYKSuDKSIYKae`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_Api-oficial_image%20%283%29.avif)
 
 
 **Passo 3: Definir as informações de identificação do grupo**
@@ -71,7 +71,7 @@ Após configurar o controle de acesso e clicar em **Continuar**, será exibida u
 Ao clicar em **“Criar grupo”**, ele será adicionado automaticamente à sua lista de atendimentos.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `CuM3cvhCcGt9KdT99aBf`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_Api-oficial_image%20%287%29.png)
 
 
 **Passo 4: Gerenciar um grupo existente**
@@ -80,7 +80,7 @@ Depois que o grupo estiver criado, diversas ações de gerenciamento estarão di
 
 1. **Acessar detalhes do grupo:**
    Com a conversa aberta, clique no ícone 
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `8AaInlROAhm0mVik0pa9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_Api-oficial_image%20%288%29.png)
  (Ver detalhes do grupo) no cabeçalho para abrir o painel lateral **“Dados do grupo”**.
 2. **Opções de gerenciamento no painel “Dados do grupo”:**
    * Editar **nome**, **foto**, **etiquetas** e **descrição**.
@@ -89,7 +89,7 @@ Depois que o grupo estiver criado, diversas ações de gerenciamento estarão di
    * **Gerenciar membros:** ao clicar nos três pontos ( **⋮** ) ao lado de cada participante, é possível visualizar detalhes do contato ou removê-lo do grupo.
    * **Alterar acessos e permissões:** use o ícone **“Alterar Permissões”** para reabrir o painel de controle de acesso.
    * Na barra superior do painel, acesse o ícone 
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `aur6JEhgcf1qc4NCHYqS`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_Api-oficial_image%20%289%29.png)
  (Ações de Arquivamento), onde você poderá:
      * **Arquivar**,
      * **Bloquear**,

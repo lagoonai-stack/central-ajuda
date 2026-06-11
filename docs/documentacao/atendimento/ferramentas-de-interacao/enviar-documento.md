@@ -10,12 +10,12 @@ Enviar documentos é uma funcionalidade essencial para compartilhar propostas, f
 
 1. Na tela de Atendimentos, selecione a conversa para a qual deseja enviar o documento.
 2. Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-documento_image.avif)
 
 3. No menu de opções que será exibido, escolha **"Documento".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `wpE9EqUGtZomJbJobNqx`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-documento_image%20%281%29.avif)
 
 
 ### **Passo 2**: **Selecionar e Enviar o Arquivo**
@@ -27,7 +27,7 @@ Enviar documentos é uma funcionalidade essencial para compartilhar propostas, f
 5. O arquivo será carregado e enviado ao contato, ficando disponível para visualização e download.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `jlIoYEb5gf81qbHobcPo`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-documento_image%20%284%29.avif)
 
 
 ### **Passo 3: Gerenciando Mídias Enviadas**
@@ -48,10 +48,10 @@ Você também pode selecionar uma ou mais mensagens de mídia clicando na caixa 
 * **Excluir:** Remove as mídias selecionadas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `93bX0LlPD0oqJ9MRjkMH`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-documento_image%20%285%29.avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Hu6MFWFHJZYCxguq9Whc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-documento_image%20%287%29.png)
 
 
 #### **Excluindo uma Mensagem**

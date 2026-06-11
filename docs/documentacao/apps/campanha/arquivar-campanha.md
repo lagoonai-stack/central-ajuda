@@ -16,25 +16,25 @@ title: "Arquivar campanha"
 **Passo 1:** Na tela inicial da plataforma, clique em **"Apps"**. O menu de opções será aberto; em seguida, clique em **"Campanhas"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_arquivar-campanha_image%20%281%29.avif)
 
 
 **Passo 2:** Uma tela com todas as campanhas realizadas será aberta. **Selecione a campanha** que deseja arquivar e clique sobre ela.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_arquivar-campanha_image%20%282%29.avif)
 
 
 **Passo 3:** A tela com os dados da campanha selecionada será aberta. Para **arquivar**, basta clicar no **ícone de arquivo**, 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_arquivar-campanha_image%20%283%29.avif)
 , localizado no canto superior direito. Uma mensagem de confirmação aparecerá no rodapé, informando que a campanha foi **arquivada com sucesso**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_arquivar-campanha_image%20%284%29.avif)
 
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_arquivar-campanha_image%20%287%29.png)
 
 
 **Passo 4:** Para visualizar as campanhas **arquivadas** ou, se desejar, desarquivar alguma, basta clicar na opção **"Arquivadas"**. Uma nova janela contendo **somente** as campanhas arquivadas será aberta.

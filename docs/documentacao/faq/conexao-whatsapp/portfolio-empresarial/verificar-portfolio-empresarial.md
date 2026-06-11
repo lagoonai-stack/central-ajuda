@@ -22,19 +22,19 @@ A verificação do **portfólio empresarial** é essencial para aumentar a segur
 No painel principal da **Meta Business Manager,** clique em **"Configurações de Negócio"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1V0J5tEZWJyroM5cWkHn`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/verificar-portifolio_image.avif)
 
 
 **Passo 2:** Selecione a opção "**Centro de Segurança"**, localize a opção "**Verificação da Empresa**" e clique em "**Começar Verificação**".
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/verificar-portifolio_image%20%281%29.avif)
 
 
 **Passo 3:** Uma nova aba será aberta. Clique em **"Começar"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/verificar-portifolio_image%20%282%29.avif)
 
 
 **Passo 4: Enviando as Informações da Empresa**
@@ -52,7 +52,7 @@ No painel principal da **Meta Business Manager,** clique em **"Configurações d
 Chegará uma tela para conferir os detalhes, após a conferência, clique em avançar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/verificar-portifolio_image%20%283%29.avif)
 
 
 **Passo 6: Conclusão e Acompanhamento da Verificação**

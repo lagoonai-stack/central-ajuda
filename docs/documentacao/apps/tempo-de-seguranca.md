@@ -18,7 +18,7 @@ O tempo de segurança na plataforma é uma funcionalidade que permite inserir um
 **Passo 1:** Na tela inicial, clique no menu **"Apps"** e localize o aplicativo **"Tempo de Segurança".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_tempo-seguranca_image.avif)
 
 
 **Passo 2:** Localize o aplicativo "Tempo de Segurança" e clique em habilitar.
@@ -26,7 +26,7 @@ O tempo de segurança na plataforma é uma funcionalidade que permite inserir um
 **Passo 3:** Uma tela de configuração será aberta. Ative a chave para habilitar o aplicativo e defina o tempo de segurança, que pode ser de até 15 segundos. Finalmente, clique em "Salvar" para aplicar as configurações.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_tempo-seguranca_image%20%281%29.avif)
 
 
 ### **Veja em funcionamento** <a href="#id-6veiebr6bpl6" id="id-6veiebr6bpl6"></a>
@@ -34,7 +34,7 @@ O tempo de segurança na plataforma é uma funcionalidade que permite inserir um
 Se você enviou uma mensagem com um erro de digitação ou qualquer outro problema, pode cancelar o envio clicando em "Cancelar".
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_tempo-seguranca_image%20%282%29.avif)
 
 
 A mensagem será então marcada como "Mensagem apagada".
@@ -42,7 +42,7 @@ A mensagem será então marcada como "Mensagem apagada".
 E o texto volta para a barra de digitação para ser editado ou apagado.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_tempo-seguranca_image%20%287%29.png)
 
 
 **Considerações finais:**

@@ -16,13 +16,13 @@ A criação de campanhas na **plataforma** é fundamental para organizar e geren
 **Passo 1:** Na **tela inicial** da plataforma, clique na opção **“Apps”**. Em seguida, no menu que será exibido, selecione **“Campanhas”** e clique em **“Novo”** para criar uma nova campanha.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `3lUaNKmNgu0nqoykd21X`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-nova-campanha_image%20%287%29.png)
 
 
 **Passo 2:** Uma tela para **configuração** da **nova campanha** será exibida.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-nova-campanha_image%20%288%29.png)
 
 
 **Passo 3**: Preencha os campos de acordo com as necessidades da campanha que será realizada.
@@ -35,7 +35,7 @@ A criação de campanhas na **plataforma** é fundamental para organizar e geren
 * **Defina o público**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-nova-campanha_image%20%289%29.png)
 
 
 * Selecione um modelo de mensagem aprovado pela **META** ou escolha um **chatbot de automação**.
@@ -43,7 +43,7 @@ A criação de campanhas na **plataforma** é fundamental para organizar e geren
 **Passo 4**: Após todo o preenchimento, você pode optar por **salvar a campanha e enviar depois** ou **confirmar e disparar**. **Clique** na opção desejada.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-nova-campanha_image%20%2810%29.png)
 
 
 **Passo 5:** Caso **clique** em **salvar**, a campanha aparecerá na listagem com as demais campanhas, porém com o **status de rascunho**.

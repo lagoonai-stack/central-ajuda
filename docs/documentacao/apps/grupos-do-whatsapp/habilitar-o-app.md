@@ -18,14 +18,14 @@ Ao longo deste conteúdo, você verá como habilitar e desabilitar essa funciona
 2. Selecione a opção **Mais apps**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `dGnDQDz2eVom92GGTorh`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_grupos-whatsapp_habilitar-app_image.avif)
 
 
 3. Na tela exibida, localize o aplicativo **Grupos**.
 4. Clique no botão **Habilitar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `gsogJGzdyAJMNpZaw2dh`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_grupos-whatsapp_habilitar-app_image%20%281%29.avif)
 
 
 5. Será aberta a tela de configuração do aplicativo. Nela, ative a chave para habilitar a funcionalidade e, em seguida, selecione em quais **Canais de Atendimento** a opção de **Grupos** ficará ativa, podendo escolher um ou mais canais conforme a sua necessidade.
@@ -33,7 +33,7 @@ Ao longo deste conteúdo, você verá como habilitar e desabilitar essa funciona
    Após realizar as configurações, clique em **“Salvar”** para concluir.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `gx6yOdBSL6bmJ88qEzAx`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_grupos-whatsapp_habilitar-app_image%20%282%29.avif)
 
 
 A partir desse momento, todos os usuários da equipe passam a ter acesso à funcionalidade de **Grupos** e podem participar das conversas em grupo diretamente pela plataforma.
@@ -47,7 +47,7 @@ A partir desse momento, todos os usuários da equipe passam a ter acesso à func
 * Ao iniciar a ação, o sistema exibirá uma notificação informando que a sincronização está em andamento. Ao final do processo, será apresentada a **quantidade de grupos sincronizados com sucesso**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `b741jvyZR1M1X1bvSGmE`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_grupos-whatsapp_habilitar-app_image%20%287%29.png)
 
 
 :::
@@ -60,7 +60,7 @@ A partir desse momento, todos os usuários da equipe passam a ter acesso à func
 4. Clique no botão **Configurar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `nvMTXRs2Nl2jywTWV4XY`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_grupos-whatsapp_habilitar-app_image%20%288%29.png)
 
 
 5\. Na tela de configuração, desative a chave do aplicativo e clique em **Salvar**.

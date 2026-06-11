@@ -10,12 +10,12 @@ Enviar **vídeos** na plataforma é uma funcionalidade essencial para enriquecer
 
 1. Na tela de Atendimentos, selecione a conversa para a qual deseja enviar o vídeo.
 2. Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-video_image.avif)
 
 3. No menu de opções que será exibido, escolha **"Vídeo".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `kYC9ABeQx3zFjwoJA1LM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-video_image%20%281%29.avif)
 
 
 ### **Passo 2**: **Selecionar e Enviar o Arquivo**
@@ -27,7 +27,7 @@ Enviar **vídeos** na plataforma é uma funcionalidade essencial para enriquecer
 5. O vídeo será carregado e enviado ao contato, ficando disponível para visualização e download.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `m5ipFQ382g6zqJrepOZB`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-video_image%20%285%29.avif)
 
 
 ### **Passo 3: Gerenciando Mídias Enviadas**
@@ -42,7 +42,7 @@ Ao passar o mouse sobre a mensagem de mídia, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `BFYerskuWwss3liESHL2`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-video_image%20%286%29.avif)
 
 
 #### **Ações de Seleção**
@@ -54,7 +54,7 @@ Você também pode selecionar uma ou mais mensagens de mídia clicando na caixa 
 * **Excluir:** Remove as mídias selecionadas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ZGe5xszEzDRobnYmzr5i`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-video_image%20%287%29.png)
 
 
 > 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `5DmLKOusG8TcUt9P5c4s`)

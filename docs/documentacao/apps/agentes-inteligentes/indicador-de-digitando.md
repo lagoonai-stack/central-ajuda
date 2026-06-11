@@ -19,7 +19,7 @@ A ativação é simples e feita por canal, dando a você total controle sobre a 
 **Passo 4:** Salve as Alterações Role até o final da página e clique em “Salvar opções” para aplicar a nova configuração. A partir deste momento, o indicador estará ativo para todas as mensagens enviadas por este canal.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `96DK4Tng9i0x7jWqXKPr`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_agentes-inteligentes_indicador-de-digitando_image.avif)
 
 
 ####

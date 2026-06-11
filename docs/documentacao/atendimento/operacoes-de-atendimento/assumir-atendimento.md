@@ -25,7 +25,7 @@ Enquanto estiver na aba **“Novos”**, o atendimento permanece aguardando até
 6. O status do atendimento é atualizado de **“Pendente”** para **“Em andamento”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `2JPVRWm38x7hMk5VXqGm`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_assumir-atendimento_Anima%C3%A7%C3%A3o%20%2811%29.gif)
 
 
 :::info

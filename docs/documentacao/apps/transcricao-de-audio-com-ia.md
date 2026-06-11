@@ -22,31 +22,31 @@ Ao receber uma mensagem de áudio de um contato, a **IA integrada** da plataform
 **Passo 1:** Na tela inicial, acesse o menu "**Apps**" e localize o aplicativo "**Transcrição de Áudio com IA**".
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_transcricao-audio-com-ia_image.avif)
 
 
 **Passo 2:** Clique em habilitar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_transcricao-audio-com-ia_image%20%281%29.avif)
 
 
 **Passo 3:** Em seguida, será exibida uma tela de configuração. **Ative a chave para habilitar o aplicativo** e visualize o valor mensal que será cobrado pela funcionalidade. Clique em "**Salvar**" para finalizar a ativação.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_transcricao-audio-com-ia_image%20%282%29.avif)
 
 
 **Passo 4:** Será enviada uma senha para confirmar a habilitação da funcionalidade.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_transcricao-audio-com-ia_image%20%287%29.png)
 
 
 **Passo 5:** Após a ativação, sempre que uma mensagem de áudio for recebida, ela será **transcrita automaticamente**. A transcrição ficará visível na conversa, facilitando o atendimento e o registro das informações compartilhadas pelo contato.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_transcricao-audio-com-ia_image%20%288%29.png)
 
 
 **Considerações finais**

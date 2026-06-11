@@ -10,12 +10,12 @@ Enviar imagens na plataforma é uma funcionalidade essencial para enriquecer a c
 
 1. Na tela de Atendimentos, selecione a conversa para a qual deseja enviar a imagem.
 2. Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-imagem_image%20%283%29.avif)
 
 3. No menu de opções que será exibido, escolha **"Imagem".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `bZ1vLHSJTIJW5NtFJPnK`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-imagem_image%20%284%29.avif)
 
 
 ### **Passo 2**: **Selecionar e Enviar o Arquivo**
@@ -27,7 +27,7 @@ Enviar imagens na plataforma é uma funcionalidade essencial para enriquecer a c
 5. A imagem será carregada e enviada ao contato, ficando disponível para visualização e download.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `gfYrpF1OO6nReBoYlpG6`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-imagem_image%20%285%29.avif)
 
 
 ### **Passo 3: Gerenciando Mídias Enviadas**
@@ -42,7 +42,7 @@ Ao passar o mouse sobre a mensagem de mídia, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `FefXMaxUTbMnfKE5916L`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-imagem_image%20%286%29.avif)
 
 
 #### **Ações de Seleção**
@@ -54,7 +54,7 @@ Você também pode selecionar uma ou mais mensagens de mídia clicando na caixa 
 * **Excluir:** Remove as mídias selecionadas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `NuTiI3lPRsI9QcxSrrRv`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-imagem_image%20%287%29.avif)
 
 
 > 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `6Z42p5gEnlJQCADHXqrt`)

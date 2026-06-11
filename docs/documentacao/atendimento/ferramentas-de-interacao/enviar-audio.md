@@ -10,12 +10,12 @@ O envio de mensagens de áudio é uma funcionalidade que permite uma comunicaç�
 
 1. Na tela de Atendimentos, selecione a conversa para a qual deseja enviar o áudio.
 2. Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image.avif)
 
 3. No menu de opções que será exibido, escolha **"Áudio".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ln1oZsxiIY3XjlWMx1l1`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%281%29.avif)
 
 
 ### **Passo 2**: **Selecionar e Enviar o Arquivo**
@@ -27,7 +27,7 @@ O envio de mensagens de áudio é uma funcionalidade que permite uma comunicaç�
 5. O áudio será carregado e enviada ao contato, ficando disponível para que o contato ouça ou faça *download*.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `EBYPy4nxuH0rQwmkOipe`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%282%29.avif)
 
 
 ### **Passo 3: Gerenciando Mídias Enviadas**
@@ -42,7 +42,7 @@ Ao passar o mouse sobre a mensagem de mídia, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `OuiGhBqjVwKNfUYOiehZ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%283%29.avif)
 
 
 #### **Ações de Seleção**
@@ -54,10 +54,10 @@ Você também pode selecionar uma ou mais mensagens de mídia clicando na caixa 
 * **Excluir:** Remove as mídias selecionadas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `hc15fAOdkRi75pFLeN3W`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%284%29.avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `hgoxcgF7MjK5LTiAksfQ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%285%29.avif)
 
 
 #### **Excluindo uma Mensagem**
@@ -68,7 +68,7 @@ Ao clicar em **"Excluir"** na barra de ações, um pop-up de confirmação será
 2. **Apagar para todos:** Remove a mensagem para você e para o contato **(Nota: Esta opção está disponível apenas para canais da API Não Oficial).**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `5kILqWhNdoym15K3UUbs`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%286%29.avif)
 
 
 #### **Mais Opções**
@@ -81,10 +81,10 @@ Após um áudio ser enviado ou recebido, você pode gerenciá-lo usando o menu "
    * **Velocidade da reprodução:** Permite otimizar seu tempo. Ao clicar, você pode alterar a velocidade de reprodução do áudio (ex: 1.5x ou 2x).
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `S5Nbb3RVGc9TCdoNpVkN`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%287%29.avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `SNnI9YiIz30IoygHQUXd`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%287%29.png)
 
 
 #### **Detalhes da Mensagem (Avançado)**
@@ -95,7 +95,7 @@ Clicando no menu de três pontos (`...`) ao lado da mensagem, você pode acessar
 * Para usuários com perfil de **Administrador**, esta tela também exibe o **"ID da mensagem"** e o **"ID do canal"**, informações úteis para auditoria e integrações.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `soMHltodfE1Wm8CPbAEs`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%288%29.avif)
 
 
 ### Regras de Formato e Tamanho por Canal

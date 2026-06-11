@@ -19,51 +19,51 @@ A integração do Instagram e Messenger à **plataforma** permite que sua equipe
 **Passo 1:** No menu principal clique em **“Ajustes”** e em seguida **"Conta”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image.avif)
 
 
 **Passo 2:** No menu de opções, clique em **”Canais de atendimento”** e em seguida clique o ícone 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%281%29.avif)
 **.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%282%29.avif)
 
 
 **Passo 3**: Selecione qual **rede social** deseja integrar na plataforma.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%283%29.avif)
 
 
 **Passo 4:** Uma tela de integração se abrirá. Clique em **Iniciar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%284%29.avif)
 
 
 **Passo 5:** Uma tela será aberta, direcionando para o login com o Facebook. Clique em **"Entrar com Facebook"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%285%29.avif)
 
 
 **Passo 6:** Faça login na conta em que o Messenger e/ou Instagram estão conectados à **Business Manager (BM)**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%286%29.avif)
 
 
 **Passo 7:** Clique em “**Continuar como Nome da conta do Facebook”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%287%29.avif)
 
 
 **Passo 8:** Nesta etapa, selecione as **“páginas”** que deseja integrar à plataforma. Escolha a opção desejada e, em seguida, clique em **"Continuar".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%287%29.png)
 
 
 :::danger
@@ -80,7 +80,7 @@ Na próxima etapa, você poderá selecionar quais perfis devem ser integrados es
 **Passo 9:** Nesta etapa, selecione as **“Empresas”** que deseja integrar à plataforma. Escolha a opção desejada e, em seguida, clique em **"Continuar”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%288%29.avif)
 
 
 :::danger
@@ -97,31 +97,31 @@ Na próxima etapa você conseguirá selecionar quais são os perfis que devem se
 **Passo 10:** Selecione as contas do Instagram e/ou Messenger que deseja conectar na plataforma. Em seguida clique em **“Continuar”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%288%29.png)
 
 
 **Passo 11:** Na próxima tela revise as informações e clique em **“Salvar”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%289%29.png)
 
 
 **Passo 12:** A conexão com a hunion foi feita. Clique em **“Entendi”** para finalizar o processo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%2810%29.png)
 
 
 **Passo 13:** Você será direcionado para plataforma novamente para a **conclusão** do processo. As redes sociais irão aparecer na tela, clique em **“continuar”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%2811%29.png)
 
 
 **Passo 14:** Por fim clique em **“finalizar”** para concluir a integração.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_conexao_image%20%2812%29.png)
 
 
 **Passo 15:** A tela de **canais de atendimento** ficará como a imagem abaixo.

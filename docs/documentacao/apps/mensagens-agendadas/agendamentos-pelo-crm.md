@@ -26,10 +26,10 @@ Você pode programar o envio de uma mensagem para o futuro sem sair da visualiza
 * Após preencher as informações, clique em "Salvar" para confirmar o agendamento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `0tgnbZ8CHIiL5x6T8Bsg`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_agendamento-pelo-crm_image.avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `nPc6JpIcB2at9LLoWyX4`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_agendamento-pelo-crm_image%20%281%29.avif)
 
 
 :::tip

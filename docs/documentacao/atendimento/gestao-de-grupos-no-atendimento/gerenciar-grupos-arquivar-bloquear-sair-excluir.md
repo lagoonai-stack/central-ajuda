@@ -10,20 +10,20 @@ As **Ações de Arquivamento** permitem controlar a visibilidade, o status e o c
 
 1. Abra a conversa do grupo.
 2. Clique no ícone
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `8AaInlROAhm0mVik0pa9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_gerenciar-grupos_image.avif)
 (Ver detalhes do grupo) no cabeçalho.
    Isso abrirá o painel lateral **“Dados do grupo”**, onde todas as opções de administração ficam centralizadas.
 
 **Passo 2: Selecionar e visualizar a ação desejada**
 
 1. No painel lateral, clique no ícone
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `FA9wFSO8PoBQBeWiv0Lr`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_gerenciar-grupos_image%20%281%29.avif)
 (Ações de Arquivamento).
 2. Um painel com quatro opções será exibido.
    Por padrão, a ação **“Arquivar”** virá pré-selecionada.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Y1nlzzjp8M1DBeHVbrJo`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_gerenciar-grupos_image%20%283%29.gif)
 
 
 Escolha a ação que deseja executar:
@@ -44,7 +44,7 @@ Escolha a ação que deseja executar:
     A exclusão remove o grupo para todos os participantes e é **irreversível**, refletindo também no WhatsApp.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `gMbcrg3LFn5rfrB6QXuS`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_grupos-do-whatsapp_criar-grupos_gerenciar-grupos_Anima%C3%A7%C3%A3o%20%2811%29.gif)
 
 
 **Passo 3: Finalizar a ação**

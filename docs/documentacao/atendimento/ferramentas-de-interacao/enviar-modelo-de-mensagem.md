@@ -23,12 +23,12 @@ Ter, no mínimo, um modelo de mensagem do tipo **Atendimento** cadastrado e ativ
 
 1. Na tela de Atendimentos, abra a conversa do contato para o qual deseja enviar o modelo.
 2. Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_modelo-de-mensagem_image.avif)
 
 3. No menu de opções que será exibido, escolha **"Modelo de mensagem"**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `avzEj3tKWwfULDtVQpJI`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_modelo-de-mensagem_image%20%282%29.avif)
 
 
 ### **Passo 2: Selecionar o Modelo**
@@ -49,7 +49,7 @@ Para os demais perfis, este botão não será exibido.
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `zQLsftUs8EPxauHTnGQh`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_modelo-de-mensagem_image%20%283%29.avif)
 
 
 ### **Passo 3: Preencher os Parâmetros (Se houver)**
@@ -59,7 +59,7 @@ Para os demais perfis, este botão não será exibido.
 3. Clique em **"Enviar Mensagem"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `AYW0B9pdIQ2S5YhX51FK`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_modelo-de-mensagem_image%20%284%29.avif)
 
 
 ### **Passo 4: Mensagem Enviada**

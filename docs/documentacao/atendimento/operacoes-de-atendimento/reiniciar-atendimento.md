@@ -38,7 +38,7 @@ Nos canais que operam com **API Não Oficial**, essa exigência não se aplica.
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `MZSFgeXSViCkFp4UFfhg`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_reiniciar-atendimento_image.avif)
 
 
 ### **Passo 2: Selecionar o Modelo de Mensagem**
@@ -49,7 +49,7 @@ Ao clicar em **Reiniciar**, será exibido o painel de seleção de modelo:
 2. Clique em **Continuar** para prosseguir com a configuração.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `hcz7XxUanqpiL2g6GKVo`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_reiniciar-atendimento_image%20%281%29.avif)
 
 
 ### **Passo 3: Preencher Parâmetros e Enviar**
@@ -59,7 +59,7 @@ Se o **Modelo de Mensagem** selecionado contiver variáveis (por exemplo, \[NOME
 Após completar os parâmetros, clique em **Enviar Mensagem** para reiniciar oficialmente o atendimento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `bS5FbD8IMVCzVAsyaqhx`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_reiniciar-atendimento_image%20%282%29.avif)
 
 
 Após o envio do **Modelo de Mensagem**, na área de digitação, será exibida a mensagem: **"Deixe mensagens na fila para serem entregues assim que o contato responder."**
@@ -73,7 +73,7 @@ Durante esse período, você pode preparar mensagens adicionais que serão envia
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `adMGKUkIzh1oZyEnMYlL`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_reiniciar-atendimento_image%20%283%29.avif)
 
 
 :::info

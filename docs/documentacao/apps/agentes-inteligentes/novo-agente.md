@@ -20,13 +20,13 @@ Abordaremos desde as configurações iniciais de ativação da funcionalidade em
 **Passo 1:** Na tela inicial, clique no menu **“Apps”** em seguida clique na opção **“Mais apps”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `6v08l5ljWU5Y6fKBtIWq`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_agentes-inteligentes_novo-agente_image.avif)
 
 
 **Passo 2:** Localize o aplicativo "Agentes de IA" e clique em habilitar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `44BAuY6Lev7rn3GMfeSZ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_agentes-inteligentes_novo-agente_image%20%281%29.avif)
 
 
 #### Como Criar um Novo Agente
@@ -66,7 +66,7 @@ Agora, vamos conectar a plataforma ao serviço de IA que será o "cérebro" do s
 3. Clique em “Salvar”.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `T0ZWFeMzbkPtZRefyBfe`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_agentes-inteligentes_novo-agente_Anima%C3%A7%C3%A3o%20%2812%29.gif)
 
 
 #### Passo 3: Inicie a Criação do Agente
@@ -108,5 +108,5 @@ Após preencher todos os campos obrigatórios (\*), clique no botão **“Salvar
 Você será redirecionado para a tela principal, onde seu novo agente aparecerá listado. Agora ele está pronto para ter suas Habilidades e Base de Conhecimento configuradas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1xFmv4n2FGCt5VVqg1fi`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_agentes-inteligentes_novo-agente_Anima%C3%A7%C3%A3o%20%2813%29.gif)
 

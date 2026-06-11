@@ -20,7 +20,7 @@ Alterar a logomarca de uma empresa pode ser um passo significativo na construç�
 No menu lateral, clique em **Configurações do Negócio**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1V0J5tEZWJyroM5cWkHn`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/alterar-logomarca-do-portifolio_image.avif)
 
 
 **Passo 2:** Acesse a Configuração do WhatsApp
@@ -30,7 +30,7 @@ No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**”.
 Em seguida, role o cursor da lateral direita até o fim e clique em “**Gerenciador de WhatasApp**”.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `X7yZLwEcPRNqHHrpqfEb`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/alterar-logomarca-do-portifolio_image%20%281%29%20%281%29.avif)
 
 
 **Passo 3**: Gerenciador do WhatsApp
@@ -38,7 +38,7 @@ Em seguida, role o cursor da lateral direita até o fim e clique em “**Gerenci
 Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, selecione o ícone de **engrenagem** localizado ao lado do número de telefone;
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/alterar-logomarca-do-portifolio_image%20%281%29.avif)
 
 
 **Passo 4**. Edite o Perfil do WhatsApp
@@ -48,13 +48,13 @@ Dentro das configurações do número selecionado, localize a seção **"Perfil"
 Clique no menu Perfil e, logo abaixo do texto **Foto do perfil**, clique no botão escolher arquivo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/alterar-logomarca-do-portifolio_image%20%282%29.avif)
 
 
 **Passo 5 -** Para alterar descrição ou demais informações, role o cursor e na opção **“Descrição”** você pode inserir as informações que deseja.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/alterar-logomarca-do-portifolio_image%20%283%29.avif)
 
 
 **Considerações Finais**

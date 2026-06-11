@@ -17,7 +17,7 @@ O **Meta Business Manager** é uma plataforma que ajuda empresas a gerenciar sua
 Acesse o site oficial:[ https://business.facebook.com/](https://business.facebook.com/).
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-portifolio_image.avif)
 
 
 **Passo 2:** Ao acessar o site do **Meta Business Manager**, clique em **Criar um portfólio empresarial**.
@@ -31,7 +31,7 @@ Preencha o formulário com as informações solicitadas:
 Após preencher as informações, clique em **Criar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-portifolio_image%20%281%29.avif)
 
 
 Seu **portfólio empresarial** foi criado! Agora você pode começar a gerenciar suas **páginas**, **contas de anúncios** e muito mais.
@@ -39,7 +39,7 @@ Seu **portfólio empresarial** foi criado! Agora você pode começar a gerenciar
 Se precisar adicionar mais **páginas** ou **contas de anúncios**, pode fazer isso diretamente nas **configurações do portfólio empresarial.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-portifolio_image%20%282%29.avif)
 
 
 **Considerações Finais:**

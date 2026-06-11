@@ -87,5 +87,5 @@ Antes de detalhar cada habilidade, entenda os campos que aparecem em quase todas
   * Header de autenticação: Dados de autenticação, se necessários.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `hNaHX8uFMjqb82BlYub6`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_agentes-inteligentes_habilidades_Anima%C3%A7%C3%A3o%20%2811%29.gif)
 

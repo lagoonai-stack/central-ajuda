@@ -20,10 +20,10 @@ Um atendimento pode ser transferido **antes de ser assumido** ou **durante seu a
    * **Atendimentos na fila “Novos”:** o botão aparece no canto inferior direito.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `G88eANfRjoYBOab0torj`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_transferir-atendimento_image.avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `bT09z0eH7CEJVel80BxF`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_transferir-atendimento_image%20%281%29.avif)
 
 
 ### **Passo 2: Escolher o destino da transferência**
@@ -34,7 +34,7 @@ Um atendimento pode ser transferido **antes de ser assumido** ou **durante seu a
 4. Clique em **“Transferir”** para confirmar a ação.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `eTV83M2n56zRAFCX8rQI`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_transferir-atendimento_Anima%C3%A7%C3%A3o%20%2811%29.gif)
 
 
 **Resultado da Transferência**

@@ -9,11 +9,11 @@ Para uma comunicação mais ágil e pessoal, você pode gravar mensagens de voz 
 ### **Passo 1: Iniciar a Gravação**
 
 1. Na janela de conversa, localize e clique no ícone de Microfone
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `tezWgDAWyOex3W6cRZDS`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image.avif)
 
 2. Mantenha o botão pressionado para iniciar a gravação da sua mensagem.
 3. O ícone de microfone se transformará em um ícone de parar
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `WSHIH8y7cD0JHmYDpkFl`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%281%29.avif)
 
 
 ### **Passo 2: Parar e Enviar**
@@ -22,21 +22,21 @@ Para uma comunicação mais ágil e pessoal, você pode gravar mensagens de voz 
 2. O sistema processará o áudio. Uma pré-visualização da mensagem de voz aparecerá na barra de digitação.
 
 * Para **ouvir**, clique no **ícone**
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `MuoZNBkr148sUTXjkN3t`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%282%29.avif)
 
 * Para **cancelar**, clique no **ícone**
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `6bxMbFFmGzfnSsGmT33s`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%283%29.avif)
 
 * Para **enviar**, clique no **ícone**
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `lYkScjL7wpuXgy9VeKKV`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%284%29.avif)
 
 
 3. Ou Clique no ícone de Enviar
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `lYkScjL7wpuXgy9VeKKV`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%285%29.avif)
 para enviar a mensagem de áudio imediatamente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `If29lXBVN5Tw3G9lVt4c`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%286%29.avif)
 
 
 ### **Passo 3: Gerenciando Mídias Enviadas**

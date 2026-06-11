@@ -28,13 +28,13 @@ Com ela, você pode:
 **Passo 1:** Na tela inicial, clique no menu **“Apps”** em seguida clique na opção **“Mais apps”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `6v08l5ljWU5Y6fKBtIWq`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%282%29.avif)
 
 
 **Passo 2:** Localize o aplicativo "Mensagens Agendadas" e clique em habilitar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `kG2IEc0zEsY0DSL3yc6G`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%283%29.avif)
 
 
 #### Como Agendar uma Mensagem
@@ -80,7 +80,7 @@ Ao agendar uma mensagem, os canais e equipes que você pode selecionar dependem 
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ESygKIp0wfxzv3EWTmLf`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%284%29.avif)
 
 
 :::tip
@@ -94,7 +94,7 @@ No entanto, caso precise, você pode utilizar qualquer outro modelo existente em
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Slu6EW3Mdmi9S0AeeNRM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%285%29.avif)
 
 
 :::tip
@@ -108,7 +108,7 @@ Caso precise, você pode usar o filtro para encontrar qualquer outro chatbot ati
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ty6iAhcCPcBQOL9KfbpM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%286%29.avif)
 
 
 #### Como Cancelar uma Mensagem Agendada

@@ -25,13 +25,13 @@ Importante: Essa alteração afeta **todas as pessoas que têm acesso ao Portfó
 Acesse o[ Gerenciador de Negócios da Meta](https://business.facebook.com/). No painel principal do **Portfólio empresarial**, selecione a empresa correta e clique no ícone de **engrenagem**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1V0J5tEZWJyroM5cWkHn`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores_image.avif)
 
 
 **Passo 2:** No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**”. Em seguida, role o cursor da lateral direita até o fim e clique em “**Gerenciador de WhatasApp**”.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `X7yZLwEcPRNqHHrpqfEb`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores_image%20%281%29.avif)
 
 
 **Passo 3**: **Gerenciador do WhatsApp**
@@ -39,7 +39,7 @@ Acesse o[ Gerenciador de Negócios da Meta](https://business.facebook.com/). No 
 Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, selecione o ícone de **engrenagem** localizado ao lado do número de telefone;
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores_image%20%287%29.png)
 
 
 **Passo 4: Gerenciar autenticação de dois fatores**
@@ -47,7 +47,7 @@ Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, s
 Dentro das configurações do número selecionado, localize a seção **"confirmação em duas etapas"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1ntwAIkVjnzNHpnp7Q0J`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores_image%20%288%29.png)
 
 
 **Passo 5: Desativar**
@@ -55,18 +55,18 @@ Dentro das configurações do número selecionado, localize a seção **"confirm
 Clique na opção **“desativar confirmação em duas etapas”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores_image%20%289%29.png)
 
 
 **Passo 5:** Um pop-up será exibido na tela. Clique em **"OK"** para prosseguir e receber o código de confirmação.\
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores_image%20%2810%29.png)
 
 
 **Passo 6:** Verifique se o e-mail com as instruções foi recebido e siga as orientações indicadas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `V7yZbyjKnvYvHaWsCrNv`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores_image%20%2811%29.png)
 
 
 **Passo 7:** Uma nova tela será exibida com a confirmação dos dados. Clique na opção **"Desativar a confirmação em duas etapas"** para concluir o processo.

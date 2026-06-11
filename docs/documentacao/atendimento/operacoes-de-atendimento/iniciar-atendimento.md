@@ -17,7 +17,7 @@ Na plataforma, os atendimentos podem ser iniciados de duas formas:
 3. Clique no botão **“Conversar”** para dar início ao atendimento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `kVZTyYiQ5jvPn6C4KeH8`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_iniciar-atendimento_image%20%282%29.jpg)
 
 
 ### **Passo 2: Escolher o tipo de envio**
@@ -41,7 +41,7 @@ Após clicar em **“Conversar”**, será exibido o painel **Enviar mensagem**.
 7\. Clique em **“Iniciar atendimento”** para abrir o atendimento com o modelo de mensagem selecionado.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `IrpiI4klbeQ6BJKJ2p35`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_iniciar-atendimento_image%20%287%29.png)
 
 
 ### **Iniciar Atendimento pelo "Menu de Opções"**
@@ -54,7 +54,7 @@ Além de iniciar o atendimento pelo campo na barra inferior, você também pode 
 2. No menu que se abre, selecione **“Novo atendimento”**.
 3. No painel lateral, serão exibidos os contatos cadastrados na conta. É possível **pesquisar pelo nome ou pelo número** do contato.
 4. Clique no ícone
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `xsr5O8foKYkVhb0iI4Nk`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_iniciar-atendimento_Anima%C3%A7%C3%A3o%20%2811%29.gif)
 para iniciar o atendimento.
 
 :::info
@@ -64,7 +64,7 @@ Ao iniciar pelo menu de opções, serão exibidos os mesmos painéis do fluxo pa
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `h6ONMD5qFVyAbH5dXSgA`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_iniciar-atendimento_Anima%C3%A7%C3%A3o%20%2812%29.gif)
 
 
 ### **Adicionar um novo contato**
