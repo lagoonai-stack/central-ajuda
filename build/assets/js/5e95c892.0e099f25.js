@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkcentral_ajuda_lagoon=globalThis.webpackChunkcentral_ajuda_lagoon||[]).push([[9647],{8122(a,e,r){r.r(e),r.d(e,{default:()=>t});r(6540);var l=r(4164),s=r(204),n=r(1769),u=r(2831),c=r(1410),o=r(4848);function t(a){return(0,o.jsx)(n.e3,{className:(0,l.A)(s.G.wrapper.docsPages),children:(0,o.jsx)(c.A,{children:(0,u.v)(a.route.routes)})})}}}]);
