@@ -18,12 +18,12 @@ A funcionalidade de solicitação de pagamentos permite agilizar e simplificar o
 
 1. Na tela de Atendimentos, selecione a conversa em que deseja enviar a solicitação de pagamento.
 2. Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image.avif)
 
 3. No menu exibido, selecione a opção **“Solicitar pagamento”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `5HHq3S1RcKbLQ4DaKO12`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(1).avif)
 
 
 ### **Passo 2: Configurar o Pagamento**
@@ -41,7 +41,7 @@ Ao selecionar a opção de solicitação, será aberto um caixa de seleção par
 4. Defina a **data de vencimento/limite** para o pagamento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `XJ9Xl8bXEoCpYKas5FWR`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(4).avif)
 
 
 **Aba: Dados do Cliente**
@@ -51,10 +51,10 @@ Ao selecionar a opção de solicitação, será aberto um caixa de seleção par
 3. Você também pode optar por solicitar que o cliente preencha esses dados no momento do pagamento, marcando o checkbox **“Solicitar dados do cliente no momento do pagamento”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `fPEXtdQ1xMRaEE6heiFm`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(5).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `or8QvxBF26wfWuPwih66`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(7).png)
 
 
 **Aba: Endereço do Cliente**

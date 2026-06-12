@@ -29,43 +29,43 @@ Quando a funcionalidade de Distribuição de Atendimento está habilitada, o enc
 **Passo 1:** Na tela inicial, clique no menu "Apps" e localize o aplicativo "Distribuição de atendimentos".
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `WRE707z2O29jrqR2zstO`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image.avif)
 
 
 **Passo 2:** Clique em habilitar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(1).avif)
 
 
 **Passo 3:** Uma tela de configuração será aberta. Ative a chave para habilitar o aplicativo e defina a(s) equipe(s) que terá(ão) a funcionalidade de distribuição de atendimentos. Finalmente, clique em "Salvar" para aplicar as configurações.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `S5qCzxlAc7O37bkOZJ8h`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(3).avif)
 
 
 **Passo 4:** Em Ajustes ⟶ Equipes é possível visualizar a ordem que os atendimentos são distribuídos e uma seta estará no próximo atendente que receberá o atendimento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `XMbOcStoaN5zVaiymWAw`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(4).avif)
 
 
 **Passo 5:** É possível configurar as informações da distribuição de atendimento clicando em: Ajustes ⟶ Equipes ⟶ Selecione a equipe ⟶ Alterar
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(5).avif)
 
 
 **Passo 6:** Se abrirá a janela de ajustes, é possível desabilitar/ habilitar a função de distribuição de atendimentos e ativar a função de transbordo na distribuição, que determina um tempo de expiração dos atendimentos na equipe. O limite de tempo é entre 10 minutos e 1 hora.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(7).png)
 
 
 **Passo 7:** A disponibilidade do atendente pode ser configurada pelo administrador para evitar recebimento de mensagens durante férias ou folgas, Vá em Equipes ⟶ Selecione a Equipe que o usuário pertence ⟶ Clique no ícone "✅" junto ao nome do usuário ⟶ Selecione a opção "Indisponível".
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(8).png)
 
 
 **Visualização do Timer:**

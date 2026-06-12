@@ -19,7 +19,7 @@ A funcionalidade **Sequências** permite programar uma série de mensagens envia
 No menu principal, clique em **Apps** e selecione **Sequências**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `MtwMYVpMIZqQ59INrI2w`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/criar/image.avif)
 
 
 ## Crie uma nova sequência
@@ -29,7 +29,7 @@ No menu principal, clique em **Apps** e selecione **Sequências**.
 3. Clique em **Continuar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `RxrzUd1vF4d4k3YfKivT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/criar/image%20(1).avif)
 
 
 ## Configure a primeira etapa
@@ -37,7 +37,7 @@ No menu principal, clique em **Apps** e selecione **Sequências**.
 Você será direcionado para a página de configuração da sequência. Clique no botão **+** para adicionar a primeira etapa.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `flyxnPBD9cn1wCZFLGnR`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/criar/image%20(2).avif)
 
 
 Na janela **Criar etapa**, preencha as configurações:

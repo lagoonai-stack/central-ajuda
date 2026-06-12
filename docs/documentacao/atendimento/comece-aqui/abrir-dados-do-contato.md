@@ -11,7 +11,7 @@ O Painel de Dados do Contato oferece uma visão detalhada e funcionalidades de g
 Para acessar, estando dentro de um atendimento, localize e clique no ícone Dados do Contato no canto superior direito da tela. O painel se expandirá na lateral direita.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `oLw0GbR4oOe8TuwcD7ZG`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/central-de-atendimento/dados-do-contato-e-gestao-rapida/image.avif)
 
 
 ### **1.2. Ações de Gestão (Ícones Superiores)**
@@ -23,7 +23,7 @@ Na barra superior do painel, você encontra ícones de ações rápidas para ger
 * **Editar Contato:** Abre o modo de edição dos campos.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ZN1hgeqHm4VyoGR0a2AK`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/central-de-atendimento/dados-do-contato-e-gestao-rapida/image%20(1).avif)
 
 
 ## 2. Visão Detalhada: Abas do Contato
@@ -65,5 +65,5 @@ Você pode acompanhar:
 * **Status Financeiro:** O status atualizado de cada transação (como "Vencido", "Pago", "Pendente", etc.), permitindo que você identifique rapidamente pendências financeiras durante o atendimento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `8JRznmfPsEYdODPfq6h3`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/central-de-atendimento/dados-do-contato-e-gestao-rapida/image%20(2).avif)
 

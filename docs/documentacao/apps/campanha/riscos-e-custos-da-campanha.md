@@ -31,7 +31,7 @@ O **bloqueio de um número** ocorre com base na sua **classificação de qualida
 5. Verifique a **Qualidade nos últimos 30 dias**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_risco-e-custos-de-campanha_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/risco-e-custos-de-campanha/image.avif)
 
 
 **Status da qualidade**

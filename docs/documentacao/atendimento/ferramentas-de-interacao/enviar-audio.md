@@ -10,12 +10,12 @@ O envio de mensagens de áudio é uma funcionalidade que permite uma comunicaç�
 
 1. Na tela de Atendimentos, selecione a conversa para a qual deseja enviar o áudio.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image.avif)
 
 3. No menu de opções que será exibido, escolha **"Áudio".**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(1).avif)
 
 
 ### **Passo 2**: **Selecionar e Enviar o Arquivo**
@@ -27,7 +27,7 @@ O envio de mensagens de áudio é uma funcionalidade que permite uma comunicaç�
 5. O áudio será carregado e enviada ao contato, ficando disponível para que o contato ouça ou faça *download*.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(2).avif)
 
 
 ### **Passo 3: Gerenciando Mídias Enviadas**
@@ -42,7 +42,7 @@ Ao passar o mouse sobre a mensagem de mídia, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%283%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(3).avif)
 
 
 #### **Ações de Seleção**
@@ -54,10 +54,10 @@ Você também pode selecionar uma ou mais mensagens de mídia clicando na caixa 
 * **Excluir:** Remove as mídias selecionadas.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%284%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(4).avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%285%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(5).avif)
 
 
 #### **Excluindo uma Mensagem**
@@ -68,7 +68,7 @@ Ao clicar em **"Excluir"** na barra de ações, um pop-up de confirmação será
 2. **Apagar para todos:** Remove a mensagem para você e para o contato **(Nota: Esta opção está disponível apenas para canais da API Não Oficial).**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%286%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(6).avif)
 
 
 #### **Mais Opções**
@@ -81,10 +81,10 @@ Após um áudio ser enviado ou recebido, você pode gerenciá-lo usando o menu "
    * **Velocidade da reprodução:** Permite otimizar seu tempo. Ao clicar, você pode alterar a velocidade de reprodução do áudio (ex: 1.5x ou 2x).
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%287%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(7).avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%287%29.png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(8).avif)
 
 
 #### **Detalhes da Mensagem (Avançado)**
@@ -95,7 +95,7 @@ Clicando no menu de três pontos (`...`) ao lado da mensagem, você pode acessar
 * Para usuários com perfil de **Administrador**, esta tela também exibe o **"ID da mensagem"** e o **"ID do canal"**, informações úteis para auditoria e integrações.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_enviar-audio_image%20%288%29.avif)
+> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `soMHltodfE1Wm8CPbAEs`)
 
 
 ### Regras de Formato e Tamanho por Canal

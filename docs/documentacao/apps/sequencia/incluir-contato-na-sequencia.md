@@ -9,7 +9,7 @@ A inclusão de contatos em uma sequência é feita manualmente, diretamente na p
 Na página da sequência, clique no botão **+ Adicionar contatos** no canto superior direito da tela. O modal **Adicionar contatos** será exibido com três opções de inclusão.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1cILvQUuz2EIPRdEFZ8d`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/incluir-contatos/image%20(2).jpg)
 
 
 Escolha uma das opções abaixo de acordo com a sua necessidade.
@@ -33,7 +33,7 @@ Utilize os filtros da sua base de contatos salvos para selecionar quem receberá
 7. Após a confirmação, os contatos serão adicionados à sequência.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `50vK3UZyy0X60cBABSp2`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/incluir-contatos/image%20(7).png)
 
 
 ## **Lista de números**
@@ -48,7 +48,7 @@ Adicione contatos informando diretamente os números de telefone.
 6. Após a confirmação, os contatos serão adicionados à sequência.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `E2xuP4HejMCoNfED32B4`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/incluir-contatos/image%20(8).png)
 
 
 ## **Todos os contatos**
@@ -61,7 +61,7 @@ Adiciona todos os contatos cadastrados na plataforma à sequência de uma só ve
 4. Após a confirmação, todos os contatos serão adicionados à sequência.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `YHp4y7u8NaEkY8KDJH4V`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/incluir-contatos/image%20(9).png)
 
 
 :::danger
@@ -83,7 +83,7 @@ Ao adicionar mais de 10 contatos, o sistema exibe automaticamente uma notificaç
 Quando o processo é concluído, a notificação é atualizada informando a quantidade de contatos adicionados com sucesso. Caso ocorra algum erro ou a ação seja cancelada, a notificação informará quantos contatos foram processados e quantos não foram concluídos.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `fI3djSRdfYaLZfnJzlof`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/incluir-contatos/image%20(10).png)
 
 
 ## Auditoria

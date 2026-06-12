@@ -28,13 +28,13 @@ Com ela, você pode:
 **Passo 1:** Na tela inicial, clique no menu **“Apps”** em seguida clique na opção **“Mais apps”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/mensagens-agendadas/como-gerenciar-os-agendamentos/image%20(2).avif)
 
 
 **Passo 2:** Localize o aplicativo "Mensagens Agendadas" e clique em habilitar.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%283%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/mensagens-agendadas/como-gerenciar-os-agendamentos/image%20(3).avif)
 
 
 #### Como Agendar uma Mensagem
@@ -80,7 +80,7 @@ Ao agendar uma mensagem, os canais e equipes que você pode selecionar dependem 
 :::
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%284%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/mensagens-agendadas/como-gerenciar-os-agendamentos/image%20(4).avif)
 
 
 :::tip
@@ -94,7 +94,7 @@ No entanto, caso precise, você pode utilizar qualquer outro modelo existente em
 :::
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%285%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/mensagens-agendadas/como-gerenciar-os-agendamentos/image%20(5).avif)
 
 
 :::tip
@@ -108,7 +108,7 @@ Caso precise, você pode usar o filtro para encontrar qualquer outro chatbot ati
 :::
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_como-gerenciar-os-agendamentos_image%20%286%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/mensagens-agendadas/como-gerenciar-os-agendamentos/image%20(6).avif)
 
 
 #### Como Cancelar uma Mensagem Agendada

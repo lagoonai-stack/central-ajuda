@@ -23,12 +23,12 @@ Ter, no mínimo, um modelo de mensagem do tipo **Atendimento** cadastrado e ativ
 
 1. Na tela de Atendimentos, abra a conversa do contato para o qual deseja enviar o modelo.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_modelo-de-mensagem_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image.avif)
 
 3. No menu de opções que será exibido, escolha **"Modelo de mensagem"**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_modelo-de-mensagem_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(2).avif)
 
 
 ### **Passo 2: Selecionar o Modelo**
@@ -49,7 +49,7 @@ Para os demais perfis, este botão não será exibido.
 :::
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_modelo-de-mensagem_image%20%283%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(3).avif)
 
 
 ### **Passo 3: Preencher os Parâmetros (Se houver)**
@@ -59,7 +59,7 @@ Para os demais perfis, este botão não será exibido.
 3. Clique em **"Enviar Mensagem"**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_modelo-de-mensagem_image%20%284%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(4).avif)
 
 
 ### **Passo 4: Mensagem Enviada**
@@ -68,7 +68,7 @@ Para os demais perfis, este botão não será exibido.
 2. Aguarde o contato responder para que a janela de atendimento seja aberta e você possa conversar livremente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `wmQoC6L8ltCtu5E6M1QM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(5).avif)
 
 
 :::tip

@@ -14,7 +14,7 @@ Use o campo de **Pesquisa** para localizar contatos por nome ou parte do nome. P
 Após configurar, clique em **Aplicar filtro**. Para desfazer, clique em **Limpar filtros**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_concluidos_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/concluidos/image.avif)
 
 
 ## Visualizar dados do contato
@@ -22,7 +22,7 @@ Após configurar, clique em **Aplicar filtro**. Para desfazer, clique em **Limpa
 Clique no ícone de **Visualizar contato** para abrir o modal **Dados do contato**, com as informações completas: detalhes, mensagens agendadas, arquivos, conversas, pagamentos e painéis vinculados.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_concluidos_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/concluidos/image%20(1).avif)
 
 
 ## Andamento da sequência
@@ -40,7 +40,7 @@ O modal exibe:
 * **Etapas especiais:** quando aplicáveis, são exibidas as etapas de Reiniciar sequência (com as configurações cadastradas), Finalizar sequência e Remover contato (com as condições configuradas)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_concluidos_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/concluidos/image%20(2).avif)
 
 
 ***

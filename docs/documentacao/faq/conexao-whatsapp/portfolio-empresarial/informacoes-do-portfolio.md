@@ -20,29 +20,29 @@ O **portfólio empresarial** no **Meta Business Manager** é uma seção onde vo
 No menu lateral esquerdo, clique em **"Gerenciador de Negócios"**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image.avif)
 
 
 **Passo 2:** Uma nova aba será aberta. Na lateral esquerda, role para baixo e clique em **'Informações da empresa'**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(1).avif)
 
 
 **Passo 3:** A tela para edição das informações da empresa será exibida. Clique no ícone para editar as informações da sua empresa. Preencha todos os campos corretamente, pois para integrar um número, é imprescindível que esses dados estejam completos e que o **site da empresa** esteja ativo e com **certificado de segurança**."
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(2).avif)
 
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio_image%20%283%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(3).avif)
 
 
 **Passo 4**: Após o preenchimento clique em **salvar**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio_image%20%287%29.png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(7).png)
 
 
 **Considerações Finais**

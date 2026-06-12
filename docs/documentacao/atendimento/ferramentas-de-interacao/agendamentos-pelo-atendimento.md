@@ -10,12 +10,12 @@ Você pode programar o envio de uma mensagem ou o início de um chatbot para o f
 
 * Na tela de Atendimentos, abra a conversa do contato para o qual deseja agendar uma mensagem.
 * Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image.avif)
 
 * No menu de opções que será exibido, escolha **“Agendar Mensagem”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `AHh8PObJHQ3POW0bH8oM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(1).avif)
 
 
 ## Passo 2: Definir a Data e o Conteúdo
@@ -38,7 +38,7 @@ Ao agendar a partir de um atendimento, o sistema preenche automaticamente o Cana
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `kFtvdJh7Lsm1s8shlbrI`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(2).avif)
 
 
 ## Passo 3: Selecionar o Conteúdo e Agendar
@@ -51,7 +51,7 @@ Após clicar em "Próximo", você será direcionado para a tela de seleção de 
   3. Preencha as variáveis do modelo (se houver) e clique em **"Agendar mensagem"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `VuJvRXGCwCiP1dkxmnny`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(3).avif)
 
 
 :::warning
@@ -67,7 +67,7 @@ O botão **"+ Novo"**, que permite criar um novo modelo de mensagem diretamente 
   2. Clique em **"Agendar mensagem"** para finalizar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `tFkMFDko99ajwAz64qe3`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(4).avif)
 
 
 ## Consultando Agendamentos do Contato

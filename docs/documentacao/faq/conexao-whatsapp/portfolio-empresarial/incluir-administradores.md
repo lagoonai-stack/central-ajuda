@@ -19,19 +19,19 @@ Administradores no **portfólio empresarial** têm permissões avançadas para g
 **Passo 1**: Abra o navegador e acesse o site oficial da **Meta Business Site**: https://business.facebook.com/. Faça login com a conta vinculada ao **portfólio empresarial** da sua empresa.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(1).avif)
 
 
 **Passo 2:** No painel principal, clique na opção **Pessoas**. Em seguida, selecione a opção **+ Convidar Pessoas.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(2).avif)
 
 
 **Passo 3:** Uma nova aba se abrirá, preencha o email da pessoa que será convidada para o **portfólio empresarial**. Clique em avançar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(3).avif)
 
 
 **Passo 4:** Na aba seguinte, defina o **perfil de acesso** do convidado. Você pode escolher entre:
@@ -43,19 +43,19 @@ Administradores no **portfólio empresarial** têm permissões avançadas para g
 Após definir o perfil, clique em **Avançar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(4).avif)
 
 
 **Passo 5:** Na aba, defina quais **ativos de negócio** o convidado terá acesso, como **páginas**, **contas de anúncios**, **catálogos de produtos** ou outros recursos disponíveis. Após definir, clique em **Avançar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(5).avif)
 
 
 **Passo 6:** Na última aba, revise todas as **informações preenchidas no convite** para garantir que estão corretas antes de enviá-lo. Clique em **enviar convite**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(7).png)
 
 
 **Passo 7:** Uma tela de confirmação do envio do convite será exibida.

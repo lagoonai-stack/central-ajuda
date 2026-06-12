@@ -55,5 +55,5 @@ Aqui você refina a forma e o ritmo da comunicação da IA.
   * Regra de Negócio: Por padrão, a opção “Imediatamente” vem selecionada. Você pode escolher um valor entre 1 e 40 segundos para o atraso.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `O4pTtzxeJd8NizpdutM0`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/agentes-inteligentes/habilidades/Anima%C3%A7%C3%A3o%20(11).gif)
 

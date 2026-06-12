@@ -13,7 +13,7 @@ title: "Remover Contatos"
 3. O contato será removido da sequência sem solicitação de código de validação.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_remover-contatos_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/remover-contatos/image.avif)
 
 
 ### **Pelo checkbox**
@@ -24,7 +24,7 @@ title: "Remover Contatos"
 4. O contato será removido da sequência sem solicitação de código de validação.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_remover-contatos_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/remover-contatos/image%20(1).avif)
 
 
 ## Selecionar e remover contatos em massa
@@ -37,7 +37,7 @@ title: "Remover Contatos"
 6. Os contatos selecionados serão removidos da sequência.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_remover-contatos_image%20%283%29.gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/remover-contatos/image%20(3).gif)
 
 
 :::info
@@ -53,7 +53,7 @@ Ao remover mais de 10 contatos, o sistema exibe automaticamente uma notificaçã
 Quando o processo é concluído, a notificação é atualizada informando a quantidade de contatos removidos com sucesso. Caso ocorra algum erro ou a ação seja cancelada, a notificação informará quantos contatos foram processados e quantos não foram concluídos.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_remover-contatos_image%20%284%29.gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/remover-contatos/image%20(4).gif)
 
 
 ## Auditoria

@@ -15,7 +15,7 @@ A exportação de conversas é uma funcionalidade essencial para equipes que des
 **Passo 1:** Na tela inicial da plataforma, clique na opção **“Relatórios”**, o menu de opções se abrirá, clique em **Atendimentos**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-exportar-mensagens-plataforma/image%20(7).png)
 
 
 **Passo 2:** Aplique os filtros desejados
@@ -35,7 +35,7 @@ Use os filtros disponíveis no menu da tela para refinar os dados que deseja exp
 Isso garante que apenas as conversas relevantes sejam incluídas no relatório.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `MiiDsM1AH0KerP1lNd4S`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-exportar-mensagens-plataforma/image%20(8).png)
 
 
 **Passo 3:** Após aplicar os filtros desejados, clique no botão **Exportar**, localizado no canto superior direito da tela. Um pop-up será exibido com duas opções de exportação:
@@ -46,7 +46,7 @@ Isso garante que apenas as conversas relevantes sejam incluídas no relatório.
 Selecione a opção **Exportar mensagens** para obter o histórico das conversas na íntegra.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `rRA2AIbgbsGGg8kk8Z9p`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-exportar-mensagens-plataforma/image%20(9).png)
 
 
 **Passo 4:** Acesse o arquivo gerado
@@ -62,7 +62,7 @@ Para acessar o arquivo:
 O arquivo gerado será no formato .**xls,** ideal para ser visualizado em ferramentas como Excel, Google Sheets ou outros editores de planilha compatíveis.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `cFUp5UFzIEwG2ciaLnxI`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-exportar-mensagens-plataforma/image%20(10).png)
 
 
 **Considerações finais**

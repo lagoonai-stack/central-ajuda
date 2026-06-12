@@ -19,13 +19,13 @@ A Meta Business permite acompanhar os custos das conversas realizadas através d
 No menu lateral, clique em **Configurações do Negócio**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `UxMNMjsNwvpzboLYLd9J`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/extrato/image.avif)
 
 
 **Passo 2:** Na BM, selecione '**Conta do WhatsApp**'. Em seguida, no canto inferior direito, acesse '**Configurações de Pagamento'**."
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/extrato/image%20(1).avif)
 
 
 **Passo 3:** Uma nova aba se abrirá, clique na opção **atividade de pagamento.**
@@ -42,7 +42,7 @@ No menu lateral, clique em **Configurações do Negócio**.
 * O arquivo será gerado em formato PDF ou CSV para análise detalhada.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/extrato/image%20(2).avif)
 
 
 **Considerações Finais:**

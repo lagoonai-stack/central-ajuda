@@ -18,13 +18,13 @@ Para utilizar a API Oficial do WhatsApp Business, é necessário cadastrar uma f
 No menu lateral, clique em **Configurações do Negócio.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Q9i8q0BkxAUoxOpWCStB`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/configurar/image.avif)
 
 
 **Passo 2:** Na BM, selecione '**Conta do WhatsApp**'. Em seguida, no canto inferior direito, acesse '**Configurações de Pagamento'**."
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `G4N3XVPYZBDNaQeXhJkq`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/configurar/image%20(1).avif)
 
 
 **Passo 3: Configurar Formas de Pagamento**
@@ -48,7 +48,7 @@ Nesta etapa, você conectará um método de pagamento ao seu portfólio empresar
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `kvVre7IzTxa7xwQkvBjt`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/configurar/image%20(2).avif)
 
 
 **Passo 4: Preencher Localização e Moeda**
@@ -62,7 +62,7 @@ Uma janela de configuração será exibida. Preencha os campos com atenção, po
 * Após preencher, clique em **Avançar.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/configurar/image%20(3).avif)
 
 
 **Passo 5: Inserir os Dados do Cartão de Crédito**
@@ -77,7 +77,7 @@ Agora, você precisará fornecer os detalhes do seu cartão de crédito ou débi
 Após inserir todas as informações corretamente, clique em **"Salvar"** para concluir o processo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/configurar/image%20(4).avif)
 
 
 **Passo 6: Vincular Forma de Pagamento à Conta do WhatsApp**

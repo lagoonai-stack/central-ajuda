@@ -22,12 +22,12 @@ Existem duas formas de acessar e enviar suas mensagens rápidas:
 
 1. Na tela de Atendimentos, abra a conversa do contato para o qual deseja enviar o modelo.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_mensagens-rapidas_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image.avif)
 
 3. No menu de opções que será exibido, escolha **"Mensagens Rápidas"**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_mensagens-rapidas_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(2).avif)
 
 
 ### **Passo 2: Selecionar e Enviar a Mensagem**
@@ -37,7 +37,7 @@ Existem duas formas de acessar e enviar suas mensagens rápidas:
 3. Clique na mensagem que você quer enviar.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_mensagens-rapidas_image%20%283%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(3).avif)
 
 
 1. A mensagem será **automaticamente inserida na barra de digitação**
@@ -45,7 +45,7 @@ Existem duas formas de acessar e enviar suas mensagens rápidas:
 3. Clique no **ícone de Envio** (➤) para enviar a mensagem.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_mensagens-rapidas_image%20%283%29.gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(3).gif)
 
 
 ## 2° Usando o Atalho de Barra (/)
@@ -69,7 +69,7 @@ Esta é a forma mais ágil de usar a funcionalidade.
 3. Clique no **ícone de Envio** (➤)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `7Bje05glxd264EZ2raeB`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(4).avif)
 
 
 ### **Passo 4: Gerenciando Mídias Enviadas**

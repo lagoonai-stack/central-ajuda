@@ -16,7 +16,7 @@ Para refinar a lista, clique em **Filtros** e filtre por:
 Após configurar, clique em **Aplicar filtro**. Para desfazer, clique em **Limpar filtros**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_contatos-na-sequencia_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/contatos-na-sequencia/image.avif)
 
 
 ## Andamento da sequência
@@ -24,7 +24,7 @@ Após configurar, clique em **Aplicar filtro**. Para desfazer, clique em **Limpa
 Para ver o progresso de um contato na sequência, clique no ícone de **Andamento da sequência** ao lado do contato. O modal exibirá cada etapa do fluxo com o status do disparo — agendado, enviado ou com falha — e as datas previstas de execução.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_contatos-na-sequencia_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/contatos-na-sequencia/image%20(1).avif)
 
 
 ## Visualizar dados do contato
@@ -32,7 +32,7 @@ Para ver o progresso de um contato na sequência, clique no ícone de **Andament
 Clique no ícone de **Visualizar contato** para abrir o modal **Dados do contato**, com as informações completas do contato: detalhes, mensagens agendadas, arquivos, conversas, pagamentos e painéis vinculados.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_contatos-na-sequencia_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/contatos-na-sequencia/image%20(2).avif)
 
 
 ***

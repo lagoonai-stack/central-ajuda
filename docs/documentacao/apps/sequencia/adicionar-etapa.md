@@ -22,7 +22,7 @@ As etapas definem o que será enviado, quando e em qual canal dentro de uma sequ
 Na página da sequência, clique no botão **+** localizado entre as etapas existentes e o bloco de finalização.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `fxNIXSp17xN6LEeELQXF`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/adicionar-desabilitar-etapa/image.avif)
 
 
 Na janela **Criar etapa**, preencha as configurações:
@@ -39,7 +39,7 @@ Na janela **Criar etapa**, preencha as configurações:
 7. Clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `jXxbtZhRb4Sag7rnx4JU`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/adicionar-desabilitar-etapa/image%20(1).avif)
 
 
 ### Revisar e salvar a sequência
@@ -47,7 +47,7 @@ Na janela **Criar etapa**, preencha as configurações:
 Confira se todas as etapas estão na ordem correta e com as configurações desejadas. Clique em **Salvar Alterações** para confirmar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1fWNmJ1wMYPDUEgyyhfe`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/adicionar-desabilitar-etapa/image%20(5).avif)
 
 
 ## Etapas especiais
@@ -65,7 +65,7 @@ Permite que a sequência seja reiniciada automaticamente após sua conclusão, c
 3. Clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `PtK0tDxrNTIh4MjMVWZ7`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/adicionar-desabilitar-etapa/image%20(6).avif)
 
 
 ### **Finalizar sequência**
@@ -73,7 +73,7 @@ Permite que a sequência seja reiniciada automaticamente após sua conclusão, c
 Marca o encerramento do fluxo para o contato. Não possui configurações adicionais — a etapa é adicionada automaticamente ao salvar a primeira etapa da sequência.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Mf45dotEJhM9NW3m8Eca`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/adicionar-desabilitar-etapa/image%20(7).png)
 
 
 ### **Remover contato**

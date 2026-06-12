@@ -20,10 +20,10 @@ Um atendimento pode ser transferido **antes de ser assumido** ou **durante seu a
    * **Atendimentos na fila “Novos”:** o botão aparece no canto inferior direito.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_transferir-atendimento_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/transferir-atendimento/image.avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_transferir-atendimento_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/transferir-atendimento/image%20(1).avif)
 
 
 ### **Passo 2: Escolher o destino da transferência**
@@ -34,7 +34,7 @@ Um atendimento pode ser transferido **antes de ser assumido** ou **durante seu a
 4. Clique em **“Transferir”** para confirmar a ação.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_transferir-atendimento_Anima%C3%A7%C3%A3o%20%2811%29.gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/transferir-atendimento/Anima%C3%A7%C3%A3o%20(11).gif)
 
 
 **Resultado da Transferência**

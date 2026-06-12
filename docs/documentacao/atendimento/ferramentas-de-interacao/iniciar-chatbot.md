@@ -18,12 +18,12 @@ O uso de chatbots contribui para aumentar a eficiência operacional e aprimorar 
 
 1. Com a conversa já iniciada, na tela de **Atendimentos**, selecione a conversa em que deseja enviar o chatbot.
 2. Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image.avif)
 
 3. No menu exibido, selecione a opção **“Iniciar chatbot”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `RUivPpmZ01qykPsF1HYP`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(1).avif)
 
 
 **Passo 2: Selecionar e Enviar o Chatbot**
@@ -36,7 +36,7 @@ Ao escolher a opção **Iniciar chatbot**, será aberto uma caixa de seleção p
 4. Ao clicar no chatbot desejado, ele será **imediatamente enviado** na conversa e a automação será iniciada.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `sB2O029jtvs181w42Vr1`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(2).avif)
 
 
 **Passo 3: Início do Chatbot e Opção de Interromper o Fluxo**
@@ -46,7 +46,7 @@ Ao escolher a opção **Iniciar chatbot**, será aberto uma caixa de seleção p
 3. Durante a execução, também ficará disponível a opção **“Interromper fluxo do chatbot”**, permitindo encerrar a automação a qualquer momento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `LLogHzNaWsfKSFv2dtdk`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(3).avif)
 
 
 **Passo 4: Interromper o Fluxo do Chatbot**
@@ -59,10 +59,10 @@ Ao confirmar a ação clicando em **“Interromper”**:
 * O usuário do atendimento pode enviar mensagens normalmente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `YCsuFOWVHe0bVJL3WOtp`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(4).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `rzmmwCTXH2KKq9gJ7pj2`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(5).avif)
 
 
 **Passo 5: Gerenciando Mensagens Enviadas**
@@ -77,7 +77,7 @@ Ao passar o mouse sobre a mensagem, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador (Disponível apenas para mensagens que contêm arquivos.)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Rvk4X55ewcosWG96xQwY`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(6).avif)
 
 
 **Ações de Seleção**
@@ -89,10 +89,10 @@ Você também pode selecionar uma ou mais mensagens clicando na caixa de seleç�
 * **Encaminhar:** Envia as mensagens selecionadas para outra conversa.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `aXRZYXzdLzKs5Mdj8QdH`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(7).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `7m3kd3pcxgiAFIDma4YJ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(8).avif)
 
 
 **Excluindo uma Mensagem**

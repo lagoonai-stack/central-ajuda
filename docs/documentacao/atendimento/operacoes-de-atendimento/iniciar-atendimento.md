@@ -17,7 +17,7 @@ Na plataforma, os atendimentos podem ser iniciados de duas formas:
 3. Clique no botão **“Conversar”** para dar início ao atendimento.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_iniciar-atendimento_image%20%282%29.jpg)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/image%20(2).jpg)
 
 
 ### **Passo 2: Escolher o tipo de envio**
@@ -41,7 +41,7 @@ Após clicar em **“Conversar”**, será exibido o painel **Enviar mensagem**.
 7\. Clique em **“Iniciar atendimento”** para abrir o atendimento com o modelo de mensagem selecionado.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_iniciar-atendimento_image%20%287%29.png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/image%20(7).png)
 
 
 ### **Iniciar Atendimento pelo "Menu de Opções"**
@@ -54,7 +54,7 @@ Além de iniciar o atendimento pelo campo na barra inferior, você também pode 
 2. No menu que se abre, selecione **“Novo atendimento”**.
 3. No painel lateral, serão exibidos os contatos cadastrados na conta. É possível **pesquisar pelo nome ou pelo número** do contato.
 4. Clique no ícone
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_iniciar-atendimento_Anima%C3%A7%C3%A3o%20%2811%29.gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/Anima%C3%A7%C3%A3o%20(11).gif)
 para iniciar o atendimento.
 
 :::info
@@ -64,7 +64,7 @@ Ao iniciar pelo menu de opções, serão exibidos os mesmos painéis do fluxo pa
 :::
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_iniciar-atendimento_Anima%C3%A7%C3%A3o%20%2812%29.gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/Anima%C3%A7%C3%A3o%20(12).gif)
 
 
 ### **Adicionar um novo contato**

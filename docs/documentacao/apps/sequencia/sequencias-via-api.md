@@ -60,7 +60,7 @@ Remove múltiplos contatos de uma sequência em uma única requisição.
 * **Parâmetros necessários:** ID da sequência + lista de IDs dos contatos ou telefones
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_sequencias_sequencias-via-api_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/sequencias-via-api/image.avif)
 
 
 ***

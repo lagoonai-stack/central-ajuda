@@ -15,7 +15,7 @@ Este guia explica como configurar as **preferências de arquivamento** na plataf
 2. Clique na **seta ao lado do botão Concluir** para exibir o painel de opções.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ZIGUBHcly2VcHXGU7bTR`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/preferencia-arquivamento/image.avif)
 
 
 ### **Passo 2: Definir a Ação ao Concluir um Atendimento**

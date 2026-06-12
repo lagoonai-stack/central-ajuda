@@ -23,20 +23,20 @@ Neste artigo, você vai aprender como configurar um chatbot na **plataforma** de
 **Passo 1:** No painel da **plataforma**, clique no menu **"Apps**" e em seguida selecione **"Chatbot"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `XGRGG6fEsoCJcrj7t7o6`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(2).jpg)
 
 
 **Passo 2**: Defina o **tipo de Chatbot** (Atendimento ou Automação), em seguida clique em “+ **Novo "** para iniciar a criação de um fluxo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `D9Q2gqDsnl7gK0cHZRev`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(7).png)
 
 
 **Passo 3:** Escolha um nome que represente a função do bot (ex: "Bot de Suporte", "Bot Comercial").
 Selecione o canal no qual o **chatbot** será ativado (WhatsApp, Instagram ou Facebook), e qual a equipe padrão onde todas as conversas que se iniciarem serão criadas Clique no botão **"salvar".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `KR69aIh4THBbP3VmCRgo`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(8).png)
 
 
 **Passo 4:** O sistema vai apresentar a tela de edição do seu **chatbot**. No centro da tela serão exibidos os componentes de execução do chatbot, à direita será exibida a apresentação do seu chatbot, ou seja, como ele será exibido no **WhatsApp** do seu cliente.
@@ -44,7 +44,7 @@ Selecione o canal no qual o **chatbot** será ativado (WhatsApp, Instagram ou Fa
 Abaixo, no centro da tela, tem um botão de **salvar as alterações**. Do lado esquerdo tem um botão para **testar** e do lado direito um botão para **publicar a versão em produção**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Ih1Ql0KLf4GGHDdtVNrM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(9).png)
 
 
 :::danger
@@ -60,31 +60,31 @@ Abaixo, no centro da tela, tem um botão de **salvar as alterações**. Do lado 
 **Passo 5**: Agora é o momento de definir as **instruções que o seu chatbot deverá executar**. Para isso, clique no botão **“+”** e selecione uma das opções disponíveis a seguir:
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `sELljHJHhJnS4qeI8BLz`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(10).png)
 
 
 * **Mensagem: i**nstrução que vai disparar uma mensagem tão logo chegue a vez dela no fluxo do seu chatbot. Essa mensagem pode ser uma mensagem de texto apenas, um áudio, uma mensagem de texto com imagem / vídeo ou pode ser um documento um PDF. Durante a execução o chatbot vai exibir essa mensagem e vai passar para a próxima instrução.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `7vgGlGyYLwYHnNJDocRB`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(11).png)
 
 
 * **Modelo de mensagem:** você pode escolher uma mensagem do tipo marketing ou do tipo utilidade que tenha sido previamente cadastrada e aprovada pela meta, e enviar para o seu contato. Esse tipo de mensagem é imprescindível que seja utilizado quando você estiver configurando um chatbot de automação, por exemplo. Em uma campanha ou em uma sequência como não se sabe se a janela de 24h estará aberta no momento do disparo, o ideal é que coloque uma mensagem modelo, assim garantirá que essa mensagem chegue até o contato.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `5ucAmTgrRIMxu59vHBxh`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(12).png)
 
 
 * **Pergunta:** a pergunta pode ser apenas uma pergunta com texto, com menu de botões ou uma pergunta com uma lista de opções. Independente do modelo que você selecionar o sistema vai ficar aguardando a resposta do seu contato. Assim que o contato responder o sistema vai executar o próximo comando da configuração.Uma pergunta ainda pode ser configurada para:
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `npiQ211hfDvCw4v2pPri`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(13).png)
 
 
 * **Resposta inválida**: a pergunta é com botões ou lista, por exemplo, e seu contato equivocadamente encaminhar um áudio ou um texto. Neste caso é possível configurar o envio de uma mensagem alertando o contato.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `UuXX7LIqFH9vjoWeO4Nu`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(14).png)
 
 
 * **Tempo de espera**: configure o tempo de espera a ser aguardado entre o envio de mensagens ou o tempo total de espera.
@@ -93,16 +93,16 @@ Abaixo, no centro da tela, tem um botão de **salvar as alterações**. Do lado 
   * **Integração:** pode ser utilizado para disparo juntamente com webhook que vai encaminhar um arquiov JSON para uma sistema externo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1GhvK28EmwycTWPspFo6`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(15).png)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `eu49kDZltiEuiXJbFyLW`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(16).png)
 
 
 * **Webhooks**: são comandos enviados para ferramentas/sistemas externos (ex.: n8n ou Make). Envia um JSON para uma url externa à plataforma. Nesta URL você vai receber um arquivo com todas as informações sobre o atendimento e sobre o contato com qual você está interagindo naquele momento. Ao devolver uma informação com o código 200 ou 400, o chatbot sistema vai iniciar um fluxo de sucesso ou falha da execução do webhook. Você também pode programar fluxos de retorno ao invés de códigos, como por exemplo retornar um “OK”, “CPF INVÁLIDO”, “NENHUM PAGAMENTO ABERTO”, etc. Com isso você pode criar fluxos alternativos no chatbot que serão executados caso após receber o retorno. Importante citar que uma vez feito o disparo para o seu sistema, o chatbot aguarda por até 20 segundos por uma resposta. Caso ele não obtenha uma resposta do seu sistema no prazo máximo de 20 segundos, vai entra num fluxo alternativo sinalizando que não recebeu um retorno do webhook. Neste ponto você você precisa configurar quais serão as ações a seguir.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `IDzRjHbOBW5rsiPWzhzI`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(17).png)
 
 
 * As **condicionais** são estruturas utilizadas para **testar informações** e, com base no resultado desse teste, direcionar o fluxo para um caminho específico.
@@ -125,10 +125,10 @@ Abaixo, no centro da tela, tem um botão de **salvar as alterações**. Do lado 
   Se **nenhum caso for atendido**, o sistema segue para o **caso padrão**, que representa o **fluxo final** da condicional.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `770Yv4t1hpVIIKiQ7afT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(18).png)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `3TZM2SZU0tikSOPh87Eh`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(19).png)
 
 
 Atualmente, você pode validar dentro de uma **condicional**:
@@ -136,70 +136,70 @@ Atualmente, você pode validar dentro de uma **condicional**:
 * **Horário de funcionamento**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `QYW1eOE1UKdy8Mzx6RXT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(20).png)
 
 
 * **Uma resposta a uma pergunta feita**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `8MDW7wYRYz1hNfVQ0yNq`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(21).png)
 
 
 * **A uma resposta a um modelo de mensagem**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `D2uaJf22luMtA8HtkR9f`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(22).png)
 
 
 * **Teste de valor de um campo personalizado do contato**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `og9kolR89yWpuxn5heJ4`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(23).png)
 
 
 * **Etiqueta associada a um contato**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `N6xsUlVOOOoJ23rr8lnX`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(24).png)
 
 
 * **Última mensagem enviada pelo contato**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `iHSKTP10XhvV75J24m5g`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(25).png)
 
 
 * **Metadados do contato ou do atendimento**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `CNOoJGi7WIkkdc7XzmxH`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(26).png)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `8oQnOEnjsc9owkqOyAqo`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(27).png)
 
 
 * **Data atual**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `xmiuM5xDmU1UnteQLtAL`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(28).png)
 
 
 * **Dia da semana atual**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `7zp5l04sqhPybbIG2DRC`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(29).png)
 
 
 * **Horário atual**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `l0FnYvCoYOfcPEwzit26`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(30).png)
 
 
 * **Ponto de retorno**: são utilizados para que você desvie o fluxo de execução do seu chatbot para qualquer outro ponto do próprio chatbot. Isso faz com que você não precise ficar copiando e duplicando fluxos,é possível marcar uma um ponto de retorno naquele ponto do seu código do chatbot e então, em qualquer local, você pode desviar o fluxo para aquele ponto de retorno.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Qjp1h6sJVUtYPXnno4f4`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(31).png)
 
 
 * **Ações:** escolha ações dentre as seguinte possíveis:
@@ -215,13 +215,13 @@ Atualmente, você pode validar dentro de uma **condicional**:
   * Modificar meta dados internos do contato ou do atendimento
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `YD0pVjoGJ4YGDZ5bcdn9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(32).png)
 
 
 Ao final você clique no botão **salvar alterações**. Após os testes você clica no botão **publicar versão** para que este chatbot fique disponível e comece a responder ao canal de atendimento para o qual ele foi associado.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `GlEwwJdso9LiLOeTtEfH`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(33).png)
 
 
 ### Considerações finais

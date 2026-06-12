@@ -9,11 +9,11 @@ Para uma comunicação mais ágil e pessoal, você pode gravar mensagens de voz 
 ### **Passo 1: Iniciar a Gravação**
 
 1. Na janela de conversa, localize e clique no ícone de Microfone
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image.avif)
 
 2. Mantenha o botão pressionado para iniciar a gravação da sua mensagem.
 3. O ícone de microfone se transformará em um ícone de parar
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(1).avif)
 
 
 ### **Passo 2: Parar e Enviar**
@@ -22,21 +22,21 @@ Para uma comunicação mais ágil e pessoal, você pode gravar mensagens de voz 
 2. O sistema processará o áudio. Uma pré-visualização da mensagem de voz aparecerá na barra de digitação.
 
 * Para **ouvir**, clique no **ícone**
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(2).avif)
 
 * Para **cancelar**, clique no **ícone**
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%283%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(3).avif)
 
 * Para **enviar**, clique no **ícone**
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%284%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(4).avif)
 
 
 3. Ou Clique no ícone de Enviar
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%285%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(5).avif)
 para enviar a mensagem de áudio imediatamente.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_ferramentas-de-interacao_gravar-audio_image%20%286%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(6).avif)
 
 
 ### **Passo 3: Gerenciando Mídias Enviadas**
@@ -51,7 +51,7 @@ Ao passar o mouse sobre a mensagem de mídia, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `kRVU57mdWJIPIA6S5vfy`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(7).avif)
 
 
 #### **Ações de Seleção**
@@ -63,7 +63,7 @@ Você também pode selecionar uma ou mais mensagens de mídia clicando na caixa 
 * **Excluir:** Remove as mídias selecionadas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `XiZpkqUEqCUci7QgYZZ8`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(8).avif)
 
 
 > 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `8KRhmkLQj87xIi4UUq6m`)

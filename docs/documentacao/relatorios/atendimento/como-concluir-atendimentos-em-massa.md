@@ -20,7 +20,7 @@ A **conclusão em massa** permite que você selecione vários atendimentos de um
 **Passo 1:** No menu principal clique em **“Relatórios”** e em seguida **"Atendimentos”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `dNq2cNnVl00EzMoI4hj1`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-concluir-atendimento-massa/image%20(7).png)
 
 
 **Passo 2** : **Selecione os atendimentos desejados :** Utilize os filtros disponíveis para encontrar os atendimentos que deseja finalizar.
@@ -38,18 +38,18 @@ A **conclusão em massa** permite que você selecione vários atendimentos de um
 * Tempo de inatividade
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-concluir-atendimento-massa/image%20(8).png)
 
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `uqXASMWENUMauI2ajJ9S`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-concluir-atendimento-massa/image%20(9).png)
 
 
 **Passo 3: Clique na opção de conclusão em massa**
 Após definir quais atendimentos devem ser concluídos, clique em “**Concluir Atendimentos"**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-concluir-atendimento-massa/image%20(10).png)
 
 
 **Passo 4: Confirmação de conclusão dos atendimentos**
@@ -58,13 +58,13 @@ Após definir quais atendimentos devem ser concluídos, clique em “**Concluir 
 * Revise as informações e clique em **"Concluir"** para concluir o processo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-concluir-atendimento-massa/image%20(11).png)
 
 
 **Passo 5**: O sistema enviará uma **senha** para permitir a conclusão dos atendimentos. Digite a senha e clique em **continuar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/relatorios/como-concluir-atendimento-massa/image%20(12).png)
 
 
 🎯 **Boas Práticas na Conclusão em Massa**

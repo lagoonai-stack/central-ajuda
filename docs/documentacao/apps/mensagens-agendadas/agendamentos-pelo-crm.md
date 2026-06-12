@@ -26,10 +26,10 @@ Você pode programar o envio de uma mensagem para o futuro sem sair da visualiza
 * Após preencher as informações, clique em "Salvar" para confirmar o agendamento.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_agendamento-pelo-crm_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/mensagens-agendadas/agendamento-pelo-crm/image.avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_agendamento-pelo-crm_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/mensagens-agendadas/agendamento-pelo-crm/image%20(1).avif)
 
 
 :::tip

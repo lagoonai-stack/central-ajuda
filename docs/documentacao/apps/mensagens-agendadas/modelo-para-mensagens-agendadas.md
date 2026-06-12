@@ -31,5 +31,5 @@ Siga os passos abaixo:
 * Após finalizar a configuração, clique em "Salvar". Seu novo modelo estará pronto para ser utilizado na funcionalidade de Mensagens Agendadas.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_mensagens-agendadas_modelo-para-mensagens-agendadas_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/mensagens-agendadas/modelo-para-mensagens-agendadas/image.avif)
 

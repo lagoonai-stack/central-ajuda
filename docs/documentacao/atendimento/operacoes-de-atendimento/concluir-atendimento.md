@@ -29,7 +29,7 @@ Encerrar uma conversa após finalizar as tratativas é essencial para manter a o
    * Em atendimentos na fila **Novos**: botão no **canto inferior direito**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento_operacoes-no-atendimento_assumir-atendimento_Anima%C3%A7%C3%A3o%20%2811%29.gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/assumir-atendimento/Anima%C3%A7%C3%A3o%20(11).gif)
 
 
 > 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `16sOinWn8HFdJaPuXMDl`)

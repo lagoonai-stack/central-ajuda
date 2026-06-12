@@ -22,7 +22,7 @@ O recurso principal desta atualização permite que você adicione um pequeno at
 Uma vez configurado, o Agente de IA aguardará o tempo definido antes de enviar a mensagem, exibindo o indicador de "digitando" (se estiver ativo no canal) para criar uma experiência muito mais fluida e natural.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_agentes-inteligentes_simular-tempo-de-digitacao_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/agentes-inteligentes/simular-tempo-de-digitacao/image.avif)
 
 
 #### 2. Configuração Centralizada: A Conexão entre o Agente e o Chatbot
@@ -36,7 +36,7 @@ Ao usar um nó de Agente de IA ou Supervisor de IA em um fluxo de chatbot, você
 Isso cria uma "fonte única da verdade", simplificando o gerenciamento e garantindo que o comportamento do seu agente seja o mesmo em todos os fluxos onde ele for utilizado. Para todos os outros nós que não são de IA, o campo continua funcionando normalmente.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_agentes-inteligentes_simular-tempo-de-digitacao_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/agentes-inteligentes/simular-tempo-de-digitacao/image%20(1).avif)
 
 
 #### 3. Melhorias Adicionais no Controle de Tempo do Chatbot

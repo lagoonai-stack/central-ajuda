@@ -24,31 +24,31 @@ Quando chegar o momento de **renovar o token**, a **plataforma** exibirá uma me
 **Passo 1:** Clique na opção **Alterar permissões**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_renovar-token_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/renovar-token/image.avif)
 
 
 **Passo 2:** A tela de integração será exibida. Basta clicar em **“Iniciar”** para prosseguir com a renovação do token.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_renovar-token_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/renovar-token/image%20(1).avif)
 
 
 **Passo 3:** Clique em **“Entrar com o Facebook”** para prosseguir com a autenticação.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_renovar-token_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/renovar-token/image%20(2).avif)
 
 
 **Passo 4:** Um pop-up será exibido. Clique em **“Reconectar”** para restabelecer a integração com a conta.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_renovar-token_image%20%287%29.png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/renovar-token/image%20(7).png)
 
 
 **Passo 6:** Selecione as contas que deseja manter associadas à plataforma e, em seguida, clique em **“Continuar”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram_messenger_renovar-token_image%20%288%29.png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/renovar-token/image%20(8).png)
 
 
 **Passo 7:** Por fim clique em “**Finalizar”** para concluir o processo.

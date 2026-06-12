@@ -16,13 +16,13 @@ title: "Criar modelo de mensagem para campanha"
 **Passo 1**: Na tela inicial da plataforma, **clique** na opção **"Ajustes"**, o menu de opções se abrirá. **Clique** em **"Modelos de Mensagens"**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-modelo-mensagem-para-campanha_image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/criar-modelo-mensagem-para-campanha/image.avif)
 
 
 **Passo 2:** **Selecione** o modelo de mensagem do tipo **campanha** e **clique** em **continuar**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-modelo-mensagem-para-campanha_image%20%281%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/criar-modelo-mensagem-para-campanha/image%20(1).avif)
 
 
 **Passo 3:** **Preencha os campos necessários do modelo de mensagem.**
@@ -46,7 +46,7 @@ title: "Criar modelo de mensagem para campanha"
 **Adicione o texto da mensagem**. É possível utilizar **parâmetros** no texto para automatizar a personalização da mensagem. Para definir um campo personalizado, basta adicionar o nome do campo entre **colchetes** \[ ]. Por exemplo: **\[NOME]**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-modelo-mensagem-para-campanha_image%20%282%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/criar-modelo-mensagem-para-campanha/image%20(2).avif)
 
 
 Além do **texto**, é possível adicionar **foto**, **vídeo**, **anexar arquivo** e adicionar **botões**.
@@ -54,7 +54,7 @@ Além do **texto**, é possível adicionar **foto**, **vídeo**, **anexar arquiv
 São dois tipos de botões: **Resposta rápida** e **Abrir página**. O botão de **resposta rápida** é utilizado para dar sequência na conversa, facilitando o fluxo da conversa com o atendente. O botão **Abrir página** permite adicionar um **link** para direcionar o contato para uma nova página.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-modelo-mensagem-para-campanha_image%20%283%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/criar-modelo-mensagem-para-campanha/image%20(3).avif)
 
 
 **Passo 4**: **Clique em salvar** e o modelo de mensagem será enviado automaticamente para **aprovação**. A **Meta** analisará e aprovará ou rejeitará o modelo.
@@ -69,7 +69,7 @@ Caso o modelo seja **reprovado**, revise e faça as alterações necessárias an
 * Os **status** dos modelos de mensagens são enviados na **barra de notificações** da plataforma, conforme na imagem abaixo.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps_campanhas_criar-modelo-mensagem-para-campanha_image%20%284%29.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/criar-modelo-mensagem-para-campanha/image%20(4).avif)
 
 
 * **Segmentação**: Utilize a **segmentação** para enviar mensagens mais **relevantes** e **direcionadas** ao público correto.

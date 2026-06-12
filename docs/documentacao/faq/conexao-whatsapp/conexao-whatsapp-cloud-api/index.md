@@ -21,13 +21,13 @@ A conexão **WhatsApp Cloud API** da **plataforma** é o método tradicional uti
 1. No menu superior da plataforma, clique em Ajustes -> Conta.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `qW3C06gxSYBfq3SA6ZhC`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image.avif)
 
 
 2. Clique na aba **Canais de Atendimento** e em seguida clique no botão de adição **(+)**, navegue até WhatsApp CloudAPI e selecione Cloud Meta.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ChMmeFoC8d88wXJrFmFL`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(1).avif)
 
 
 **Passo 2:** Configuração do Número
@@ -41,20 +41,20 @@ A conexão **WhatsApp Cloud API** da **plataforma** é o método tradicional uti
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `K0s5qTn5b1cMHTrKcUCJ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(2).avif)
 
 
 2. Na tela de parceria, clique em Entrar com Facebook para iniciar o onboarding oficial.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(3).avif)
 
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `GQN9PBn9rdMpBSodVLbi`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(4).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `FUVKGQ1YPEznEWXCQcnv`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(5).avif)
 
 
 **Passo 3: Autenticação e Dados Empresariais**
@@ -66,25 +66,25 @@ A conexão **WhatsApp Cloud API** da **plataforma** é o método tradicional uti
 **Passo 6:** Selecione o **"Portfólio empresarial"** e confira os **dados da empresa** (nome, site e país), em seguida clique em **"Avançar"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `z00AvX9fmcqj3S3dUcCj`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(7).png)
 
 
 **Passo 7:** Informe o número do País (BR+55) e insira o número que deseja conectar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(8).png)
 
 
 **Passo 8:** A Meta enviará um código para o **"aplicativo do WhatsApp"**. Insira o código recebido e clique em **"Avançar"**.
 
 <div data-full-width="true">
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `JNCpZNFzMYzdWxbSaCYO`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(9).png)
 </div>
 
 **Passo 9:** Confirme o **Display name** e o **fuso horário** em seguida clique em **"Avançar"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(10).png)
 
 
 #### Validação do Número (Migração)
@@ -101,19 +101,19 @@ A conexão **WhatsApp Cloud API** da **plataforma** é o método tradicional uti
 **Passo 12:** Clique em [**adicionar forma de pagamento**](/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento) em seguida clique em **"Continuar"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(11).png)
 
 
 **Passo 13:** Para finalizar a conexão, selecione o número que está integrando e em seguida clique em **"Continuar".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `wYH9yrzzTQGd8AOgKSS4`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(12).png)
 
 
 **Passo 14:** Clique em **"Finalizar"** para concluir o processo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/cloudapi/image%20(13).png)
 
 
 **Considerações Finais**

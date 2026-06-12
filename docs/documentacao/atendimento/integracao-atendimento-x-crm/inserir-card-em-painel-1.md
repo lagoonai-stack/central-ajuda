@@ -10,13 +10,13 @@ Os Painéis são uma ferramenta que permite gerenciar e visualizar informações
 
 1. Na tela de Atendimentos, selecione a conversa em que deseja adicionar um card.
 2. Na barra de digitação, clique no ícone de Painel
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `DFrcZ7HgeN2PF5jPZpjr`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image.avif)
 
 3. No menu exibido, escolha o Painel em que o card será incluído.
 4. Clique em **"Novo item"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `g29RY8WvqvtzjyJyqWvl`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image%20(1).avif)
 
 
 **Passo 2: Inserir um card no Painel**

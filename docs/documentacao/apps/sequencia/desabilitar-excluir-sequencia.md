@@ -13,7 +13,7 @@ Quando uma sequência não é mais necessária, você pode desabilitá-la tempor
 A partir desse momento, nenhum disparo será realizado para os contatos da sequência.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `JRymKrJePMpM2NXQ7DVv`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/desabilitar-excluir/image%20(3).gif)
 
 
 :::info
@@ -28,7 +28,7 @@ Para reativar a sequência, repita o processo clicando em **Habilitar** e salve 
 2. Um popup de confirmação será exibido — clique novamente em **Excluir** para confirmar. Após a exclusão, a sequência e todos os seus dados serão removidos permanentemente e nenhum disparo adicional será realizado.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `15ix0jmeMgqPhQlx3iRy`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/sequencias/desabilitar-excluir/image%20(4).gif)
 
 
 :::danger
