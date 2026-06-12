@@ -47,8 +47,8 @@ export default {
       "title": "Central de Ajuda",
       "logo": {
         "alt": "Lagoon One",
-        "src": "img/logo.png",
-        "srcDark": "img/logo.png"
+        "src": "img/favicon.ico",
+        "srcDark": "img/favicon.ico"
       },
       "items": [
         {

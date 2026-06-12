@@ -1,847 +1,890 @@
 {
-  "/-150": {
-    "__comp": "5e95c892",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/-150": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
     }
   },
   "/-b70": {
-    "__comp": "a7bd4aaa",
-    "__props": "22dd74f7"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
   },
   "/-94f": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentacao/ajustes/-9c5": {
-    "__comp": "17896441",
-    "content": "67a4d1a8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-67-a-1d1"
   },
   "/documentacao/ajustes/conta/-133": {
-    "__comp": "17896441",
-    "content": "ebd15ff2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-conta-ebd-1df"
   },
   "/documentacao/ajustes/conta/dados-da-conta-7e6": {
-    "__comp": "17896441",
-    "content": "a2f7ff4f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-conta-dados-da-contaa-2-f-4dc"
   },
   "/documentacao/ajustes/conta/horario-de-atendimento-4dc": {
-    "__comp": "17896441",
-    "content": "d781e4ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-conta-horario-de-atendimentod-78-9b6"
   },
   "/documentacao/ajustes/conta/processo-de-dar-permissao-para-reconectar-o-numero-345": {
-    "__comp": "17896441",
-    "content": "af63be58"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-conta-processo-de-dar-permissao-para-reconectar-o-numeroaf-6-697"
   },
   "/documentacao/ajustes/conta/remover-canal-de-atendimento-921": {
-    "__comp": "17896441",
-    "content": "dffe9986"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-conta-remover-canal-de-atendimentodff-257"
   },
   "/documentacao/ajustes/equipes/-5ff": {
-    "__comp": "17896441",
-    "content": "5e42b8f7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-equipes-5-e-4-0e8"
   },
   "/documentacao/ajustes/equipes/cadastrar-equipe-97a": {
-    "__comp": "17896441",
-    "content": "bf4b8274"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-equipes-cadastrar-equipebf-4-666"
   },
   "/documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento-f5f": {
-    "__comp": "17896441",
-    "content": "4bddd10e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-equipes-distribuicao-e-transbordo-de-atendimento-4-bd-bf2"
   },
   "/documentacao/ajustes/equipes/relacao-de-acessos-x-conversas-362": {
-    "__comp": "17896441",
-    "content": "7c1ff097"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-equipes-relacao-de-acessos-x-conversas-7-c-1-9d5"
   },
   "/documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor-aa3": {
-    "__comp": "17896441",
-    "content": "f4875682"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-equipes-tipo-de-associacao-usuario-x-supervisorf-48-e78"
   },
   "/documentacao/ajustes/integracoes/-091": {
-    "__comp": "17896441",
-    "content": "1a767712"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-integracoes-1-a-7-4d7"
   },
   "/documentacao/ajustes/integracoes/botao-do-whatsapp-e-tag-de-rastreamento-e50": {
-    "__comp": "17896441",
-    "content": "b6b61f6e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-integracoes-botao-do-whatsapp-e-tag-de-rastreamentob-6-b-eaf"
   },
   "/documentacao/ajustes/modelo-de-mensagens/-ee1": {
-    "__comp": "17896441",
-    "content": "d02bf97f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-modelo-de-mensagens-d-02-0b9"
   },
   "/documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem-d49": {
-    "__comp": "17896441",
-    "content": "c7fca9ab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-modelo-de-mensagens-como-criar-modelo-de-mensagemc-7-f-a8c"
   },
   "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-conversa-cobranca-2d0": {
-    "__comp": "17896441",
-    "content": "29dd3da4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-modelo-de-mensagens-conceito-de-janela-de-conversa-cobranca-29-d-3c6"
   },
   "/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem-3f8": {
-    "__comp": "17896441",
-    "content": "f7dabcd4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-modelo-de-mensagens-conceito-de-janela-de-troca-de-mensagemf-7-d-1ce"
   },
   "/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem-9b8": {
-    "__comp": "17896441",
-    "content": "57d37caf"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-modelo-de-mensagens-editar-modelos-de-mensagem-57-d-40d"
   },
   "/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento-ba2": {
-    "__comp": "17896441",
-    "content": "c982a4e0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-modelo-de-mensagens-mensagens-com-botoes-imagem-video-e-documentoc-98-462"
   },
   "/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens-3bf": {
-    "__comp": "17896441",
-    "content": "b2d829fb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-modelo-de-mensagens-parametros-e-personalizacao-de-mensagensb-2-d-78e"
   },
   "/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem-5f0": {
-    "__comp": "17896441",
-    "content": "8b802f08"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-modelo-de-mensagens-tipos-de-modelo-de-mensagem-8-b-8-36f"
   },
   "/documentacao/ajustes/usuarios/-ccc": {
-    "__comp": "17896441",
-    "content": "623b7517"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-usuarios-623-625"
   },
   "/documentacao/ajustes/usuarios/cadastrar-usuarios-d7a": {
-    "__comp": "17896441",
-    "content": "41e3698c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-usuarios-cadastrar-usuarios-41-e-327"
   },
   "/documentacao/ajustes/usuarios/editar-foto-do-usuario-959": {
-    "__comp": "17896441",
-    "content": "76b9db7c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-usuarios-editar-foto-do-usuario-76-b-1e0"
   },
   "/documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios-abd": {
-    "__comp": "17896441",
-    "content": "4332ce40"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-ajustes-usuarios-tipos-de-perfis-de-usuarios-433-071"
   },
   "/documentacao/apps/-b19": {
-    "__comp": "17896441",
-    "content": "13b078ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-13-b-9e9"
   },
   "/documentacao/apps/agentes-inteligentes/-e62": {
-    "__comp": "17896441",
-    "content": "063faa36"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-agentes-inteligentes-063-5b1"
   },
   "/documentacao/apps/agentes-inteligentes/aba-configuracoes-4b8": {
-    "__comp": "17896441",
-    "content": "67207f14"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-agentes-inteligentes-aba-configuracoes-672-176"
   },
   "/documentacao/apps/agentes-inteligentes/habilidades-b64": {
-    "__comp": "17896441",
-    "content": "41a001bb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-agentes-inteligentes-habilidades-41-a-dbd"
   },
   "/documentacao/apps/agentes-inteligentes/indicador-de-digitando-cb2": {
-    "__comp": "17896441",
-    "content": "928bc458"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-agentes-inteligentes-indicador-de-digitando-928-d25"
   },
   "/documentacao/apps/agentes-inteligentes/novo-agente-47f": {
-    "__comp": "17896441",
-    "content": "15de3d32"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-agentes-inteligentes-novo-agente-15-d-d87"
   },
   "/documentacao/apps/agentes-inteligentes/simular-tempo-de-digitacao-7ae": {
-    "__comp": "17896441",
-    "content": "e200b953"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-agentes-inteligentes-simular-tempo-de-digitacaoe-20-514"
   },
   "/documentacao/apps/agentes-inteligentes/versoes-dos-agentes-5bb": {
-    "__comp": "17896441",
-    "content": "bdcbf875"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-agentes-inteligentes-versoes-dos-agentesbdc-ca6"
   },
   "/documentacao/apps/campanha/-6be": {
-    "__comp": "17896441",
-    "content": "f1049034"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-campanha-f-10-1c5"
   },
   "/documentacao/apps/campanha/arquivar-campanha-bab": {
-    "__comp": "17896441",
-    "content": "a69699c6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-campanha-arquivar-campanhaa-69-68f"
   },
   "/documentacao/apps/campanha/consultar-campanha-f04": {
-    "__comp": "17896441",
-    "content": "a3ca9862"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-campanha-consultar-campanhaa-3-c-f24"
   },
   "/documentacao/apps/campanha/criar-modelo-de-mensagem-para-campanha-f69": {
-    "__comp": "17896441",
-    "content": "0872399f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-campanha-criar-modelo-de-mensagem-para-campanha-087-9c4"
   },
   "/documentacao/apps/campanha/criar-nova-campanha-4f3": {
-    "__comp": "17896441",
-    "content": "b3974e45"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-campanha-criar-nova-campanhab-39-8f4"
   },
   "/documentacao/apps/campanha/exportar-campanha-523": {
-    "__comp": "17896441",
-    "content": "dd37e7e0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-campanha-exportar-campanhadd-3-577"
   },
   "/documentacao/apps/campanha/gestao-de-permissoes-em-campanhas-f0a": {
-    "__comp": "17896441",
-    "content": "6dc65a2f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-campanha-gestao-de-permissoes-em-campanhas-6-dc-ee8"
   },
   "/documentacao/apps/campanha/riscos-e-custos-da-campanha-d46": {
-    "__comp": "17896441",
-    "content": "d690010e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-campanha-riscos-e-custos-da-campanhad-69-7da"
   },
   "/documentacao/apps/carteirizacao-de-contatos/-7af": {
-    "__comp": "17896441",
-    "content": "ccce970a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-carteirizacao-de-contatos-ccc-e87"
   },
   "/documentacao/apps/carteirizacao-de-contatos/habilitar-o-app-3f0": {
-    "__comp": "17896441",
-    "content": "5b9814df"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-carteirizacao-de-contatos-habilitar-o-app-5-b-9-ccd"
   },
   "/documentacao/apps/chat-interno/-682": {
-    "__comp": "17896441",
-    "content": "26f73d30"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chat-interno-26-f-316"
   },
   "/documentacao/apps/chat-interno/ativar-e-desativar-funcionalidade-2b5": {
-    "__comp": "17896441",
-    "content": "b6774db9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chat-interno-ativar-e-desativar-funcionalidadeb-67-62a"
   },
   "/documentacao/apps/chat-interno/tipos-de-conversa-usuario-x-equipe-x-todos-eb6": {
-    "__comp": "17896441",
-    "content": "4b08dc78"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chat-interno-tipos-de-conversa-usuario-x-equipe-x-todos-4-b-0-8ad"
   },
   "/documentacao/apps/chatbot/-e99": {
-    "__comp": "17896441",
-    "content": "44688aaa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chatbot-446-544"
   },
   "/documentacao/apps/chatbot/adicionar-remover-etiquetas-do-contato-234": {
-    "__comp": "17896441",
-    "content": "02f2979e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chatbot-adicionar-remover-etiquetas-do-contato-02-f-c85"
   },
   "/documentacao/apps/chatbot/copiar-e-colar-do-chatbot-na-plataforma-17e": {
-    "__comp": "17896441",
-    "content": "0e4ff8c0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chatbot-copiar-e-colar-do-chatbot-na-plataforma-0-e-4-f7d"
   },
   "/documentacao/apps/chatbot/criando-um-chatbot-2b1": {
-    "__comp": "17896441",
-    "content": "e88a557f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chatbot-criando-um-chatbote-88-f05"
   },
   "/documentacao/apps/chatbot/enviar-mensagem-9d5": {
-    "__comp": "17896441",
-    "content": "ebe1c02e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chatbot-enviar-mensagemebe-5a0"
   },
   "/documentacao/apps/chatbot/enviar-pergunta-316": {
-    "__comp": "17896441",
-    "content": "15fe275c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chatbot-enviar-pergunta-15-f-eb2"
   },
   "/documentacao/apps/chatbot/gatilhos-acf": {
-    "__comp": "17896441",
-    "content": "51054a01"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chatbot-gatilhos-510-981"
   },
   "/documentacao/apps/chatbot/tipos-de-chatbot-eae": {
-    "__comp": "17896441",
-    "content": "db943891"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-chatbot-tipos-de-chatbotdb-9-ee5"
   },
   "/documentacao/apps/distribuicao-de-atendimentos/-d91": {
-    "__comp": "17896441",
-    "content": "e325e787"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-distribuicao-de-atendimentos-e-32-6f0"
   },
   "/documentacao/apps/distribuicao-de-atendimentos/-caf": {
-    "__comp": "17896441",
-    "content": "ca3c998a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-distribuicao-de-atendimentos-ca-3-2b5"
   },
   "/documentacao/apps/grupos-do-whatsapp/-f50": {
-    "__comp": "17896441",
-    "content": "243490e3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-grupos-do-whatsapp-243-800"
   },
   "/documentacao/apps/grupos-do-whatsapp/habilitar-o-app-885": {
-    "__comp": "17896441",
-    "content": "ec97ce22"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-grupos-do-whatsapp-habilitar-o-appec-9-7da"
   },
   "/documentacao/apps/mensagens-agendadas/-768": {
-    "__comp": "17896441",
-    "content": "6c05b058"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-mensagens-agendadas-6-c-0-7b8"
   },
   "/documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm-e42": {
-    "__comp": "17896441",
-    "content": "376c9421"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-mensagens-agendadas-agendamentos-pelo-crm-376-e7e"
   },
   "/documentacao/apps/mensagens-agendadas/como-gerenciar-os-agendamentos-7a8": {
-    "__comp": "17896441",
-    "content": "a54bd0e4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-mensagens-agendadas-como-gerenciar-os-agendamentosa-54-4b1"
   },
   "/documentacao/apps/mensagens-agendadas/modelo-para-mensagens-agendadas-266": {
-    "__comp": "17896441",
-    "content": "f9db54d3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-mensagens-agendadas-modelo-para-mensagens-agendadasf-9-d-57c"
   },
   "/documentacao/apps/pagamentos-0c6": {
-    "__comp": "17896441",
-    "content": "ed6f7a8c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-pagamentosed-6-108"
   },
   "/documentacao/apps/sequencia/-9c3": {
-    "__comp": "17896441",
-    "content": "48c326a7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-48-c-55e"
   },
   "/documentacao/apps/sequencia/adicionar-etapa-171": {
-    "__comp": "17896441",
-    "content": "cef2b15f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-adicionar-etapacef-220"
   },
   "/documentacao/apps/sequencia/concluidos-14f": {
-    "__comp": "17896441",
-    "content": "57c0fb0c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-concluidos-57-c-e07"
   },
   "/documentacao/apps/sequencia/contatos-na-sequencia-2e6": {
-    "__comp": "17896441",
-    "content": "7af2916d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-contatos-na-sequencia-7-af-080"
   },
   "/documentacao/apps/sequencia/criar-sequencia-2e0": {
-    "__comp": "17896441",
-    "content": "71f38852"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-criar-sequencia-71-f-8a5"
   },
   "/documentacao/apps/sequencia/desabilitar-excluir-sequencia-85c": {
-    "__comp": "17896441",
-    "content": "fd579a5d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-desabilitar-excluir-sequenciafd-5-450"
   },
   "/documentacao/apps/sequencia/incluir-contato-na-sequencia-928": {
-    "__comp": "17896441",
-    "content": "d8de2f44"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-incluir-contato-na-sequenciad-8-d-780"
   },
   "/documentacao/apps/sequencia/remover-contatos-358": {
-    "__comp": "17896441",
-    "content": "75ef37ea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-remover-contatos-75-e-681"
   },
   "/documentacao/apps/sequencia/sequencias-via-api-e56": {
-    "__comp": "17896441",
-    "content": "1c45170c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-sequencia-sequencias-via-api-1-c-4-4e8"
   },
   "/documentacao/apps/tempo-de-seguranca-a73": {
-    "__comp": "17896441",
-    "content": "c8960388"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-tempo-de-segurancac-89-e3f"
   },
   "/documentacao/apps/transcricao-de-audio-com-ia-99b": {
-    "__comp": "17896441",
-    "content": "1522f730"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-apps-transcricao-de-audio-com-ia-152-1ed"
   },
   "/documentacao/atendimento/-577": {
-    "__comp": "17896441",
-    "content": "07129b4b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-071-55d"
   },
   "/documentacao/atendimento/comece-aqui/-880": {
-    "__comp": "17896441",
-    "content": "d103fb88"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-comece-aqui-d-10-f76"
   },
   "/documentacao/atendimento/comece-aqui/abrir-dados-do-contato-516": {
-    "__comp": "17896441",
-    "content": "aa057207"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-comece-aqui-abrir-dados-do-contatoaa-0-f55"
   },
   "/documentacao/atendimento/comece-aqui/acessando-pela-web-29d": {
-    "__comp": "17896441",
-    "content": "5cbb3c43"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-comece-aqui-acessando-pela-web-5-cb-506"
   },
   "/documentacao/atendimento/comece-aqui/acessando-pelo-app-1dd": {
-    "__comp": "17896441",
-    "content": "efdc410b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-comece-aqui-acessando-pelo-appefd-ed8"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/-08f": {
-    "__comp": "17896441",
-    "content": "0fc7980e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-0-fc-f1c"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/agendamentos-pelo-atendimento-7d5": {
-    "__comp": "17896441",
-    "content": "08cc4af9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-agendamentos-pelo-atendimento-08-c-466"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/enviar-audio-80f": {
-    "__comp": "17896441",
-    "content": "73901975"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-enviar-audio-739-21e"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/enviar-documento-43f": {
-    "__comp": "17896441",
-    "content": "a47253de"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-enviar-documentoa-47-590"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/enviar-imagem-4ae": {
-    "__comp": "17896441",
-    "content": "ce5239dd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-enviar-imagemce-5-ce2"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/enviar-mensagem-rapida-4ed": {
-    "__comp": "17896441",
-    "content": "19d94d7a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-enviar-mensagem-rapida-19-d-24b"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/enviar-modelo-de-mensagem-bc6": {
-    "__comp": "17896441",
-    "content": "369208eb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-enviar-modelo-de-mensagem-369-a16"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/enviar-video-33c": {
-    "__comp": "17896441",
-    "content": "62ae902c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-enviar-video-62-a-81e"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/gravar-audio-397": {
-    "__comp": "17896441",
-    "content": "e8536153"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-gravar-audioe-85-5fb"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/iniciar-chatbot-bb7": {
-    "__comp": "17896441",
-    "content": "914ebb11"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-iniciar-chatbot-914-d30"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/notas-internas-na-conversa-da-plataforma-72d": {
-    "__comp": "17896441",
-    "content": "41a9e300"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-notas-internas-na-conversa-da-plataforma-41-a-ef2"
   },
   "/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento-b17": {
-    "__comp": "17896441",
-    "content": "b4d5ea6d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-ferramentas-de-interacao-solicitar-pagamentob-4-d-cd9"
   },
   "/documentacao/atendimento/gestao-de-grupos-no-atendimento/-597": {
-    "__comp": "17896441",
-    "content": "e0fd6c88"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-gestao-de-grupos-no-atendimento-e-0-f-312"
   },
   "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-nao-oficial-f2c": {
-    "__comp": "17896441",
-    "content": "15740ba0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-gestao-de-grupos-no-atendimento-api-nao-oficial-157-ef6"
   },
   "/documentacao/atendimento/gestao-de-grupos-no-atendimento/api-oficial-c2b": {
-    "__comp": "17896441",
-    "content": "89ef2b51"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-gestao-de-grupos-no-atendimento-api-oficial-89-e-1f6"
   },
   "/documentacao/atendimento/gestao-de-grupos-no-atendimento/gerenciar-grupos-arquivar-bloquear-sair-excluir-81b": {
-    "__comp": "17896441",
-    "content": "8a0a5d4e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-gestao-de-grupos-no-atendimento-gerenciar-grupos-arquivar-bloquear-sair-excluir-8-a-0-f9b"
   },
   "/documentacao/atendimento/integracao-atendimento-x-crm/-55e": {
-    "__comp": "17896441",
-    "content": "4cf57ebb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-integracao-atendimento-x-crm-4-cf-862"
   },
   "/documentacao/atendimento/integracao-atendimento-x-crm/inserir-card-em-painel-1-0a7": {
-    "__comp": "17896441",
-    "content": "a52e353a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-integracao-atendimento-x-crm-inserir-card-em-painel-1-a-52-8d0"
   },
   "/documentacao/atendimento/operacoes-de-atendimento/-cf7": {
-    "__comp": "17896441",
-    "content": "36cde8db"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-operacoes-de-atendimento-36-c-e4c"
   },
   "/documentacao/atendimento/operacoes-de-atendimento/alterar-padrao-de-arquivamento-12h-imediato-fb1": {
-    "__comp": "17896441",
-    "content": "5bf67204"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-operacoes-de-atendimento-alterar-padrao-de-arquivamento-12-h-imediato-5-bf-ce2"
   },
   "/documentacao/atendimento/operacoes-de-atendimento/assumir-atendimento-131": {
-    "__comp": "17896441",
-    "content": "546ecf3b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-operacoes-de-atendimento-assumir-atendimento-546-2b2"
   },
   "/documentacao/atendimento/operacoes-de-atendimento/concluir-atendimento-f47": {
-    "__comp": "17896441",
-    "content": "398a4376"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-operacoes-de-atendimento-concluir-atendimento-398-612"
   },
   "/documentacao/atendimento/operacoes-de-atendimento/iniciar-atendimento-4f1": {
-    "__comp": "17896441",
-    "content": "7788c696"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-operacoes-de-atendimento-iniciar-atendimento-778-c58"
   },
   "/documentacao/atendimento/operacoes-de-atendimento/reiniciar-atendimento-2c8": {
-    "__comp": "17896441",
-    "content": "527e587a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-operacoes-de-atendimento-reiniciar-atendimento-527-6aa"
   },
   "/documentacao/atendimento/operacoes-de-atendimento/transferir-atendimento-de3": {
-    "__comp": "17896441",
-    "content": "74ebb533"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-atendimento-operacoes-de-atendimento-transferir-atendimento-74-e-268"
   },
   "/documentacao/crm/-371": {
-    "__comp": "17896441",
-    "content": "fb7bd449"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-fb-7-445"
   },
   "/documentacao/crm/carteiras/-48b": {
-    "__comp": "17896441",
-    "content": "f28e043a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-carteiras-f-28-13b"
   },
   "/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira-43a": {
-    "__comp": "17896441",
-    "content": "91b2ace0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-carteiras-alterar-ou-excluir-uma-carteira-91-b-5cf"
   },
   "/documentacao/crm/carteiras/criar-uma-nova-carteira-9a8": {
-    "__comp": "17896441",
-    "content": "48496eec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-carteiras-criar-uma-nova-carteira-484-816"
   },
   "/documentacao/crm/carteiras/funcionamento-da-carteirizacao-4ac": {
-    "__comp": "17896441",
-    "content": "d6396e77"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-carteiras-funcionamento-da-carteirizacaod-63-263"
   },
   "/documentacao/crm/carteiras/incluir-contato-na-carteira-6a3": {
-    "__comp": "17896441",
-    "content": "b28db235"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-carteiras-incluir-contato-na-carteirab-28-e89"
   },
   "/documentacao/crm/carteiras/permissoes-por-perfil-7a8": {
-    "__comp": "17896441",
-    "content": "6e26b46f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-carteiras-permissoes-por-perfil-6-e-2-088"
   },
   "/documentacao/crm/contato/-0a8": {
-    "__comp": "17896441",
-    "content": "918ef5b9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-918-c71"
   },
   "/documentacao/crm/contato/bloquear-ou-arquivar-contato-b62": {
-    "__comp": "17896441",
-    "content": "307dae58"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-bloquear-ou-arquivar-contato-307-74b"
   },
   "/documentacao/crm/contato/cadastrar-contato-9f1": {
-    "__comp": "17896441",
-    "content": "4d06c737"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-cadastrar-contato-4-d-0-584"
   },
   "/documentacao/crm/contato/editar-campos-personalizados-d80": {
-    "__comp": "17896441",
-    "content": "7c2c21a8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-editar-campos-personalizados-7-c-2-b72"
   },
   "/documentacao/crm/contato/exportar-base-de-contatos-fc5": {
-    "__comp": "17896441",
-    "content": "a5e1982e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-exportar-base-de-contatosa-5-e-bce"
   },
   "/documentacao/crm/contato/gerenciar-etiquetas/-46d": {
-    "__comp": "17896441",
-    "content": "fbaa4fe8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-gerenciar-etiquetas-fba-d71"
   },
   "/documentacao/crm/contato/gerenciar-etiquetas/excluir-etiquetas-dee": {
-    "__comp": "17896441",
-    "content": "952b7b6f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-gerenciar-etiquetas-excluir-etiquetas-952-677"
   },
   "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-6cc": {
-    "__comp": "17896441",
-    "content": "397cf727"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-gerenciar-etiquetas-inserir-etiqueta-397-659"
   },
   "/documentacao/crm/contato/gerenciar-etiquetas/inserir-etiqueta-1-4c7": {
-    "__comp": "17896441",
-    "content": "6b0e4bac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-gerenciar-etiquetas-inserir-etiqueta-16-b-0-e8e"
   },
   "/documentacao/crm/contato/importacao-de-contatos-424": {
-    "__comp": "17896441",
-    "content": "f1dd5b6e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-importacao-de-contatosf-1-d-fbf"
   },
   "/documentacao/crm/contato/pesquisar-contato-d6f": {
-    "__comp": "17896441",
-    "content": "8d3714ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-contato-pesquisar-contato-8-d-3-e72"
   },
   "/documentacao/crm/paineis/-502": {
-    "__comp": "17896441",
-    "content": "dc23519d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-paineis-dc-2-b46"
   },
   "/documentacao/crm/paineis/gestao-4dc": {
-    "__comp": "17896441",
-    "content": "bdff1077"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-paineis-gestaobdf-859"
   },
   "/documentacao/crm/paineis/primeiros-passos-de8": {
-    "__comp": "17896441",
-    "content": "f8681022"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-paineis-primeiros-passosf-86-146"
   },
   "/documentacao/crm/paineis/tipos-de-painel-1ae": {
-    "__comp": "17896441",
-    "content": "c1f7477d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-paineis-tipos-de-painelc-1-f-7f1"
   },
   "/documentacao/crm/paineis/vendas-03f": {
-    "__comp": "17896441",
-    "content": "626b5aff"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-crm-paineis-vendas-626-102"
   },
   "/documentacao/faq/-bc5": {
-    "__comp": "17896441",
-    "content": "f6ca0076"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-f-6-c-04c"
   },
   "/documentacao/faq/conexao-whatsapp/-653": {
-    "__comp": "17896441",
-    "content": "3890659b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-389-68a"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/-2ac": {
-    "__comp": "17896441",
-    "content": "90a7f0ea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-via-qr-code-90-a-a12"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/desativar-contas-de-anuncio-9cd": {
-    "__comp": "17896441",
-    "content": "dbf8d7a0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-via-qr-code-desativar-contas-de-anunciodbf-28c"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-via-qr-code/remover-conexao-qr-code-cf8": {
-    "__comp": "17896441",
-    "content": "f3bf6312"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-via-qr-code-remover-conexao-qr-codef-3-b-569"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/-9e3": {
-    "__comp": "17896441",
-    "content": "377e74fe"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-whatsapp-cloud-api-377-21a"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-display-name-8b5": {
-    "__comp": "17896441",
-    "content": "3c837e10"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-whatsapp-cloud-api-alterar-display-name-3-c-8-b20"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/alterar-perfil-do-whatsapp-81b": {
-    "__comp": "17896441",
-    "content": "4ff093fc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-whatsapp-cloud-api-alterar-perfil-do-whatsapp-4-ff-056"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/configuracoes-whatsapp-49d": {
-    "__comp": "17896441",
-    "content": "edbe4f3a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-whatsapp-cloud-api-configuracoes-whatsappedb-64c"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/portabilidade-de-numero-435": {
-    "__comp": "17896441",
-    "content": "2e3c42c2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-whatsapp-cloud-api-portabilidade-de-numero-2-e-3-902"
   },
   "/documentacao/faq/conexao-whatsapp/conexao-whatsapp-cloud-api/remover-numero-do-portfolio-d21": {
-    "__comp": "17896441",
-    "content": "08c504c1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-conexao-whatsapp-cloud-api-remover-numero-do-portfolio-08-c-d0d"
   },
   "/documentacao/faq/conexao-whatsapp/erros-e-problemas/-442": {
-    "__comp": "17896441",
-    "content": "9845bbc2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-erros-e-problemas-984-ff7"
   },
   "/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte-bfc": {
-    "__comp": "17896441",
-    "content": "198ceec6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-erros-e-problemas-acessar-pagina-de-suporte-198-566"
   },
   "/documentacao/faq/conexao-whatsapp/erros-e-problemas/codigos-de-erros-da-meta-e45": {
-    "__comp": "17896441",
-    "content": "f36bf212"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-erros-e-problemas-codigos-de-erros-da-metaf-36-a94"
   },
   "/documentacao/faq/conexao-whatsapp/erros-e-problemas/solicitar-revisao-de-banimento-fb2": {
-    "__comp": "17896441",
-    "content": "042716ae"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-erros-e-problemas-solicitar-revisao-de-banimento-042-bf0"
   },
   "/documentacao/faq/conexao-whatsapp/pagamentos/-f08": {
-    "__comp": "17896441",
-    "content": "9e94558f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-pagamentos-9-e-9-a92"
   },
   "/documentacao/faq/conexao-whatsapp/pagamentos/configurar-pagamento-46a": {
-    "__comp": "17896441",
-    "content": "8e577830"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-pagamentos-configurar-pagamento-8-e-5-7f9"
   },
   "/documentacao/faq/conexao-whatsapp/pagamentos/consultar-extrato-de-pagamento-0bd": {
-    "__comp": "17896441",
-    "content": "34a0723e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-pagamentos-consultar-extrato-de-pagamento-34-a-f86"
   },
   "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/-00b": {
-    "__comp": "17896441",
-    "content": "8bb21025"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-portfolio-empresarial-8-bb-f5f"
   },
   "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/alterar-logomarca-do-portfolio-53c": {
-    "__comp": "17896441",
-    "content": "382c698b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-portfolio-empresarial-alterar-logomarca-do-portfolio-382-d1a"
   },
   "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/criar-portfolio-empresarial-768": {
-    "__comp": "17896441",
-    "content": "daf3988c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-portfolio-empresarial-criar-portfolio-empresarialdaf-f5b"
   },
   "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores-6d8": {
-    "__comp": "17896441",
-    "content": "5b2a6702"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-portfolio-empresarial-desativar-autenticacao-em-dois-fatores-5-b-2-be1"
   },
   "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/incluir-administradores-2c8": {
-    "__comp": "17896441",
-    "content": "e303205d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-portfolio-empresarial-incluir-administradorese-30-ec9"
   },
   "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio-c10": {
-    "__comp": "17896441",
-    "content": "0c901731"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-portfolio-empresarial-informacoes-do-portfolio-0-c-9-0cf"
   },
   "/documentacao/faq/conexao-whatsapp/portfolio-empresarial/verificar-portfolio-empresarial-430": {
-    "__comp": "17896441",
-    "content": "ce40c52f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-conexao-whatsapp-portfolio-empresarial-verificar-portfolio-empresarialce-4-0b0"
   },
   "/documentacao/faq/instagram-messenger/-c52": {
-    "__comp": "17896441",
-    "content": "9b13c833"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-instagram-messenger-9-b-1-9bd"
   },
   "/documentacao/faq/instagram-messenger/cadastrar-instagram-facebook-messenger-4f8": {
-    "__comp": "17896441",
-    "content": "31da28a4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-instagram-messenger-cadastrar-instagram-facebook-messenger-31-d-1ce"
   },
   "/documentacao/faq/instagram-messenger/mensagens-do-instagram-nao-chegam-822": {
-    "__comp": "17896441",
-    "content": "9f02140a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-instagram-messenger-mensagens-do-instagram-nao-chegam-9-f-0-0ac"
   },
   "/documentacao/faq/instagram-messenger/renovar-token-do-instagram-e-messenger-f8e": {
-    "__comp": "17896441",
-    "content": "7ac2bb32"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-faq-instagram-messenger-renovar-token-do-instagram-e-messenger-7-ac-1e5"
   },
   "/documentacao/outros/-39e": {
-    "__comp": "17896441",
-    "content": "d0ecc379"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-outros-d-0-e-d90"
   },
   "/documentacao/outros/alterar-informacoes-do-meu-usuario-a3f": {
-    "__comp": "17896441",
-    "content": "06324b05"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-outros-alterar-informacoes-do-meu-usuario-063-89c"
   },
   "/documentacao/outros/como-alternar-entre-contas-na-plataforma-713": {
-    "__comp": "17896441",
-    "content": "85140233"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-outros-como-alternar-entre-contas-na-plataforma-851-e03"
   },
   "/documentacao/outros/como-ativar-as-notificacoes-web-na-plataforma-32b": {
-    "__comp": "17896441",
-    "content": "697cc64b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-outros-como-ativar-as-notificacoes-web-na-plataforma-697-372"
   },
   "/documentacao/relatorios/-e34": {
-    "__comp": "17896441",
-    "content": "77290518"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-relatorios-772-74d"
   },
   "/documentacao/relatorios/atendimento/-aae": {
-    "__comp": "17896441",
-    "content": "f79b1413"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-relatorios-atendimento-f-79-e73"
   },
   "/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa-14e": {
-    "__comp": "17896441",
-    "content": "30c38253"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-relatorios-atendimento-como-concluir-atendimentos-em-massa-30-c-bbb"
   },
   "/documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma-3a9": {
-    "__comp": "17896441",
-    "content": "2c04fae9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-relatorios-atendimento-como-exportar-mensagens-na-plataforma-2-c-0-57b"
   },
   "/documentacao/relatorios/atendimento/como-exportar-relatorio-na-plataforma-b0c": {
-    "__comp": "17896441",
-    "content": "090e01ce"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-relatorios-atendimento-como-exportar-relatorio-na-plataforma-090-5c3"
   },
   "/documentacao/relatorios/consumo-de-infraestrutura-0a6": {
-    "__comp": "17896441",
-    "content": "34fc462e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacao-relatorios-consumo-de-infraestrutura-34-f-d6e"
   },
   "/faq/mensagens-waiting-message-732": {
-    "__comp": "17896441",
-    "content": "b90b0e7f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-mensagens-waiting-messageb-90-0fa"
   },
   "/faq/numero-privado-lid-e-unificacao-de-contatos-287": {
-    "__comp": "17896441",
-    "content": "5f10204c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-numero-privado-lid-e-unificacao-de-contatos-5-f-1-666"
   },
   "/faq/rate-limit-api-nao-oficial-2ba": {
-    "__comp": "17896441",
-    "content": "a3605c52"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-rate-limit-api-nao-oficiala-36-d24"
   },
   "/faq/status-de-integridade-do-canal-5fa": {
-    "__comp": "17896441",
-    "content": "def9c21c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faq-status-de-integridade-do-canaldef-b40"
   },
   "/novidades-do-sistema/-9f8": {
-    "__comp": "17896441",
-    "content": "661ef9e0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-661-73e"
   },
   "/novidades-do-sistema/abril-de-2026/-3a7": {
-    "__comp": "17896441",
-    "content": "9182c040"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-abril-de-2026-918-cb9"
   },
   "/novidades-do-sistema/abril-de-2026/02-04-2026-75d": {
-    "__comp": "17896441",
-    "content": "1555a455"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-abril-de-2026-02-04-2026155-a3d"
   },
   "/novidades-do-sistema/abril-de-2026/17-04-2026-app-2.1.34-ae6": {
-    "__comp": "17896441",
-    "content": "3a930936"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-abril-de-2026-17-04-2026-app-2-1-343-a-9-e49"
   },
   "/novidades-do-sistema/fevereiro-de-2026/-63c": {
-    "__comp": "17896441",
-    "content": "e54e0f92"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-fevereiro-de-2026-e-54-079"
   },
   "/novidades-do-sistema/fevereiro-de-2026/04-02-2026-a74": {
-    "__comp": "17896441",
-    "content": "fb5fbd77"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-fevereiro-de-2026-04-02-2026-fb-5-6a3"
   },
   "/novidades-do-sistema/fevereiro-de-2026/12-02-2026-10b": {
-    "__comp": "17896441",
-    "content": "ba0c7af1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-fevereiro-de-2026-12-02-2026-ba-0-04a"
   },
   "/novidades-do-sistema/fevereiro-de-2026/20-02-2026-f76": {
-    "__comp": "17896441",
-    "content": "be6b5dd5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-fevereiro-de-2026-20-02-2026-be-6-80f"
   },
   "/novidades-do-sistema/fevereiro-de-2026/26-02-2026-1c8": {
-    "__comp": "17896441",
-    "content": "a94010c1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-fevereiro-de-2026-26-02-2026-a-94-cba"
   },
   "/novidades-do-sistema/fevereiro-de-2026/27-02-2026-341": {
-    "__comp": "17896441",
-    "content": "e6e8c660"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-fevereiro-de-2026-27-02-2026-e-6-e-ac3"
   },
   "/novidades-do-sistema/janeiro-de-2026/-19c": {
-    "__comp": "17896441",
-    "content": "eadebf27"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-janeiro-de-2026-ead-b71"
   },
   "/novidades-do-sistema/janeiro-de-2026/02-01-2026-5fa": {
-    "__comp": "17896441",
-    "content": "257ad581"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-janeiro-de-2026-02-01-2026257-4a9"
   },
   "/novidades-do-sistema/janeiro-de-2026/07-01-2026-95e": {
-    "__comp": "17896441",
-    "content": "ee3ede16"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-janeiro-de-2026-07-01-2026-ee-3-3a7"
   },
   "/novidades-do-sistema/janeiro-de-2026/19-01-2026-d56": {
-    "__comp": "17896441",
-    "content": "7e2db050"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-janeiro-de-2026-19-01-20267-e-2-821"
   },
   "/novidades-do-sistema/janeiro-de-2026/21-01-2026-174": {
-    "__comp": "17896441",
-    "content": "73b67793"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-janeiro-de-2026-21-01-202673-b-0e8"
   },
   "/novidades-do-sistema/janeiro-de-2026/21-01-2026-api-94d": {
-    "__comp": "17896441",
-    "content": "ada35ee1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-janeiro-de-2026-21-01-2026-apiada-bf0"
   },
   "/novidades-do-sistema/janeiro-de-2026/22-01-2026-921": {
-    "__comp": "17896441",
-    "content": "31893c98"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-janeiro-de-2026-22-01-2026318-1cd"
   },
   "/novidades-do-sistema/janeiro-de-2026/28-01-2026-a7f": {
-    "__comp": "17896441",
-    "content": "178708d8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-janeiro-de-2026-28-01-2026178-aa8"
   },
   "/novidades-do-sistema/junho-de-2026/-803": {
-    "__comp": "17896441",
-    "content": "4dc4e847"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-junho-de-2026-4-dc-468"
   },
   "/novidades-do-sistema/junho-de-2026/03-06-2026-499": {
-    "__comp": "17896441",
-    "content": "fd112450"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-junho-de-2026-03-06-2026-fd-1-82a"
   },
   "/novidades-do-sistema/maio-de-2026/-bda": {
-    "__comp": "17896441",
-    "content": "15e0eb11"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-15-e-f5d"
   },
   "/novidades-do-sistema/maio-de-2026/06-05-2026-bfa": {
-    "__comp": "17896441",
-    "content": "dc9bc75e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-06-05-2026-dc-9-226"
   },
   "/novidades-do-sistema/maio-de-2026/12-05-2026-2dc": {
-    "__comp": "17896441",
-    "content": "67c416d5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-12-05-202667-c-ff8"
   },
   "/novidades-do-sistema/maio-de-2026/13-05-2026-d01": {
-    "__comp": "17896441",
-    "content": "65918914"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-13-05-2026659-1e5"
   },
   "/novidades-do-sistema/maio-de-2026/14-05-2026-envio-de-audios-como-mensagem-de-voz-220": {
-    "__comp": "17896441",
-    "content": "892567d7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-14-05-2026-envio-de-audios-como-mensagem-de-voz-892-30c"
   },
   "/novidades-do-sistema/maio-de-2026/14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas-427": {
-    "__comp": "17896441",
-    "content": "2327c630"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-14-05-2026-permissao-de-campanhas-e-exclusao-de-etiquetas-232-9fd"
   },
   "/novidades-do-sistema/maio-de-2026/20-05-2026-3d9": {
-    "__comp": "17896441",
-    "content": "9caf7187"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-20-05-20269-ca-2a3"
   },
   "/novidades-do-sistema/maio-de-2026/22-05-2026-etiquetas-no-chatbot-98e": {
-    "__comp": "17896441",
-    "content": "7075f912"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-22-05-2026-etiquetas-no-chatbot-707-db5"
   },
   "/novidades-do-sistema/maio-de-2026/22-05-2026-gatilhos-no-chatbot-a38": {
-    "__comp": "17896441",
-    "content": "4910b0f4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-22-05-2026-gatilhos-no-chatbot-491-a4b"
   },
   "/novidades-do-sistema/maio-de-2026/27-05-2026-dd9": {
-    "__comp": "17896441",
-    "content": "4d2ee785"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-27-05-20264-d-2-096"
   },
   "/novidades-do-sistema/maio-de-2026/29-05-2026-api-crm-de-vendas-a25": {
-    "__comp": "17896441",
-    "content": "f7c21887"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-29-05-2026-api-crm-de-vendasf-7-c-406"
   },
   "/novidades-do-sistema/maio-de-2026/29-05-2026-crm-de-vendas-2b9": {
-    "__comp": "17896441",
-    "content": "84b66ba1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-maio-de-2026-29-05-2026-crm-de-vendas-84-b-10b"
   },
   "/novidades-do-sistema/marco-de-2026/-02d": {
-    "__comp": "17896441",
-    "content": "d6597a3e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-marco-de-2026-d-65-51e"
   },
   "/novidades-do-sistema/marco-de-2026/12-03-2026-ee9": {
-    "__comp": "17896441",
-    "content": "68dbf4ad"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-marco-de-2026-12-03-202668-d-2d2"
   },
   "/novidades-do-sistema/marco-de-2026/12-03-2026-filtros-de-webhooks-e50": {
-    "__comp": "17896441",
-    "content": "dc72f751"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-marco-de-2026-12-03-2026-filtros-de-webhooksdc-7-6b9"
   },
   "/novidades-do-sistema/marco-de-2026/18-03-2026-b27": {
-    "__comp": "17896441",
-    "content": "3fd6af34"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-marco-de-2026-18-03-20263-fd-38a"
   },
   "/novidades-do-sistema/marco-de-2026/25-03-2026-72b": {
-    "__comp": "17896441",
-    "content": "536c0ad1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---novidades-do-sistema-marco-de-2026-25-03-2026536-096"
   },
   "/-c02": {
-    "__comp": "17896441",
-    "content": "c377a04b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
   }
 }
