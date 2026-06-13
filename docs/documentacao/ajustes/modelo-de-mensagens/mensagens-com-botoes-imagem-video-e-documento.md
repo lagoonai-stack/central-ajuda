@@ -17,13 +17,13 @@ A criação de **mensagens interativas** na **plataforma** melhora a comunicaç�
 **Passo 1:** No menu **"Ajustes"**, clique em **"Modelos de Mensagens"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image.avif)
 
 
 **Passo 2:** Clique no ícone **"+ Novo"**, escolha o tipo de modelo de mensagem e adicione os elementos desejados.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(1).avif)
 
 
 **Passo 3:** Além do texto, você pode incluir **imagens, vídeos, documentos e botões** para tornar a mensagem mais interativa.
@@ -47,9 +47,9 @@ A criação de **mensagens interativas** na **plataforma** melhora a comunicaç�
 * **Abrir Página** → Direciona o cliente para um link externo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(7).png)
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(8).png)
  Existem dois tipos de botões: **Resposta Rápida** e **Abrir Página**.
 
 * **Resposta Rápida**: Utilizado para dar continuidade à conversa, facilitando a interação com o atendente.
@@ -63,5 +63,5 @@ A criação de **mensagens interativas** na **plataforma** melhora a comunicaç�
 * O **status do modelo** é atualizado na **barra de notificações** da plataforma.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(9).png)
 
