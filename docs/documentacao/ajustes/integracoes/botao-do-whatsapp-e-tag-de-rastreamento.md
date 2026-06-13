@@ -34,19 +34,19 @@ Os botões Flutuante e CTA possuem finalidades distintas e podem ser usados em d
 **Passo 1: Integração do Botão -** Acesse a **plataforma** e faça login. No menu principal, clique em **"Ajustes"** e em seguida “**Integrações**”.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/integracoes/botao_do_whatsapp_e_tag_de_rastreamento/image.avif)
 
 
 **Passo 2**: Na página de integrações, clique em **“Configurar”** na opção do botão do WhatsApp e Tag de rastreamento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/integracoes/botao_do_whatsapp_e_tag_de_rastreamento/image%20(1).avif)
 
 
 **Passo 3:** Uma nova tela se abrirá, clique em **“+ Nova Tag”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/integracoes/botao_do_whatsapp_e_tag_de_rastreamento/image%20(2).avif)
 
 
 **Passo 4:** Preencha as informações solicitadas, dê um nome para a Tag, escolha entre as duas opção de acionamento do botão: **Receber uma mensagem do cliente -** Após o preenchimento do formulário, o cliente será redirecionado ao WhatsApp.
