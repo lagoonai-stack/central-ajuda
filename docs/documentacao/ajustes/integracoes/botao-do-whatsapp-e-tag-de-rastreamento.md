@@ -54,7 +54,7 @@ Os botões Flutuante e CTA possuem finalidades distintas e podem ser usados em d
 **Enviar uma mensagem ao cliente -** Após o preenchimento do formulário, uma mensagem será enviada automaticamente para o seu cliente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `7oKSuL6gj1dxSvL2ftEj`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/integracoes/botao_do_whatsapp_e_tag_de_rastreamento/image%20(3).avif)
 
 
 **Passo 5:** Continue o preenchimento das informações:
@@ -65,25 +65,25 @@ Os botões Flutuante e CTA possuem finalidades distintas e podem ser usados em d
 * Role o cursor e continue preenchendo as informações.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `TtLiAnBjoJ1pkSMIQBZM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/integracoes/botao_do_whatsapp_e_tag_de_rastreamento/image%20(4).avif)
 
 
 **Passo 6:** Ainda no preenchimento das informações defina se **Rastreamento do cliente** e se o **Botão flutuante do WhastApp** estará ativo ou não. Por fim clique em **“Salvar”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `TiCIakuuZqcfCzWccC1u`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/integracoes/botao_do_whatsapp_e_tag_de_rastreamento/image%20(5).avif)
 
 
 **Passo 7:** Após **salvar** uma nova janela se abrirá com as orientações de como instalar o botão de WhatsApp no seu site.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/integracoes/botao_do_whatsapp_e_tag_de_rastreamento/image%20(6).avif)
 
 
 **Passo 8:** Quando finalizar o processo a **tag configurada** aparecerá na listagem de integrações dentro da plataforma, conforme imagem abaixo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/integracoes/botao_do_whatsapp_e_tag_de_rastreamento/image%20(7).avif)
 
 
 **Considerações Finais**

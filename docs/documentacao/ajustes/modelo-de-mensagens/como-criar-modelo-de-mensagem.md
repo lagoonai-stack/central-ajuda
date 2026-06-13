@@ -16,13 +16,13 @@ Criar e utilizar modelos de mensagem na a plataforma é essencial para padroniza
 **Passo 1**: Na tela inicial da plataforma, **clique** na opção **"Ajustes"**, o menu de opções se abrirá. **Clique** em **"Modelos de Mensagens"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image.avif)
 
 
 **Passo 2:** **Selecione** o modelo de mensagem que deseja criar e **clique** em **continuar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(1).avif)
 
 
 **Passo 3:** **Preencha os campos necessários para criar seu modelo de mensagem:**
@@ -51,7 +51,7 @@ Criar e utilizar modelos de mensagem na a plataforma é essencial para padroniza
 **Adicione o texto da mensagem**. É possível utilizar **parâmetros** no texto para automatizar a personalização da mensagem. Para definir um campo personalizado, basta adicionar o nome do campo entre **colchetes** \[ ]. Por exemplo: **\[NOME]**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(2).avif)
 
 
 Além do **texto**, é possível adicionar **foto**, **vídeo**, **anexar arquivo** e adicionar **botões**.
@@ -59,7 +59,7 @@ Além do **texto**, é possível adicionar **foto**, **vídeo**, **anexar arquiv
 São dois tipos de botões: **Resposta rápida** e **Abrir página**. O botão de **resposta rápida** é utilizado para dar sequência na conversa, facilitando o fluxo da conversa com o atendente. O botão **Abrir página** permite adicionar um **link** para direcionar o contato para uma nova página.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(2).jpg)
 
 
 **Passo 4**: **Clique em salvar** e o modelo de mensagem será enviado automaticamente para **aprovação**. A **Meta** analisará e aprovará ou rejeitará o modelo.
@@ -76,7 +76,7 @@ Caso o modelo seja **reprovado**, revise e faça as alterações necessárias an
 * Os **status** dos modelos de mensagens são enviados na **barra de notificações** da plataforma, conforme na imagem abaixo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(3).avif)
 
 
 * **Segmentação**: Utilize a **segmentação** para enviar mensagens mais **relevantes** e **direcionadas** ao público correto.

@@ -17,7 +17,7 @@ Manter sua **foto de perfil atualizada** não apenas personaliza sua experiênci
 Clique na **logo da empresa** no canto superior da tela para abrir as informações do usuário.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/editar_foto_do_usuario/image.avif)
 
 
 **Passo 2: Editar a foto de perfil**
@@ -29,9 +29,9 @@ Selecione uma nova foto e, caso necessário, atualize outras informações do pe
 Após as alterações, clique em "Salvar" para confirmar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/editar_foto_do_usuario/image%20(1).avif)
 
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/editar_foto_do_usuario/image%20(7).png)
 

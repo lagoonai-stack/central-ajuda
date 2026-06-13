@@ -21,7 +21,7 @@ Na **plataforma**, cada **conta** representa um ambiente de trabalho com configu
 **Passo 1:** Acesse sua conta atual normalmente. No canto superior direito da tela, clique no **ícone de usuário** (seu nome ou avatar).
 
 No menu suspenso, você verá a opção **“Trocar de conta”**. Clique nesta opção. 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/outros/como_alternar_entre_contas_na_plataforma/image.avif)
 
 
 **Passo 2:** Será exibida a lista de contas às quais você tem acesso.
@@ -29,7 +29,7 @@ No menu suspenso, você verá a opção **“Trocar de conta”**. Clique nesta 
 Selecione a conta desejada. A plataforma será recarregada automaticamente com os dados da nova conta.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/outros/como_alternar_entre_contas_na_plataforma/image%20(1).avif)
 
 
 **Considerações finais**

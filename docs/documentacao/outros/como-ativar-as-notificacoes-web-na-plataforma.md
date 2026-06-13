@@ -17,18 +17,18 @@ Receber notificações em tempo real é essencial para manter a produtividade e 
 **Passo 1:** Acesse a **plataforma** e faça login com suas credenciais.
 No canto superior esquerdo clique na opção de **“Ative as notificações na web”**.\
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/outros/como_ativar_as_notificacoes_web_na_plataforma/image.avif)
 
 
 **Passo 2:** A plataforma exibirá um pop-up para que você defina suas preferências. Para ativar os alertas, selecione a opção 'Habilitado' em 'Notificações na área de trabalho'."
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `kkPRt3Msp1GWJGw644qC`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/outros/como_ativar_as_notificacoes_web_na_plataforma/image%20(1).avif)
 
 
 **Passo 3:** Pronto! Você começará a receber notificações sempre que houver novas interações, desde que a aba da **plataforma** esteja aberta.\
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/outros/como_ativar_as_notificacoes_web_na_plataforma/image%20(7).png)
 
 
 **Considerações finais**

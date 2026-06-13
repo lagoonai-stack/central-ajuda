@@ -17,7 +17,7 @@ O cadastro de novos usuários na **plataforma** permite incluir membros da equip
 **Passo 1**: Na tela inicial, clique em **"Ajustes"** e, em seguida, em **"Usuários"**. em seguida clique em **"+ Novo"** para iniciar o cadastro.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `GpXJMhRNe65OyHMA3r8w`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image.avif)
 
 
 **Passo 2**: **Preencher as informações do usuário**
@@ -32,7 +32,7 @@ Todos os campos marcados com \* são obrigatórios e devem ser preenchidos.\
   * **Atendente restrito:** Acesso apenas ao módulo de atendimento e CRM. O usuário **não tem visibilidade** dos atendimentos de outros membros nem dos contatos da empresa, podendo visualizar apenas seus próprios atendimentos concluídos.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image%20(7).png)
 
 
 **Passo 3**: **Finalizar o cadastro**
@@ -40,7 +40,7 @@ Todos os campos marcados com \* são obrigatórios e devem ser preenchidos.\
 Após preencher todas as informações, clique em **"Salvar"** no canto direito inferior da tela.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image%20(8).png)
 
 
 **Considerações Adicionais**:
@@ -54,5 +54,5 @@ Após preencher todas as informações, clique em **"Salvar"** no canto direito 
 Ao cadastrar um novo usuário, um e-mail será enviado convidando para acessar a plataforma.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image%20(9).png)
 

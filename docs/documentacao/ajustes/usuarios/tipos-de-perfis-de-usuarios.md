@@ -28,7 +28,7 @@ Neste artigo, você encontrará informações detalhadas sobre os diferentes tip
   * **Recomendado Para:** Colaboradores externos, clientes e parceiros que necessitam de acesso temporário.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/tipos_de_perfis_de_usuarios/image.avif)
 
 
 **Importância de Gerenciar Perfis de Usuários**

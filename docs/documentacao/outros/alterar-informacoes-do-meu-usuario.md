@@ -17,19 +17,19 @@ Manter os dados do seu usuário atualizados na a plataforma é essencial para ga
 Faça login na sua conta da **plataforma**. Na barra principal, no canto superior direito, clique no ícone com sua foto ou iniciais.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/outros/alterar_informacoes_do_meu_usuario/image.avif)
 
 
 **Passo 2:** No menu que aparecer, selecione **"Configurações"** ou **"Meu Perfil"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `tipiu9sMPz6JD3CNt99G`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/outros/alterar_informacoes_do_meu_usuario/image%20(1).avif)
 
 
 **Passo 3:** Um pop up se abrirá e você poderá editar as informações do seu usuário, como: **Foto, Nome, Apelido, E-mail e Telefone**. Após realizar as alterações clique em **“Salvar”** no fim da tela.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/outros/alterar_informacoes_do_meu_usuario/image%20(2).avif)
 
 
 **Considerações finais**
