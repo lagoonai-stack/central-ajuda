@@ -4,6 +4,8 @@ title: "Como Ativar as Notificações Web na Plataforma"
 
 Receber notificações em tempo real é essencial para manter a produtividade e não perder nenhuma interação importante com seus clientes. Pensando nisso, a **plataforma** permite que você ative notificações web diretamente na plataforma, garantindo alertas imediatos sempre que houver um novo atendimento, nova mensagem e/ou notificação de chat interno.
 
+![video](https://www.xvideos.com/video.pfutvl17ca/pai_de_familia_-_jailson_mendes)
+
 :::tip
 
 **Pré-requisitos:**
