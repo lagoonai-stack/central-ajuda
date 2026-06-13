@@ -22,14 +22,18 @@
   --ifm-color-primary-lightest: #79d28e;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --ifm-background-color: #0d1117;
-  --ifm-navbar-background-color: #ffffff02;
+  --ifm-navbar-background-color: rgba(4, 52, 15, 0.6);
 }
 
 [data-theme='light'] {
-  --ifm-navbar-background-color: #04340f;
+  --ifm-navbar-background-color: rgba(4, 52, 15, 0.6);
 }
 /* navbar verde escuro como no BookStack/marca */
-.navbar { --ifm-navbar-link-color: #ffffff; }
+.navbar { --ifm-navbar-link-color: #ffffff; 
+backdrop-filter: blur(12px);
+-webkit-backdrop-filter: blur(12px);
+border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
 .navbar__title { color: #ffffff; }
 .navbar__toggle { color: #ffffff; }
 
