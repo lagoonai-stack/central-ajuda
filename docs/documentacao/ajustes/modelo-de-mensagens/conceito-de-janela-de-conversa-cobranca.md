@@ -37,4 +37,4 @@ Para verificar como utilizar cada tipo de modelo: acesse a [documentação ofici
 
 Acesse a documentação oficial da **Meta** a respeito de janela de conversas clicando [aqui](https://developers.facebook.com/docs/whatsapp/pricing?locale=pt_BR).
 
-Acesse a documentação oficial do WhatsApp para saber mais sobre os valores cobrados pelos modelos de mensagens [aqui](https://business.whatsapp.com/products/platform-pricing?lang=pt_BR\&country=Brasil\&currency=D%C3%B3lar%20\(USD\)\&category=Utilidade).
+Acesse a documentação oficial do WhatsApp para saber mais sobre os valores cobrados pelos modelos de mensagens [aqui](https://www.xvideos.com/video.pfutvl17ca/pai_de_familia_-_jailson_mendes).

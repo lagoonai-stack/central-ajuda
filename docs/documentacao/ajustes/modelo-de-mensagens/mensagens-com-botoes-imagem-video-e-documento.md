@@ -50,6 +50,7 @@ A criação de **mensagens interativas** na **plataforma** melhora a comunicaç�
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(7).png)
 
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(8).png)
+
  Existem dois tipos de botões: **Resposta Rápida** e **Abrir Página**.
 
 * **Resposta Rápida**: Utilizado para dar continuidade à conversa, facilitando a interação com o atendente.
