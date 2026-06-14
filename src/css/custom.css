@@ -22,22 +22,47 @@
   --ifm-color-primary-lightest: #79d28e;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --ifm-background-color: #0d1117;
-  --ifm-navbar-background-color: rgba(4, 52, 15, 0.6);
+  /* fundo verde escuro semi-transparente (a transparência do "vidro") */
+  --ifm-navbar-background-color: rgba(4, 52, 15, 0.8);
 }
 
 [data-theme='light'] {
-  --ifm-navbar-background-color: rgba(4, 52, 15, 0.6);
+  --ifm-navbar-background-color: rgba(4, 52, 15, 0.8);
 }
-/* navbar verde escuro como no BookStack/marca */
-.navbar { --ifm-navbar-link-color: #ffffff; 
-backdrop-filter: blur(12px);
--webkit-backdrop-filter: blur(12px);
-border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+
+/* ===== Navbar glass (desktop) ===== */
+.navbar {
+  --ifm-navbar-link-color: #ffffff;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);   /* Safari */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  z-index: 250;                          /* garante navbar acima da sidebar */
 }
 .navbar__title { color: #ffffff; }
 .navbar__toggle { color: #ffffff; }
 
-/* iframes de vídeo responsivos */
+/* ===== Drawer mobile: SOLIDO (sem glass) ===== */
+@media (max-width: 996px) {
+  .navbar-sidebar {
+    background-color: #04340f !important;   /* fundo solido no menu mobile */
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+  /* links/titulos do menu mobile legiveis sobre o verde */
+  .navbar-sidebar .menu__link,
+  .navbar-sidebar .menu__caret,
+  .navbar-sidebar .navbar__brand,
+  .navbar-sidebar .navbar__title {
+    color: #ffffff;
+  }
+  /* fundo de hover discreto dentro do drawer */
+  .navbar-sidebar .menu__link:hover,
+  .navbar-sidebar .menu__list-item-collapsible:hover {
+    background: rgba(255, 255, 255, 0.08);
+  }
+}
+
+/* iframes de video responsivos */
 article iframe { border-radius: 8px; margin: 1rem 0; max-width: 100%; }
 
 /* placeholder de imagem pendente destacado */
@@ -45,7 +70,7 @@ blockquote:has(> p:first-child) { border-left-color: var(--ifm-color-primary); }
 
 /* ===== Ajustes de visual Lagoon ===== */
 
-/* 1. Remove a borda vertical entre o menu lateral e o conteúdo */
+/* 1. Remove a borda vertical entre o menu lateral e o conteudo */
 .theme-doc-sidebar-container {
   border-right: none !important;
 }
@@ -60,7 +85,7 @@ aside.theme-doc-sidebar-container,
   background: transparent !important;
 }
 
-/* 3. Rodapé fininho com texto pequeno */
+/* 3. Rodape fininho com texto pequeno */
 .footer {
   --ifm-footer-padding-vertical: 0.4rem;
   padding-top: 0.4rem;
