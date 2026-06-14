@@ -39,6 +39,23 @@ const config = {
     ],
   ],
 
+  // ===== Busca local (offline, sem Algolia) =====
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      /** @type {import('@easyops-cn/docusaurus-search-local').PluginOptions} */
+      ({
+        hashed: true,
+        language: ['pt'],
+        indexDocs: true,
+        indexBlog: false,
+        docsRouteBasePath: '/',          // bate com o routeBasePath dos docs
+        highlightSearchTermsOnTargetPage: true,
+        searchResultLimits: 8,
+      }),
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -51,8 +68,8 @@ const config = {
         title: 'Central de Ajuda',
         logo: {
           alt: 'Lagoon One',
-          src: 'img/favicon.ico',
-          srcDark: 'img/favicon.ico',
+          src: 'img/logo.png',
+          srcDark: 'img/logo.png',
         },
         items: [
           {
