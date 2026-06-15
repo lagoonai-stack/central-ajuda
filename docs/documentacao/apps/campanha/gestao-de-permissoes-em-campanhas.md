@@ -11,7 +11,7 @@ Somente usuários com perfil de **Administrador** ou **Super Administrador** con
 Usuários com outros perfis (como Atendente) visualizam o botão **"Permissões"** na tela, mas ele aparece desabilitado. Ao passar o mouse sobre ele, é exibida a mensagem: *"Funcionalidade disponível apenas para administradores"*.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `0iS2VAY9Cp1PUjHTurfx`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/gestao_permissoes_campanhas/image.avif)
 
 
 **Passo 1: Acessar o Gerenciador de Permissões**
@@ -21,7 +21,7 @@ Usuários com outros perfis (como Atendente) visualizam o botão **"Permissões"
 3. O modal **"Permissões de usuários"** será aberto.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `RfGbHvApjl2fd5VaxGwh`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/gestao_permissoes_campanhas/image%20(1).avif)
 
 
 **Passo 2: Localizar um Usuário**
@@ -34,7 +34,7 @@ No modal de permissões, você pode localizar rapidamente qualquer usuário util
 A lista exibe o avatar, o nome e o perfil de cada usuário. Caso algum usuário esteja bloqueado na plataforma, ele aparecerá com a tag **"Bloqueado"** em vermelho.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `jWDhAZb2yRmfwko1L1T0`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/gestao_permissoes_campanhas/Anima%C3%A7%C3%A3o%20(2).gif)
 
 
 **Passo 3: Alterar o Nível de Permissão**
@@ -48,7 +48,7 @@ Usuários com perfil de **Super Administrador** e **Administrador** possuem perm
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ifNGmDd0GsxBTi9WEDoR`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/gestao_permissoes_campanhas/image%20(8).png)
 
 
 #### Níveis de Permissão Disponíveis
@@ -66,7 +66,7 @@ O sistema conta com 3 níveis de acesso ao módulo de Campanhas:
 Usuários com o nível 🔵 **Criador de Campanhas** conseguem criar e salvar campanhas normalmente, mas os botões de **disparo** e de **pausar/continuar** envios ficam bloqueados. Ao passar o mouse sobre eles, é exibida a mensagem: *"Ação não disponível para o seu nível de permissão no módulo."*
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `38f4wHK9dGLtThyp0xTp`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/gestao_permissoes_campanhas/image%20(2).avif)
 
 
 #### Sincronização automática com o perfil do usuário
@@ -82,19 +82,19 @@ Antes de aplicar a alteração, o sistema exibe um modal de confirmação **"Per
 * **Ao promover para Administrador:** a mensagem informa que o usuário terá **acesso completo** a todos os módulos.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `BFCkbvqRYpZoaP7b8uuJ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/gestao_permissoes_campanhas/image%20(10).png)
 
 
 * **Ao rebaixar de Administrador para Atendente ou Atendente Restrito:** a mensagem informa que o usuário terá **acesso limitado** aos módulos.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `TkDjwVxDmwJxzgglznFf`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/gestao_permissoes_campanhas/image%20(11).png)
 
 
 * **Ao alterar entre Atendente e Atendente Restrito (ou vice-versa):** a mensagem informa que as permissões atuais serão removidas e substituídas pelas permissões padrão do novo perfil.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `edjaB47vdiqbXtXBfr7K`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/gestao_permissoes_campanhas/image%20(12).png)
 
 
 Em todos os casos, você pode clicar em **"Confirmar"** para aplicar a alteração ou **"Cancelar"** para mantê-la sem mudanças.

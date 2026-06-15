@@ -21,16 +21,12 @@ Na **plataforma**, entendemos que a flexibilidade na gestão de campanhas é ess
 
 **Passo 2:** Selecione a campanha da qual deseja exportar os dados. A tela da campanha será aberta. Em seguida, role o cursor até o fim da tela e clique na opção **"Exportar"**
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/exportar-campanha/image%20(1).avif)
-.
-
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/exportar-campanha/image%20(2).avif)
 
 
 **Passo 3:** Em seguida, uma planilha será gerada com as **informações da campanha**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `u5tm8ypjsHh5HW9GXT4i`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/campanhas/exportar-campanha/image%20(2).avif)
 
 
 **Considerações Adicionais:**

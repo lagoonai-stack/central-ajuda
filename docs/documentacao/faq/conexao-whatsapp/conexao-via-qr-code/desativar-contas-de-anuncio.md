@@ -25,19 +25,19 @@ Este artigo orienta como localizar e desativar essas contas de anúncio.
 * Na lateral esquerda clique na opção: **Configurações da conta de anúncios.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/desativar_conta_anuncio/image.avif)
 
 
 **Passo 2:** Uma nova aba será exibida. Logo abaixo da seção "**Pagamentos da empresa"**, localize a opção **"Desativar conta de anúncios"** e clique nela.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `wdUlfmnSTxSNFbmyDPl7`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/desativar_conta_anuncio/image%20(1).avif)
 
 
 **Passo 3:** Um pop-up será exibido. Selecione o motivo mais adequado para a desativação da conta e, em seguida, clique em **"Desativar conta de anúncios"**. A tela será atualizada e a conta removida.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `2uUjf8xu7djB4WDOCf82`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/desativar_conta_anuncio/image%20(8).png)
 
 
 **Considerações Finais**

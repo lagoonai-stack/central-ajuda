@@ -11,7 +11,7 @@ O bloco **Adicionar/remover etiquetas do contato** permite aplicar ou retirar et
 3. Clique em **Adicionar/remover etiquetas do contato**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `N8T7jhWWRuCadqfbE3JF`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/add_rmv_etiqueta/image%20(8).png)
 
 
 #### Passo 2: Escolher a operação
@@ -22,7 +22,7 @@ O bloco possui dois modos de operação — selecione o que deseja realizar:
 * **Remover etiqueta** — retira uma ou mais etiquetas do contato.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `eGPVHAw3f1Ix2t1vSNEN`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/add_rmv_etiqueta/image%20(10).png)
 
 
 #### Passo 3: Selecionar as etiquetas
@@ -35,7 +35,7 @@ O bloco possui dois modos de operação — selecione o que deseja realizar:
 6. Clique em **Adicionar** para confirmar a seleção.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `em0HUN19Ytz4vrsSfED9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/add_rmv_etiqueta/image%20(11).png)
 
 
 #### Criar uma nova etiqueta pelo builder
@@ -50,7 +50,7 @@ Não encontrou a etiqueta que precisa? É possível criar uma nova diretamente p
 A nova etiqueta será criada e exibida imediatamente na listagem, já disponível para seleção.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `a3Qz40G7a79iDR0DV8FD`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/add_rmv_etiqueta/image.avif)
 
 
 :::warning

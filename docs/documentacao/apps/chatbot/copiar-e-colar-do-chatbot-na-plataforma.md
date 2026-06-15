@@ -28,67 +28,67 @@ Neste artigo, explicamos como utilizar essa funcionalidade e quais são os benef
 **Passo 1:** No menu principal clique em **“Apps”** e em seguida **"Chatbots”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image.avif)
 
 
 **Passo 2:** Selecione o tipo de bot que você deseja copiar informações (**Chatbot para Atendimento ou Chatbot para Automação**). A lista de Bots criados se abrirá, **selecione o Bot** que deseja copiar clicando sobre ele.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(1).avif)
 
 
 **Passo 3:** A tela com a estrutura do Chatbot se abrirá. Clique na opção “**Editar**”.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `zxtwpVwTKLBj5zwvwgzx`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(2).avif)
 
 
 **Passo 4:** Na tela de edição, aparecerá uma **bolinha ao lado** de cada etapa do chatbot, clique nas etapas que deseja copiar, conforme a imagem abaixo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(3).avif)
 
 
 **Passo 5:** Após selecionar as etapas que deseja copiar, clique em **“Copiar Itens”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(4).avif)
 
 
 **Passo 6:** Uma mensagem aparecerá na tela informando que os **itens foram copiados para a área de transferência.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(5).avif)
 
 
 **Passo 7:** Volte para a tela inicial do(s) Chatbot(s) e clique na opção **“+Novo”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(6).avif)
 
 
 **Passo 8:** Preencha as informações do novo Chatbot, como: **Nome, Tipo de Canal e Equipe**, e em seguida clique em **salvar** no final da página.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(7).avif)
 
 
 **Passo 9:** A tela para configurar o novo Bot se abrirá, clique no **ícone + e** clique na opção **“Colar Itens”**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(8).avif)
 
 
 **Passo 10:** As etapas copiadas serão inseridas no novo Chatbot, você pode continuar criando e editando o chatbot. Após finalizar a estrutura do Bot, clique em **“Salvar Alterações”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(9).avif)
 
 
 **Passo 11:** Na etapa final você pode “**Testar”** o Chatbot e/ ou **“Publicar versão”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(10).avif)
 
 
 **Passo 12:** Após publicar a versão, o Chatbot estará disponível para ser utilizado atrelado a um canal.
@@ -96,13 +96,13 @@ Neste artigo, explicamos como utilizar essa funcionalidade e quais são os benef
 Selecione o canal que deseja atrelar o Chatbot, clique em **“definir”.** Uma tela lateral se abrirá para que o Chatbot seja selecionado. Por fim clique em **“Salvar”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(11).avif)
 
 
 **Passo 13:** Após estar atrelada a um canal aparecerá a mensagem **“Em Uso”** ao lado do Chatbot.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/copiar_chatbot/image%20(12).avif)
 
 
 **Considerações Finais**

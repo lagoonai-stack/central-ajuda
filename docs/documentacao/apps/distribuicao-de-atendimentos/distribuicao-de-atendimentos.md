@@ -40,8 +40,7 @@ Quando a funcionalidade de Distribuição de Atendimento está habilitada, o enc
 
 **Passo 3:** Uma tela de configuração será aberta. Ative a chave para habilitar o aplicativo e defina a(s) equipe(s) que terá(ão) a funcionalidade de distribuição de atendimentos. Finalmente, clique em "Salvar" para aplicar as configurações.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(7).png)
 
 
 **Passo 4:** Em Ajustes ⟶ Equipes é possível visualizar a ordem que os atendimentos são distribuídos e uma seta estará no próximo atendente que receberá o atendimento.
@@ -52,20 +51,18 @@ Quando a funcionalidade de Distribuição de Atendimento está habilitada, o enc
 
 **Passo 5:** É possível configurar as informações da distribuição de atendimento clicando em: Ajustes ⟶ Equipes ⟶ Selecione a equipe ⟶ Alterar
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(3).avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(5).avif)
 
 
 **Passo 6:** Se abrirá a janela de ajustes, é possível desabilitar/ habilitar a função de distribuição de atendimentos e ativar a função de transbordo na distribuição, que determina um tempo de expiração dos atendimentos na equipe. O limite de tempo é entre 10 minutos e 1 hora.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(4).avif)
 
 
 **Passo 7:** A disponibilidade do atendente pode ser configurada pelo administrador para evitar recebimento de mensagens durante férias ou folgas, Vá em Equipes ⟶ Selecione a Equipe que o usuário pertence ⟶ Clique no ícone "✅" junto ao nome do usuário ⟶ Selecione a opção "Indisponível".
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(5).avif)
 
 
 **Visualização do Timer:**
@@ -73,7 +70,7 @@ Quando a funcionalidade de Distribuição de Atendimento está habilitada, o enc
 Quando uma conversa é direcionada para um usuário, um timer será exibido, mostrando o tempo restante para iniciar o atendimento antes dele ser redirecionado a outro atendente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `OPFb1vsit3SCEMFxQ02c`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(8).png)
 
 
 **Considerações finais:**

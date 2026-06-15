@@ -17,48 +17,48 @@ Em determinadas situações, pode ser necessário **remover um número de telefo
 **Passo 1:** Acesse o aplicativo **WhatsApp Business** no celular. Na tela inicial Toque nos três pontinhos no canto superior direito.
 
 \
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `pF6yTE6Kc9qtWBh3M7p5`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/remover_conexao/image%20(8).png)
 
 
 **Passo 2:** Clique na opção **Configurações**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/remover_conexao/image.avif)
 
 
 **Passo 3:** Clique na opção **Conta**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `IDe7US8m7On3G7Uak95D`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/remover_conexao/image%20(10).png)
 
 
 **Passo 4:** Clique na opção **Plataforma Comercial**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ftfhlHSH7PcIBMPHyqqp`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/remover_conexao/image%20(11).png)
 
 
 **Passo 5:** O parceiro Hunion será exibido na tela. Clique na opção "**Toque para desconectar".**\
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/remover_conexao/image%20(12).png)
 
 
 **Passo 6:** Aparecerá uma nova tela com a opção **desconectar**, clique em **avançar**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `uidxOspDervpuhFk4sI4`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/remover_conexao/image%20(13).png)
 
 
 **Passo 7:** Aparecerá uma nova tela com a confirmação da desconexão. Clique em **Desconectar.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/remover_conexao/image%20(14).png)
 
 
 **Passo 8:** Por fim, a tela de **nova conexão será exibida**, confirmando que a **conexão anterior foi encerrada** e permitindo que um novo dispositivo seja conectado.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/conexao_whatsapp/via_qrcode/remover_conexao/image%20(1).avif)
 
 
 **Considerações Finais**

@@ -13,7 +13,7 @@ A funcionalidade de gatilhos está disponível **apenas para chatbots de atendim
 **Duas formas de configurar:** Os gatilhos podem ser configurados diretamente no builder do chatbot (conforme este artigo) ou pelo card do canal, na tela de **Chatbots para atendimento** (clicando em **Editar** no canal desejado). As duas formas são sincronizadas — qualquer alteração feita em um lugar é refletida automaticamente no outro.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ny8QhWj8POmKKzVlBv0R`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image.avif)
 
 
 #### Passo 1: Criar um novo chatbot e configurar os gatilhos
@@ -24,7 +24,7 @@ Na aba **Chatbot**, clique em **+ Novo**, preencha as configurações iniciais e
 * **Configurar mais tarde** — cria o chatbot e permite configurar os gatilhos em outro momento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `jFFFK8Q8kJbtvm7lHZhn`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(1).avif)
 
 
 **Se você escolher "Configurar mais tarde":**
@@ -35,7 +35,7 @@ O chatbot será exibido com o nó **Gatilhos** (barra cinza, contador 0) e um n�
 * **Configurar** — abre o sidebar **Configuração geral do chatbot**, onde é possível definir o **Tempo de espera para envio da resposta** e o **Tempo máximo de inatividade**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `XC7hErjL5KLqK6Vp7A7v`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(2).avif)
 
 
 #### Passo 2: Definir um gatilho
@@ -52,7 +52,7 @@ Ao clicar em **Adicionar gatilho**, o sidebar **Definir gatilho** será aberto. 
 Após selecionar o tipo, os campos correspondentes serão exibidos para preenchimento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `z5bhFqKhkLM9NpzuzW6b`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(8).png)
 
 
 #### Passo 3: Preencher as configurações do gatilho
@@ -65,7 +65,7 @@ Independente do tipo de gatilho selecionado, os campos abaixo serão exibidos pa
 4. Clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Kp4UX14Vvqf6FXn3rrb7`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(10).png)
 
 
 :::warning
@@ -85,7 +85,7 @@ Após salvar, o gatilho aparece conectado ao nó inicial. Cada gatilho exibe:
 Ao adicionar o **primeiro gatilho**, a barra do nó muda de **cinza para azul** e o contador é atualizado automaticamente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `CmUxIScTheo0LSbY7j5q`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(3).avif)
 
 
 #### Editar ou excluir um gatilho
@@ -96,7 +96,7 @@ Clique no **ícone de três pontos** ao lado do nó do gatilho para acessar as o
 * **Excluir** — exibe uma confirmação antes de remover o gatilho do fluxo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `7zK5CqQrXzWgAMY6jV2T`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/editar%20ou%20excluir%20gatilhos.gif)
 
 
 ## O que afeta a exibição dos gatilhos
@@ -108,13 +108,13 @@ Alguns canais podem aparecer desabilitados na lista ao configurar um gatilho. Is
 * O canal **já está vinculado ao mesmo tipo de gatilho** neste chatbot (para evitar duplicidade).
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ZUHZEHFoKrEgFyOGn7xT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(4).avif)
 
 
 * Para o tipo Palavra-chave: o canal **já possui a mesma palavra-chave** configurada neste chatbot. Ao passar o mouse, o tooltip exibirá: *"Já existe um gatilho com esta palavra-chave para este canal."*
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `UxNbvgeIsCai5kk5QeQe`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(11).png)
 
 
 **Regra de exclusividade entre tipos de gatilho**
@@ -145,13 +145,13 @@ Se o canal selecionado já tiver outro chatbot associado para o mesmo tipo de di
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `3blxADYYRaXWrOn9X6nf`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(12).png)
 
 
 Ao clicar em **Publicar**, o modal **Conflito de chatbot** será exibido com os detalhes dos canais e do chatbot que será substituído. Você poderá confirmar a substituição ou cancelar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `SoEuA7BEHEIdEXuj0C2m`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/gatilhos/image%20(13).png)
 
 
 **Canal removido da conta**

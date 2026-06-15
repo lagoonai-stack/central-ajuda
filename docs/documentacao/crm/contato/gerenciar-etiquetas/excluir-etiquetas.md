@@ -11,7 +11,7 @@ Somente usuários com perfil de **Administrador** ou **Super Administrador** tê
 Usuários com perfis operacionais, como **Atendente**, visualizam apenas a opção de criar novas etiquetas. Os ícones de edição e exclusão ficam completamente ocultos da interface para esses perfis.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `aHPbCVWuEbvUJ2nV9knR`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/excluir-etiquetas/permissao%20de%20editar%20e%20excluir%20etiqueta%20para%20atendentes.gif)
 
 
 #### **Como excluir uma etiqueta de contato**
@@ -25,10 +25,10 @@ Usuários com perfis operacionais, como **Atendente**, visualizam apenas a opç�
 5. Clique no ícone de **lixeira** ao lado da etiqueta que deseja excluir.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `8ZgRBWEZck1I6lTecaJJ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/excluir-etiquetas/image.avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `xlaAICqeVWNlEttgib3A`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/excluir-etiquetas/image.png)
 
 
 **Passo 2: Verificar o impacto**
@@ -38,13 +38,13 @@ Ao clicar em excluir, o modal **"Excluir etiqueta de contatos"** será aberto. O
 * **Se a etiqueta estiver vinculada a contatos:** o alerta exibirá *"X contatos serão afetados."*
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `kIAkyhy6tvw0lnWxLLpT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/excluir-etiquetas/image%20(1).png)
 
 
 * **Se a etiqueta não estiver vinculada a nenhum contato:** o alerta exibirá *"Nenhum contato será afetado."*
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `IiwPrugQpUaLdZYBXiIA`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/excluir-etiquetas/image%20(2).png)
 
 
 :::warning
@@ -61,7 +61,7 @@ O próximo passo depende do impacto identificado:
 * **Com contatos afetados (1 ou mais):** ao clicar em **"Excluir etiqueta"**, a ação será retida e o sistema abrirá o modal de **"Validação de acesso"**, solicitando um código de segurança enviado para o seu e-mail.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `eYDir1dDk5GOiyQ0BpxF`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/excluir-etiquetas/image%20(3).png)
 
 
 **Passo 4: Inserir o código de validação (quando solicitado)**
@@ -86,10 +86,10 @@ Toda exclusão de etiqueta fica registrada no **Histórico de Alterações**, ac
 * **Exclusão com impacto (via OTP):** dois registros — um na entidade **"Etiquetas"** (exclusão) e outro na entidade **"OTP Validação"** (confirmação de segurança).
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `rCaoPwX6VgqxVPt9o2wl`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/excluir-etiquetas/image%20(1).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `eIjH4zw4l8sINvVGrWRR`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/excluir-etiquetas/image%20(2).avif)
 
 
 :::info

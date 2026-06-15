@@ -18,21 +18,21 @@ Ao longo deste conteúdo, você verá como habilitar e desabilitar essa funciona
 2. Selecione a opção **Mais apps**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `fblYcaybm6W3DqwCKF83`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/carteirizacao/habilitar-app/image%20(6).avif)
 
 
 3. Na tela exibida, localize o aplicativo **Carteirização de Contatos**.
 4. Clique no botão **Configurar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `6z2KVIthP1wGyqo71drv`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/carteirizacao/habilitar-app/image%20(7).avif)
 
 
 5. Será aberta a tela de configuração do aplicativo. Nela, ative a chave para habilitar a funcionalidade e, se desejar, ative também a flag **Restringir acesso aos contatos** conforme a necessidade da sua operação.
    Após realizar as configurações, clique em **Salvar** para concluir.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `5dIyyqQTIerA1KyDOxr3`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/carteirizacao/habilitar-app/image%20(8).png)
 
 
 A partir desse momento, a funcionalidade de **Carteirização** passa a ficar disponível na plataforma.

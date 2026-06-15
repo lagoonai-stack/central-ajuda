@@ -22,7 +22,7 @@ Vincular uma etiqueta a um contato permite segmentá-lo e localizá-lo com mais 
 4. Na aba **Detalhes**, clique no ícone de edição ao lado de **Etiquetas**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `yLSkagoRnO1acVCtu0Bc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/vincular-etiqueta-a-um-contato/image%20(3).avif)
 
 
 **Passo 2: Selecionar a etiqueta**
@@ -30,7 +30,7 @@ Vincular uma etiqueta a um contato permite segmentá-lo e localizá-lo com mais 
 O painel de etiquetas será exibido com a lista de etiquetas disponíveis na conta. Marque a caixa ao lado da etiqueta que deseja associar ao contato.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `p62mCKHsdKGMK0PFsBUN`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/vincular-etiqueta-a-um-contato/image.avif)
 
 
 **Passo 3: Salvar**
@@ -38,7 +38,7 @@ O painel de etiquetas será exibido com a lista de etiquetas disponíveis na con
 Clique em **"Salvar etiquetas"**. A etiqueta será vinculada ao contato e aparecerá imediatamente no campo Etiquetas do painel de detalhes.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `6G8BCiQgRwCmXyz3RjET`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/vincular-etiqueta-a-um-contato/image.png)
 
 
 #### **Opção 2: Vincular durante um atendimento**
@@ -56,7 +56,7 @@ Clique em **"Salvar etiquetas"**. A etiqueta será vinculada ao contato e aparec
 3. Na tela de conversa, clique no ícone de informações do contato para abrir o painel lateral.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `2OU8bGJARrItQiYC6XB4`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/vincular-etiqueta-a-um-contato/image%20(1).avif)
 
 
 **Passo 2: Selecionar a etiqueta**
@@ -66,7 +66,7 @@ Clique em **"Salvar etiquetas"**. A etiqueta será vinculada ao contato e aparec
 3. Selecione a(s) etiqueta(s) que deseja associar ao contato.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `gVZnMlwBaUGYvidfnumL`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/vincular-etiqueta-a-um-contato/image%20(1).png)
 
 
 **Passo 3: Salvar**
@@ -74,7 +74,7 @@ Clique em **"Salvar etiquetas"**. A etiqueta será vinculada ao contato e aparec
 Clique em **"Salvar etiquetas"**. A etiqueta ficará vinculada ao contato e será exibida tanto no painel lateral do atendimento quanto na listagem de contatos do CRM.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `mVb8gWPGQdkOqAi3lc3y`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/vincular-etiqueta-a-um-contato/image%20(2).avif)
 
 
 #### **Vincular etiquetas durante a importação em massa**

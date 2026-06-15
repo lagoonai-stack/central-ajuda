@@ -20,33 +20,33 @@ Ao longo deste conteúdo, você verá como ativar e desativar essa funcionalidad
 2. Selecione a opção **Mais apps**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `cQEU4bwpVkDkUd9o37h6`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(7).png)
 
 
 3. Na tela exibida, localize o aplicativo **Chat Interno**.
 4. Clique no botão **Habilitar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `4XOMs2XkmZFtPQPmV6X9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(8).png)
 
 
 5. Em seguida, será aberta a tela de configuração. Ative a chave para habilitar o aplicativo e clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `NtsVoG7yFWgPEOxGdSfH`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(9).png)
 
 
 A partir desse momento, todos os usuários da equipe passam a ter acesso ao **Chat Interno** e podem se comunicar diretamente dentro da plataforma. O recurso fica disponível na lateral direita da tela e pode ser acessado clicando diretamente no **ícone do Chat Interno**
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `Zwp5VrzUwIf2xFIaxy9b`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(10).avif)
 ou no menu das **três barras**
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `yTumwpgJgKDdtNQ8HMRU`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(9).avif)
 , onde a opção também estará disponível.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Huun78WiP7W1vfGCsmeJ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(10).png)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Wgc6bb7tROkBhGZoCPAL`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(11).avif)
 
 
 **Passo 2: Como desativar o Chat Interno**
@@ -57,13 +57,13 @@ ou no menu das **três barras**
 4. Clique no botão **Configurar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `2idpYKqn81ZF2vrQ0mYx`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(11).png)
 
 
 5. Na tela de configuração, desative a chave do aplicativo e clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `vZGBmcvbGGikdI4mdyOz`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(12).png)
 
 
 A partir desse momento, todos os usuários da equipe deixam de ter acesso ao **Chat Interno**, e a funcionalidade passa a ficar indisponível na plataforma.

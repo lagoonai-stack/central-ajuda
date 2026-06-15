@@ -23,47 +23,47 @@ A integração do Instagram e Messenger à **plataforma** permite que sua equipe
 
 
 **Passo 2:** No menu de opções, clique em **”Canais de atendimento”** e em seguida clique o ícone 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(15).png)
 **.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(1).avif)
 
 
 **Passo 3**: Selecione qual **rede social** deseja integrar na plataforma.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(2).avif)
 
 
 **Passo 4:** Uma tela de integração se abrirá. Clique em **Iniciar**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(3).avif)
 
 
 **Passo 5:** Uma tela será aberta, direcionando para o login com o Facebook. Clique em **"Entrar com Facebook"**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(5).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(4).avif)
 
 
 **Passo 6:** Faça login na conta em que o Messenger e/ou Instagram estão conectados à **Business Manager (BM)**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(6).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(5).avif)
 
 
 **Passo 7:** Clique em “**Continuar como Nome da conta do Facebook”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(7).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(7).png)
 
 
 **Passo 8:** Nesta etapa, selecione as **“páginas”** que deseja integrar à plataforma. Escolha a opção desejada e, em seguida, clique em **"Continuar".**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(8).png)
 
 
 :::danger
@@ -80,7 +80,7 @@ Na próxima etapa, você poderá selecionar quais perfis devem ser integrados es
 **Passo 9:** Nesta etapa, selecione as **“Empresas”** que deseja integrar à plataforma. Escolha a opção desejada e, em seguida, clique em **"Continuar”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(8).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(9).png)
 
 
 :::danger
@@ -97,37 +97,37 @@ Na próxima etapa você conseguirá selecionar quais são os perfis que devem se
 **Passo 10:** Selecione as contas do Instagram e/ou Messenger que deseja conectar na plataforma. Em seguida clique em **“Continuar”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(10).png)
 
 
 **Passo 11:** Na próxima tela revise as informações e clique em **“Salvar”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(9).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(11).png)
 
 
 **Passo 12:** A conexão com a hunion foi feita. Clique em **“Entendi”** para finalizar o processo.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(10).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(12).png)
 
 
 **Passo 13:** Você será direcionado para plataforma novamente para a **conclusão** do processo. As redes sociais irão aparecer na tela, clique em **“continuar”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(11).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(6).avif)
 
 
 **Passo 14:** Por fim clique em **“finalizar”** para concluir a integração.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(12).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(7).avif)
 
 
 **Passo 15:** A tela de **canais de atendimento** ficará como a imagem abaixo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/comece-aqui-instagram/messenger/conexao/image%20(8).avif)
 
 
 **Considerações finais**:

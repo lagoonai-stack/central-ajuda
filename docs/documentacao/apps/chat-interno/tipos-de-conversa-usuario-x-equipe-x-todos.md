@@ -15,7 +15,7 @@ Neste conteúdo, você entenderá como funcionam os três tipos de conversa do C
   * Deve ser utilizado sempre que a mensagem for direcionada e não precisar de visibilidade coletiva.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `sCu7atsLWCpQ7JfrvOaj`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/tipos-conversas-chat-interno/Anima%C3%A7%C3%A3o%20(11).gif)
 
 
 * **Equipe**
@@ -25,7 +25,7 @@ Neste conteúdo, você entenderá como funcionam os três tipos de conversa do C
   * Atua como um “canal de bastidor”, onde todos acompanham o contexto e colaboram nas decisões.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `FEesiEWbIAMWAvCVZi1N`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/tipos-conversas-chat-interno/image%20(3).gif)
 
 
 * **Todos**
@@ -35,7 +35,7 @@ Neste conteúdo, você entenderá como funcionam os três tipos de conversa do C
   * Deve ser utilizado com critério, evitando excesso de informações pouco relevantes.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `w8ndOhGcnWwtbYPTlkj6`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/tipos-conversas-chat-interno/image%20(4).gif)
 
 
 **Ações disponíveis nas mensagens**
@@ -52,7 +52,7 @@ Ao clicar nos **três pontos** ao lado de uma mensagem, as opções exibidas var
 Essa regra garante controle sobre as próprias mensagens, ao mesmo tempo em que mantém a integridade das mensagens enviadas por outros participantes.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `dPFw1HIVi4f5mLEzpDzZ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/tipos-conversas-chat-interno/Anima%C3%A7%C3%A3o%20(12).gif)
 
 
 :::warning

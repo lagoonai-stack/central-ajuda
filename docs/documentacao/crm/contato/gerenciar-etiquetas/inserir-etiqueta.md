@@ -24,7 +24,7 @@ Etiquetas são criadas e gerenciadas diretamente pelo painel de etiquetas, acess
 4. O painel de etiquetas será aberto com a lista de etiquetas cadastradas na conta.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `31LWri8j3the8YjA3FTn`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/criar-e-editar-etiquetas/image%20(5).avif)
 
 
 **Passo 2: Criar a etiqueta**
@@ -37,7 +37,7 @@ Etiquetas são criadas e gerenciadas diretamente pelo painel de etiquetas, acess
 A etiqueta será criada e ficará disponível para uso em toda a plataforma — inclusive em Chatbots, Sequências e importações de contatos.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Cl3Ktn1Fl2fvzlk2KVyZ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/criar-e-editar-etiquetas/image.avif)
 
 
 #### **Como editar uma etiqueta**
@@ -64,5 +64,5 @@ Apenas usuários com perfil de **Administrador** ou **Super Administrador** pode
 As alterações são aplicadas imediatamente em todos os contatos que possuem essa etiqueta vinculada.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `mW7CzxznmUwpnjhL2cvc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/gerenciar-etiquetas/criar-e-editar-etiquetas/image%20(1).avif)
 
