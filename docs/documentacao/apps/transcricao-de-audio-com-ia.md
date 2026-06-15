@@ -57,4 +57,4 @@ Ao receber uma mensagem de áudio de um contato, a **IA integrada** da plataform
 * Qualquer dúvida entre em contato com o CS responsável pela sua conta ou com nosso time de Suporte.
 * Ao criar um ambiente novo na plataforma a funcionalidade de transcrição ficará disponível por 15 dias para degustação.
 
-- [Degustação de Transcrição de Áudio](/documentacao/apps/transcricao-de-audio-com-ia/degustacao-de-transcricao-de-audio)
+

@@ -66,7 +66,7 @@ A partir desse momento, todos os usuários da equipe passam a ter acesso à func
 5\. Na tela de configuração, desative a chave do aplicativo e clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1k4NhCG3N3RFgZxN0voB`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/grupos-whatsapp/habilitar-app/image%20(10).png)
 
 
 A partir desse momento, a funcionalidade de **Grupos** passa a ficar disponível na plataforma.
