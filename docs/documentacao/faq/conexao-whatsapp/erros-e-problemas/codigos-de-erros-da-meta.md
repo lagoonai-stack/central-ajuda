@@ -7,7 +7,7 @@ Ao integrar ou utilizar serviços da Meta, alguns códigos de erro podem ser ret
 ### **Erro 131049 - Envio de Template Messenger de Marketing** <a href="#o8rw4y96ay9d" id="o8rw4y96ay9d"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `6gbQoRSycHsHubu5IxTu`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/bckp.avif)
 
 
 **Como agir ao receber esse erro:**
@@ -51,7 +51,7 @@ Embora não seja possível controlar diretamente essa restrição, algumas prát
 ### **Erro 131056 - Limite de Volume de Envios de Mensagens Atingido** <a href="#afwfmfslcv85" id="afwfmfslcv85"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `fm0cGwX1pT8XzDcocySh`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(9).avif)
 
 
 **Por que esse erro ocorre?**
@@ -82,7 +82,7 @@ Embora essa restrição seja aplicada diretamente pela Meta, algumas práticas p
 ### **Erro 130472 - Experimento da Meta** <a href="#cdbuvqduo7ju" id="cdbuvqduo7ju"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `cU5ltJ2AFjWgtKNaCOg9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(10).avif)
 
 
 **Por que esse erro ocorre?**
@@ -181,7 +181,7 @@ Após a atualização das informações da empresa no **Business Manager** e a p
 ### **Erro 131042 - META**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `McFjt3fVwcV2fUW4m3KC`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(3).avif)
 
 
 **Por que esse erro ocorre?**
@@ -234,7 +234,7 @@ Após atualizar ou adicionar um novo método de pagamento, aguarde alguns minuto
 ### Erro 131026 - Número Não Registrado no WhatsApp <a href="#sirpmrgu535p" id="sirpmrgu535p"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `W7KhwCU1FpY1a6pzhWrD`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(4).avif)
 
 
 **Por que esse erro ocorre?**
@@ -288,7 +288,7 @@ Caso ainda haja dúvida sobre a origem do problema, faça um teste:
 ### Erro 131000 - Erro Desconhecido <a href="#e0ukwxsjis3v" id="e0ukwxsjis3v"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `EsMiSCCkvEgnW6BoRK75`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image.png)
 
 
 **Por que esse erro ocorre?**
@@ -337,7 +337,7 @@ Após a reconexão, o envio de mensagens tende a voltar ao funcionamento normal.
 ### **Erro 135000 - Falha ao Enviar Mensagem** <a href="#jrbec5iwehcn" id="jrbec5iwehcn"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `inYmdFdWOZjXe0WTKllT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(5).avif)
 
 
 **Por que esse erro ocorre?**
@@ -376,7 +376,7 @@ Se o modelo duplicado funcionar normalmente, pode ser útil **duplicar outros mo
 ### **Erro 131047 - Mais de 24h Sem Contato** <a href="#id-26m6d0s9n32g" id="id-26m6d0s9n32g"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `yxbDSYoic2YeSfNBJygF`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(1).png)
 
 
 **Por que esse erro ocorre?**
@@ -408,7 +408,7 @@ Por exemplo, se durante o atendimento houver a necessidade de **corrigir o núme
 ### **Erro 131048 - Parâmetro Ausente ou Inválido** <a href="#g8blifezkmxm" id="g8blifezkmxm"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `SvlxfNTSKa2MiADHVRRV`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(6).avif)
 
 
 **Por que esse erro ocorre?**
@@ -444,7 +444,7 @@ Esse erro pode acontecer quando **parâmetros obrigatórios estão ausentes ou i
 ### **Erro 132001 - Modelo Não Existe** <a href="#g8blifezkmxm" id="g8blifezkmxm"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `VnvbszGlhNODTQdeWC6V`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(7).avif)
 
 
 **Por que esse erro ocorre?**
@@ -482,7 +482,7 @@ Isso significa que o sistema não conseguiu localizar o modelo solicitado na bas
 ### **Erro 131031 - Conta Restrita ou Bloqueada** <a href="#ukhgiy1yhf" id="ukhgiy1yhf"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Iz5FSC5MGXSIb7Sg4aFB`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(2).png)
 
 
 **Por que esse erro ocorre?**
@@ -512,7 +512,7 @@ Para entender o motivo da restrição e verificar possíveis orientações da Me
 4. Verifique se há **notificações, alertas ou mensagens da Meta** relacionadas à conta ou ao erro.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `yLlbOFmFrIZtnPcC1wxR`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(8).avif)
 
 
 **Revise as políticas de uso:**
@@ -541,7 +541,7 @@ Algumas boas práticas incluem:
 ### **Erro 100 - Mensagem Não Suportada** <a href="#ukhgiy1yhf" id="ukhgiy1yhf"></a>
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `cwxe529V0FJSUUkvPNzP`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(3).png)
 
 
 **Por que esse erro ocorre?**
@@ -579,7 +579,7 @@ Ele pode ocorrer quando o sistema tenta acessar um recurso inexistente, utiliza 
 ### **Erro 131051 - Mensagem Não Suportada pela API**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `RtLhE2PCPgHoIsd9N3XQ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(4).png)
 
 
 **O que significa essa mensagem?**
@@ -635,7 +635,7 @@ Esse comportamento **não indica um erro da plataforma**, mas sim **uma limitaç
 ### Erro 131060 - Mensagem Indisponível (Coexistência e CTWA)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `abosDHR1ZGw83vQr5QJ9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(5).png)
 
 
 Ao operar canais de **WhatsApp Business**, especialmente em cenários que utilizam **anúncios Click-to-WhatsApp (CTWA)** em ambientes de **Coexistência (COEX)**, você pode se deparar com um aviso no atendimento indicando o **erro 131060**.

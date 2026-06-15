@@ -43,7 +43,7 @@ Se sua conta foi bloqueada indevidamente, siga este processo para solicitar uma 
 * Vá até o link:[ https://business.facebook.com/](https://business.facebook.com/)
 * Faça login com o usuário administrador da conta.
 * Clique em **Conta do WhatsApp**\
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `T174WkNeGV1SkmXNPE8t`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/revisao_de_banimento/image%20(9).avif)
 
 
 **Passo 2:** Abra o Gerenciador do WhatsApp
@@ -52,7 +52,7 @@ Se sua conta foi bloqueada indevidamente, siga este processo para solicitar uma 
 * Role o cursor até encontrar a opção **Status da Conta**. Nesse campo, será exibido o **status atual da conta**, permitindo que você verifique se está ativa ou se há alguma pendência.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/revisao_de_banimento/image.avif)
 
 
 **Passo 3:** Verifique o status da conta
@@ -60,18 +60,18 @@ Se sua conta foi bloqueada indevidamente, siga este processo para solicitar uma 
 * Você verá o status como:
 
 <div align="left">
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `uiczqghtUqYAlFvvg0hr`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/revisao_de_banimento/image.png)
 </div>
 
 <div align="left">
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `O5byppWg4sq9Nfb4c8Fr`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/revisao_de_banimento/image%20(1).png)
 </div>
 
 **Passo 4:** Se a conta estiver **bloqueada ou desabilitada,** acesse a [**página inicial de suporte**](/documentacao/faq/conexao-whatsapp/erros-e-problemas/acessar-pagina-de-suporte) para solicitar a revisão e desbloqueio.
 
 * Clique nas **três barras** no canto superior esquerdo.
 * Em seguida, abrirá um menu—selecione **"Página inicial de suporte"** para acessar as informações do bloqueio.\
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ELykdNm0N1Mu90Ccz1Md`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/revisao_de_banimento/image%20(1).avif)
 
 
 **Passo 5:** Na **página inicial do suporte**, role o cursor até a seção onde constam as informações das contas de **WhatsApp**.
@@ -79,7 +79,7 @@ Se sua conta foi bloqueada indevidamente, siga este processo para solicitar uma 
 * Em seguida, clique sobre o **status da conta** que deseja verificar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `msd7jeHO3CReYuoRigcS`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/revisao_de_banimento/image%20(2).avif)
 
 
 **Passo 6:** Ao clicar no status da conta dentro do **Meta Business Manager,** você será redirecionado para uma página dedicada a exibir os detalhes do bloqueio ou desabilitação da conta. Nela, é possível conferir:
@@ -89,7 +89,7 @@ Se sua conta foi bloqueada indevidamente, siga este processo para solicitar uma 
 * As ações disponíveis no momento, como a opção “Request Review” (Pedir Análise) para contestar a decisão.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/revisao_de_banimento/image%20(3).avif)
 
 
 **Passo 7:** Para solicitar a revisão, clique no botão **“Pedir Análise”** e siga as instruções na tela para submeter seu pedido. Ao concluir, aguarde o posicionamento da equipe do Meta, que analisará sua solicitação e retornará com um parecer.
@@ -97,7 +97,7 @@ Se sua conta foi bloqueada indevidamente, siga este processo para solicitar uma 
 Explique que a conta está sendo usada para fins legítimos (atendimento ao cliente, vendas, suporte etc.);
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `v9SiKJgDKz3bkAU0lya9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/revisao_de_banimento/image%20(2).png)
 
 
 ### **Após o envio** <a href="#yfj03qlst6o5" id="yfj03qlst6o5"></a>

@@ -31,7 +31,7 @@ Acesse o[ Gerenciador de Negócios da Meta](https://business.facebook.com/). No 
 **Passo 2:** No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**”. Em seguida, role o cursor da lateral direita até o fim e clique em “**Gerenciador de WhatasApp**”.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/bckp.png)
 
 
 **Passo 3**: **Gerenciador do WhatsApp**
@@ -39,7 +39,7 @@ Acesse o[ Gerenciador de Negócios da Meta](https://business.facebook.com/). No 
 Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, selecione o ícone de **engrenagem** localizado ao lado do número de telefone;
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/image%20(2).png)
 
 
 **Passo 4: Gerenciar autenticação de dois fatores**
@@ -47,7 +47,7 @@ Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, s
 Dentro das configurações do número selecionado, localize a seção **"confirmação em duas etapas"**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/bckp.avif)
 
 
 **Passo 5: Desativar**
@@ -55,30 +55,30 @@ Dentro das configurações do número selecionado, localize a seção **"confirm
 Clique na opção **“desativar confirmação em duas etapas”**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores/image%20(9).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/passo5.png)
 
 
 **Passo 5:** Um pop-up será exibido na tela. Clique em **"OK"** para prosseguir e receber o código de confirmação.\
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores/image%20(10).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/image%20(3).png)
 
 
 **Passo 6:** Verifique se o e-mail com as instruções foi recebido e siga as orientações indicadas.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores/image%20(11).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/image%20(2).avif)
 
 
 **Passo 7:** Uma nova tela será exibida com a confirmação dos dados. Clique na opção **"Desativar a confirmação em duas etapas"** para concluir o processo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `0Ib9y3W01oFV3dx8wQpD`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/passo7.avif)
 
 
 **Passo 8:** Será enviado um pop-up de confirmação da desativação.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `2szKO6MjMvihLhqpZ35a`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/image%20(4).png)
 
 
 **Considerações finais**

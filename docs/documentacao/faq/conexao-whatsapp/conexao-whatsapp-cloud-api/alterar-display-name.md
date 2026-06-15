@@ -18,13 +18,13 @@ O nome de exibição (Display Name) é a identificação pública do seu número
 **Passo 1:** Acesse o[ Gerenciador de Negócios da Meta](https://business.facebook.com/). No painel principal da **portfólio empresarial**, clique em **"Configurações de Negócio"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1V0J5tEZWJyroM5cWkHn`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/display_name/image.avif)
 
 
 **Passo 2:** No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**”. Em seguida, role o cursor da lateral direita até o fim e clique em “**Gerenciador de WhatasApp**”.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `X7yZLwEcPRNqHHrpqfEb`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/display_name/image%20(1).avif)
 
 
 **Passo 3**: **Gerenciador do WhatsApp**
@@ -32,19 +32,19 @@ O nome de exibição (Display Name) é a identificação pública do seu número
 Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, selecione o ícone de **engrenagem** localizado ao lado do número de telefone.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/display_name/image%20(2).avif)
 
 
 **Passo 4**: Uma nova tela será exibida. Selecione a opção **“Perfil”**, logo abaixo aparecerá a opção **“Nome de Exibição”**, clique em **“Editar”.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/display_name/image%20(3).avif)
 
 
 **Passo 5:** Digite o nome que deseja utilizar, não se esqueça de verificar se o nome segue as [diretrizes de nomenclatura do WhatsApp](https://web.facebook.com/business/help/338047025165344?_rdc=1&_rdr). Em seguida clique em **“Enviar”.** A alteração será analisada pela **Meta**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Xzd9gIQCrDvH8x3Br14W`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/display_name/image%20(8).png)
 
 
 **Considerações finais:**

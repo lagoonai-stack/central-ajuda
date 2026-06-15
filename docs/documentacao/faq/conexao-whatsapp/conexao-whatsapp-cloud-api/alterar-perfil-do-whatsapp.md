@@ -37,7 +37,7 @@ Certifique-se de estar utilizando a conta vinculada ao WhatsApp que deseja edita
 No painel principal do **portfólio empresarial**, clique em **"Configurações de Negócio"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1V0J5tEZWJyroM5cWkHn`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/perfil_whatsapp/image%20(8).png)
 
 
 **Passo 2: Acesse a Configuração do WhatsApp**
@@ -47,7 +47,7 @@ No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**”.
 Em seguida, role o cursor da lateral direita até o fim e clique em “**Gerenciador de WhatasApp**”.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `X7yZLwEcPRNqHHrpqfEb`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/perfil_whatsapp/image%20(10).png)
 
 
 **Passo 3**: **Gerenciador do WhatsApp**
@@ -55,7 +55,7 @@ Em seguida, role o cursor da lateral direita até o fim e clique em “**Gerenci
 Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, selecione o ícone de **engrenagem** localizado ao lado do número de telefone.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `JY2NWDkgxOfggbmdYZl0`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/perfil_whatsapp/image%20(11).png)
 
 
 **Passo 4**. **Edite o Perfil do WhatsApp**
@@ -72,13 +72,13 @@ Atualize os campos necessários, como:
 * **Site:** Insira ou atualize a URL oficial da empresa.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/perfil_whatsapp/image.avif)
 
 
 **Passo 5:** Após realizar as edições desejadas, clique em **salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `XiDXwiPv2xCa8qMVWKap`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/perfil_whatsapp/image%20(1).avif)
 
 
 :::danger

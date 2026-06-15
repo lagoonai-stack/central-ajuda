@@ -35,7 +35,7 @@ Acesse o[ Gerenciador de Negócios da Meta](https://business.facebook.com/). Na 
 Verifique o **Status de verificação da empresa**. Mais informações sobre como acessar o portfólio empresarial clique [aqui](/documentacao/faq/conexao-whatsapp/portfolio-empresarial/informacoes-do-portfolio).
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image.avif)
 
 
 :::info
@@ -49,7 +49,7 @@ Veja aqui como fazer a[ **verificação do portfólio empresarial**](/documentac
 Siga os passos descritos neste manual para [Desativar a autenticação em dois fatores.](/documentacao/faq/conexao-whatsapp/portfolio-empresarial/desativar-autenticacao-em-dois-fatores)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(1).avif)
 
 
 **Passo 3**: Inicie a conexão de um número por portabilidade.
@@ -57,97 +57,97 @@ Siga os passos descritos neste manual para [Desativar a autenticação em dois f
 Acesse a plataforma, clique em **"Ajustes"**, depois em **"Conta"** e, na aba **"Canais de Atendimento"**, selecione o **botão "+"** para iniciar uma nova conexão com o WhatsApp via Cloud API.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(2).avif)
 
 
 **Passo 4:** Na tela seguinte selecione a opção de **migrar número** e em seguida clique em **iniciar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(3).avif)
 
 
 **Passo 5**: Na tela seguinte, revise atentamente as instruções para realizar a portabilidade. Se estiver tudo correto, clique em **"Continuar"** para prosseguir com o processo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(4).avif)
 
 
 **Passo 6**: Digite o número a ser migrado e clique em continuar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(5).avif)
 
 
 **Passo 7:** Na tela seguinte faça login no **Facebook**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `QtNS3CxJNfguEsgW3fNI`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(6).avif)
 
 
 **Passo 8:** Confirme a conta que deseja utilizar para o login.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `d3BDeXAbBgIAJ09LunJt`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(8).png)
 
 
 **Passo 9:** Após aceitar os termos de conexão com a Hunion.io, clique em **"Começar"** para prosseguir.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `9yV8OBSfoD32TTo2HISB`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(10).png)
 
 
 **Passo 10:** Confira os dados da empresa e em seguida clique em **avançar.**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `SWus7hhqCuJNcjw1rF84`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(11).png)
 
 
 **Passo 11:** Selecione ou crie a **Waba** onde o número será transferido, em seguida clique em **avançar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `bN0nUmlZZ2ekUI0VkMho`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(12).png)
 
 
 **Passo 12:** Após aceitar os termos de acesso que a Hunion.io terá, clique em **"Continuar"** para prosseguir.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(13).png)
 
 
 **Passo 13:** Um novo pop-up será exibido informando que o processo foi concluído. Clique em **"Concluir"** para finalizar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(14).png)
 
 
 **Passo 14:** Retornando à plataforma, clique em **"Confirmação de configuração de pagamento"** ou acesse o Gerenciador de Negócios para definir a forma de pagamento. Após concluir essa etapa, clique em **"Continuar".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(7).avif)
 
 
 **Passo 15:** Uma nova aba se abrirá clique em **"Confirmação de desativação da autenticação de dois fatores"** ou acesse o **Gerenciador de Negócios** para desativar a autenticação. Após concluir essa etapa, clique em **"Continuar".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `mOvNIqVKuITyseyt7beN`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(8).avif)
 
 
 **Passo 16:** Em seguida, selecione o meio pelo qual deseja receber o código de verificação e clique em **"Continuar".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `csuZ6UO2TkEknbQPy5jN`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(9).avif)
 
 
 **Passo 17:** Informe o código de verificação recebido e clique em **"Continuar"** para prosseguir com o processo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(10).avif)
 
 
 **Passo 18:** Clique em **"Finalizar"** para concluir a configuração.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/cloud_api/portabilidade_numero/image%20(11).avif)
 
 
 **Considerações finais**

@@ -19,19 +19,19 @@ Administradores no **portfólio empresarial** têm permissões avançadas para g
 **Passo 1**: Abra o navegador e acesse o site oficial da **Meta Business Site**: https://business.facebook.com/. Faça login com a conta vinculada ao **portfólio empresarial** da sua empresa.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/incluir_administradores/image%20(1).png)
 
 
 **Passo 2:** No painel principal, clique na opção **Pessoas**. Em seguida, selecione a opção **+ Convidar Pessoas.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/incluir_administradores/bckp.avif)
 
 
 **Passo 3:** Uma nova aba se abrirá, preencha o email da pessoa que será convidada para o **portfólio empresarial**. Clique em avançar.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/incluir_administradores/bckp2.avif)
 
 
 **Passo 4:** Na aba seguinte, defina o **perfil de acesso** do convidado. Você pode escolher entre:
@@ -43,19 +43,19 @@ Administradores no **portfólio empresarial** têm permissões avançadas para g
 Após definir o perfil, clique em **Avançar**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/incluir_administradores/image%20(2).avif)
 
 
 **Passo 5:** Na aba, defina quais **ativos de negócio** o convidado terá acesso, como **páginas**, **contas de anúncios**, **catálogos de produtos** ou outros recursos disponíveis. Após definir, clique em **Avançar**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(5).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/incluir_administradores/image%20(3).avif)
 
 
 **Passo 6:** Na última aba, revise todas as **informações preenchidas no convite** para garantir que estão corretas antes de enviá-lo. Clique em **enviar convite**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/incluir-administradores/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/incluir_administradores/image%20(4).avif)
 
 
 **Passo 7:** Uma tela de confirmação do envio do convite será exibida.
@@ -63,7 +63,7 @@ Após definir o perfil, clique em **Avançar**.
 Após isso, a lista de usuários do **portfólio empresarial** será atualizada, exibindo o novo convidado com o status '**Pendente**', até que ele aceite o convite.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/incluir_administradores/image%20(5).avif)
 
 
 **Considerações Finais:**

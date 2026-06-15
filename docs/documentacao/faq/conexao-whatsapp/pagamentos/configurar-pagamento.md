@@ -90,7 +90,7 @@ Após cadastrar o cartão no portfólio, você deve vinculá-lo especificamente 
 4. Selecione o cartão que você acabou de cadastrar e confirme a vinculação.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `gLFezEJFAQcO5uSbPlQl`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/configurar/image%20(5).avif)
 
 
 :::warning
