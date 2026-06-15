@@ -41,8 +41,7 @@ Os **campos personalizados** são uma ferramenta poderosa para adaptar a **plata
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/editar_campos_personalizados/image%20(7).png)
 
 
-**Passo 5:** Para editar um campo personalizado, clique no ícone 
-<img src="https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/editar_campos_personalizados/image%20(11).png" width="26" style={{verticalAlign: 'middle'}} />
+**Passo 5:** Para editar um campo personalizado, clique no ícone <img src="https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/editar_campos_personalizados/image%20(11).png" width="26" style={{verticalAlign: 'middle'}} />
  ao lado do campo que deseja modificar. Uma nova aba se abrirá; após fazer as edições necessárias, clique em '**Salvar**'. Se preferir, também é possível excluir o campo personalizado.
 
 
