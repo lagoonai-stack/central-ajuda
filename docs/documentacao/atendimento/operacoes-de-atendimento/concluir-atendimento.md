@@ -29,10 +29,10 @@ Encerrar uma conversa após finalizar as tratativas é essencial para manter a o
    * Em atendimentos na fila **Novos**: botão no **canto inferior direito**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/assumir-atendimento/Anima%C3%A7%C3%A3o%20(11).gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/concluir-classificar-atendimento/image.avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `16sOinWn8HFdJaPuXMDl`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/concluir-classificar-atendimento/image%20(1).avif)
 
 
 ### **Passo 2: Escolher o tipo de encerramento**
@@ -43,7 +43,7 @@ Ao clicar em **Concluir**, serão exibidas duas opções:
 2. **Concluir** (sem classificação).
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `a2jpfBEWaRyQehK9c709`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/concluir-classificar-atendimento/image%20(2).avif)
 
 
 ### **Passo 3: Classificar o atendimento (opcional)**
@@ -58,7 +58,7 @@ Se você selecionar **Classificar e Concluir**, será aberta uma nova janela.
 O atendimento será finalizado com a classificação aplicada.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `HIPNIv0eILRw9H03TeoM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/concluir-classificar-atendimento/image%20(3).avif)
 
 
 ### **Passo 4: Gerenciar classificações**
@@ -73,7 +73,7 @@ Para cadastrar um novo motivo:
 4. Clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `KtdBC5UoiYACqRW8Fojp`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/concluir-classificar-atendimento/image%20(4).avif)
 
 
 ### **Passo 5: Visualizar atendimentos concluídos**
@@ -85,7 +85,7 @@ Após a conclusão, o atendimento é movido para a pasta **Concluídos**.
 3. O motivo da conclusão será exibido no rodapé da página.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `I4P3V74JviaSi7fFOh1i`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/concluir-classificar-atendimento/image%20(5).avif)
 
 
 ### **Passo 6: Editar a Classificação do Atendimento**
@@ -102,5 +102,5 @@ Mesmo após concluir um atendimento, é possível ajustar sua classificação ca
 * Não há prazo definido para editar a classificação de um atendimento; a atualização pode ser feita a qualquer momento.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `S4IyOTb8cHomm7UwNSXi`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/concluir-classificar-atendimento/image%20(6).avif)
 

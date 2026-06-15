@@ -17,7 +17,7 @@ A Meta estabelece critérios específicos para a criação de Grupos nos canais 
 Caso o canal **não atenda a esse critério**, a criação de Grupos não poderá ser concluída, e o sistema exibirá a seguinte **mensagem de aviso**:
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(27).avif)
 
 
 :::
@@ -56,7 +56,7 @@ Ao selecionar **“Novo grupo”**, será exibido um painel para definir quem po
    A lista de moderadores disponíveis será filtrada conforme o acesso definido na etapa anterior.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(7).png)
 
 
 **Passo 3: Definir as informações de identificação do grupo**
@@ -71,7 +71,7 @@ Após configurar o controle de acesso e clicar em **Continuar**, será exibida u
 Ao clicar em **“Criar grupo”**, ele será adicionado automaticamente à sua lista de atendimentos.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(8).png)
 
 
 **Passo 4: Gerenciar um grupo existente**
@@ -80,7 +80,7 @@ Depois que o grupo estiver criado, diversas ações de gerenciamento estarão di
 
 1. **Acessar detalhes do grupo:**
    Com a conversa aberta, clique no ícone 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(28).avif)
  (Ver detalhes do grupo) no cabeçalho para abrir o painel lateral **“Dados do grupo”**.
 2. **Opções de gerenciamento no painel “Dados do grupo”:**
    * Editar **nome**, **foto**, **etiquetas** e **descrição**.
@@ -89,7 +89,7 @@ Depois que o grupo estiver criado, diversas ações de gerenciamento estarão di
    * **Gerenciar membros:** ao clicar nos três pontos ( **⋮** ) ao lado de cada participante, é possível visualizar detalhes do contato ou removê-lo do grupo.
    * **Alterar acessos e permissões:** use o ícone **“Alterar Permissões”** para reabrir o painel de controle de acesso.
    * Na barra superior do painel, acesse o ícone 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(9).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(29).avif)
  (Ações de Arquivamento), onde você poderá:
      * **Arquivar**,
      * **Bloquear**,
@@ -105,7 +105,7 @@ Depois que o grupo estiver criado, diversas ações de gerenciamento estarão di
   \&#xNAN;*Essa ação é irreversível e também será refletida no WhatsApp.*
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `dbvFILX67uWjsmJ1POSX`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(30).avif)
 
 
 **Passo 5: Visualizar a entrega e a leitura das mensagens**
@@ -122,7 +122,7 @@ Após o envio, é possível verificar para quem a mensagem foi entregue e quem j
      Exibe o status dentro da plataforma, mostrando quais atendentes visualizaram a mensagem internamente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `eZ8mHVMNqz9xZioy33SV`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(9).png)
 
 
 **Notificações de Alteração de Membros**
@@ -132,7 +132,7 @@ Para garantir total transparência, sempre que houver mudanças nos participante
 Uma mensagem de sistema será exibida informando quando um membro **entrou** ou **saiu** do grupo, conforme o exemplo abaixo:
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `wkRK9FOiSMoft3oHYJ3Y`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/Api-oficial/image%20(3).avif)
 
 
 :::warning

@@ -15,19 +15,19 @@ title: "Pesquisar contato"
 **Passo 1:** Na tela inicial, clique no menu **CRM**, em seguida clique em **Contatos**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/pesquisar-contato/image.png)
 
 
 **Passo 2:** Na tela que se abrirá, clique na barra de **pesquisa** para realizar a busca desejada. Você pode pesquisar por **nome**, **e-mail**, **telefone** ou qualquer outra informação relevante cadastrada na plataforma. uma busca mais específica, utilize os filtros avançados, como etiquetas, origem e carteiras.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/pesquisar-contato/image.avif)
 
 
 **Passo 3:** Após clicar em **pesquisar**, a próxima tela irá mostrar o resultado da busca, e o **filtro** utilizado ficará aparente. É possível pesquisar **contatos arquivados** e **bloqueados** também.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/pesquisar-contato/image%20(1).avif)
 
 
 **Considerações Adicionais**:

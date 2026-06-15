@@ -40,7 +40,7 @@ Ao selecionar **“Novo grupo”**, será exibido um painel para definir quem po
    A lista de moderadores disponíveis será filtrada conforme o acesso definido na etapa anterior.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image.png)
 
 
 **Definição de canal responsável**
@@ -53,7 +53,7 @@ Quando o grupo possuir **mais de um canal de atendimento da mesma conta como par
 * Caso o grupo esteja configurado como **“Somente administradores”** e o canal responsável não seja administrador, o envio de mensagens ficará **bloqueado**, respeitando as regras do WhatsApp.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(15).png)
 
 
 **Passo 3: Definir as informações de identificação do grupo**
@@ -66,7 +66,7 @@ Após configurar o controle de acesso e clicar em **Continuar**, será exibida u
 4. **Etiquetas do grupo** - opcionais.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(2).avif)
 
 
 **Passo 4: Definir as Configurações do Grupo**
@@ -103,7 +103,7 @@ Ative essa opção caso deseje que a entrada de novos participantes **exija apro
 Após ajustar todas as configurações conforme sua necessidade, clique em **“Criar grupo”** para concluir o processo.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(16).png)
 
 
 **Passo 5: Gerenciar um grupo existente**
@@ -113,7 +113,7 @@ Após a criação do grupo, diversas opções de gerenciamento ficam disponívei
 **Acessar os detalhes do grupo**
 
 Com a conversa do grupo aberta, clique no ícone
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(24).avif)
 (Ver detalhes do grupo) no cabeçalho. Isso abrirá o painel lateral **“Dados do grupo”**, onde todas as ações de administração estarão centralizadas.
 
 **Opções de gerenciamento no painel “Dados do grupo”**
@@ -130,19 +130,19 @@ Com a conversa do grupo aberta, clique no ícone
 3. **Alterar Configurações do Grupo**
 
 * No topo do painel, clique no ícone
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(9).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(25).avif)
 para reabrir o painel **Configurações do Grupo**, permitindo ajustar permissões e comportamentos definidos na criação.
 
 4. **Alterar acessos e permissões**
 
 * Na parte inferior do painel, clique no ícone
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `YUrkJwe6Id0fcHfQPkF8`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(25).avif)
 **“Alterar Permissões”** para reabrir o painel de **Controle de Acesso**, onde é possível revisar quem pode visualizar e interagir com o grupo na plataforma.
 
 5. **Ações de Arquivamento**
 
 No topo do painel, clique no ícone 
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `aur6JEhgcf1qc4NCHYqS`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(26).avif)
 **Ações de Arquivamento**, onde você poderá:
 
 * **Arquivar**
@@ -186,10 +186,10 @@ Para administrar os participantes, acesse a lista de membros no painel lateral e
 * **Remover Acesso de Admin:** retira as permissões de administrador, convertendo-o em membro comum.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `b6C3d6DGGtDspLpmRGWG`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(17).png)
 
 
-**Passo 5: Visualizar a entrega e a leitura das mensagens**
+**Passo 6: Visualizar a entrega e a leitura das mensagens**
 
 Após o envio, é possível verificar para quem a mensagem foi entregue e quem já visualizou.
 
@@ -203,7 +203,7 @@ Após o envio, é possível verificar para quem a mensagem foi entregue e quem j
      Exibe o status dentro da plataforma, mostrando quais atendentes visualizaram a mensagem internamente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `9MKPWkK7uu84nB2CeWes`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(2).png)
 
 
 **Notificações de Alteração de Membros**
@@ -213,7 +213,7 @@ Para garantir total transparência, sempre que houver mudanças nos participante
 Uma mensagem de sistema será exibida informando quando um membro **entrou** ou **saiu** do grupo, conforme o exemplo abaixo:
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `3yNk3L7ZAwox5pe2Zh6F`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/api-nao-oficial/image%20(3).avif)
 
 
 :::warning

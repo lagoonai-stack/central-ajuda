@@ -41,7 +41,7 @@ Após clicar em **“Conversar”**, será exibido o painel **Enviar mensagem**.
 7\. Clique em **“Iniciar atendimento”** para abrir o atendimento com o modelo de mensagem selecionado.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/Anima%C3%A7%C3%A3o%20(11).gif)
 
 
 ### **Iniciar Atendimento pelo "Menu de Opções"**
@@ -54,7 +54,7 @@ Além de iniciar o atendimento pelo campo na barra inferior, você também pode 
 2. No menu que se abre, selecione **“Novo atendimento”**.
 3. No painel lateral, serão exibidos os contatos cadastrados na conta. É possível **pesquisar pelo nome ou pelo número** do contato.
 4. Clique no ícone
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/Anima%C3%A7%C3%A3o%20(11).gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/image%20(7).avif)
 para iniciar o atendimento.
 
 :::info
@@ -76,7 +76,7 @@ No painel lateral, você também pode adicionar um novo contato:
 3. Clique em **Salvar**; o novo contato será exibido na lista de contatos cadastrados.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `39v88Qv9KcuoZx5KMD0z`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/operacoes-no-atendimento/iniciar-atendimento/image%20(7).png)
 
 
 :::warning

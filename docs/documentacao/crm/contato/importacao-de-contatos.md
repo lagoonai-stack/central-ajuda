@@ -20,13 +20,13 @@ A funcionalidade de **importação de contatos** na a plataforma permite integra
 **Passo 1**: Acesse o menu **"CRM"** e clique em **"Contatos"**. Em seguida, selecione o botão **"Importar Contatos"** para iniciar o processo de importação.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `d3dQ3F3fAgR6NceiE9vf`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/importar-contatos-em-lote/image%20(1).avif)
 
 
 **Passo 2**: Selecione uma das opções disponíveis para a fonte de dados de origem, como **planilha do Google**, **arquivo Excel**, **arquivo CSV** ou **arquivo vCard**, para realizar a importação.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/importar-contatos-em-lote/image.avif)
 
 
 * **Copiar/Colar**: O sistema abrirá uma planilha no Google Sheets para que você possa colar as informações dos contatos. Certifique-se de que cada dado esteja organizado em uma coluna.
@@ -47,7 +47,7 @@ Para as demais opções de importação, como **Arquivo Excel**, **CSV** ou **vC
 Essa etapa permite maior controle sobre a importação, garantindo que os dados sejam organizados corretamente dentro da plataforma e atendam às suas necessidades operacionais.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `T04QaAcZXEiRU83ycCfW`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/importar-contatos-em-lote/image%20(2).avif)
 
 
 **Passo 4**: Durante o processo de importação, o sistema pode identificar **conflitos entre os dados importados e aqueles já existentes na plataforma**, como **números duplicados** ou **contatos repetidos na planilha**. Quando isso ocorrer, você será notificado e deverá decidir qual ação tomar.
@@ -55,7 +55,7 @@ Essa etapa permite maior controle sobre a importação, garantindo que os dados 
 Será possível escolher **qual contato com o mesmo número deve ser mantido**, permitindo que você **substitua os dados existentes**, **combine informações** ou **ignore o novo dado importado**. Essa etapa garante que os dados na plataforma sejam **consistentes**, evitando duplicidades e preservando a **integridade das informações**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/importar-contatos-em-lote/image%20(3).avif)
 
 
 **Nota**: marcando a opção **Arquivar contatos que não existem nesta planilha** o sistema vai arquivar todos aqueles contatos que já existam cadastrados na conta, mas que não estejam presentes na planilha.
@@ -63,13 +63,13 @@ Será possível escolher **qual contato com o mesmo número deve ser mantido**, 
 **Passo 5**: Para prosseguir com a ação de importação, será necessário **informar o código de validação**. Esse código será **enviado automaticamente para o e-mail e/ou número do WhatsApp associado ao usuário logado**. Após receber o código, insira-o na plataforma para concluir a validação e continuar com o processo de importação. Essa etapa adiciona uma camada extra de **segurança e controle** às ações realizadas na plataforma.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/importar-contatos-em-lote/image%20(4).avif)
 
 
 **Passo 6**: Se a **importação for concluída com sucesso**, basta **fechar a janela de confirmação** exibida na tela. No entanto, se ocorrer algum erro durante o processo, é importante **verificar a fonte de dados** utilizada, **corrigir os problemas apontados pela plataforma** e, em seguida, **tentar realizar a importação novamente**. Certifique-se de que os dados estejam no formato correto para evitar novas falhas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/importar-contatos-em-lote/image%20(5).avif)
 
 
 **Considerações Adicionais**:

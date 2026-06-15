@@ -18,12 +18,12 @@ O uso de chatbots contribui para aumentar a eficiência operacional e aprimorar 
 
 1. Com a conversa já iniciada, na tela de **Atendimentos**, selecione a conversa em que deseja enviar o chatbot.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(21).avif)
 
 3. No menu exibido, selecione a opção **“Iniciar chatbot”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image.png)
 
 
 **Passo 2: Selecionar e Enviar o Chatbot**
@@ -36,7 +36,7 @@ Ao escolher a opção **Iniciar chatbot**, será aberto uma caixa de seleção p
 4. Ao clicar no chatbot desejado, ele será **imediatamente enviado** na conversa e a automação será iniciada.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(1).png)
 
 
 **Passo 3: Início do Chatbot e Opção de Interromper o Fluxo**
@@ -46,7 +46,7 @@ Ao escolher a opção **Iniciar chatbot**, será aberto uma caixa de seleção p
 3. Durante a execução, também ficará disponível a opção **“Interromper fluxo do chatbot”**, permitindo encerrar a automação a qualquer momento.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(2).png)
 
 
 **Passo 4: Interromper o Fluxo do Chatbot**
@@ -59,10 +59,10 @@ Ao confirmar a ação clicando em **“Interromper”**:
 * O usuário do atendimento pode enviar mensagens normalmente.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(3).png)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(5).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(4).png)
 
 
 **Passo 5: Gerenciando Mensagens Enviadas**
@@ -77,7 +77,7 @@ Ao passar o mouse sobre a mensagem, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador (Disponível apenas para mensagens que contêm arquivos.)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(6).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(5).png)
 
 
 **Ações de Seleção**
@@ -89,10 +89,10 @@ Você também pode selecionar uma ou mais mensagens clicando na caixa de seleç�
 * **Encaminhar:** Envia as mensagens selecionadas para outra conversa.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(7).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(6).png)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(8).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(7).png)
 
 
 **Excluindo uma Mensagem**
@@ -103,7 +103,7 @@ Ao clicar em **"Excluir"** na barra de ações, um pop-up de confirmação será
 2. **Apagar para todos:** Remove a mensagem para você e para o contato **(Nota: Esta opção está disponível apenas para canais da API Não Oficial).**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `cNhWxQzQ2nVClHWPwYtE`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(8).png)
 
 
 :::warning
@@ -122,5 +122,5 @@ Clicando no menu de três pontos (`...`) ao lado da mensagem, você pode acessar
 * Para usuários com perfil de **Administrador**, esta tela também exibe o **"ID da mensagem"** e o **"ID do canal"**, informações úteis para auditoria e integrações.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `sKuX37eyvfQmZjPa7ogL`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(9).png)
 

@@ -10,13 +10,9 @@ Enviar documentos é uma funcionalidade essencial para compartilhar propostas, f
 
 1. Na tela de Atendimentos, selecione a conversa para a qual deseja enviar o documento.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image.avif)
-
 3. No menu de opções que será exibido, escolha **"Documento".**
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(1).avif)
-
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image.avif)
 
 ### **Passo 2**: **Selecionar e Enviar o Arquivo**
 
@@ -26,8 +22,7 @@ Enviar documentos é uma funcionalidade essencial para compartilhar propostas, f
 4. Clique em "Abrir".
 5. O arquivo será carregado e enviado ao contato, ficando disponível para visualização e download.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(1).avif)
 
 
 ### **Passo 3: Gerenciando Mídias Enviadas**
@@ -47,11 +42,8 @@ Você também pode selecionar uma ou mais mensagens de mídia clicando na caixa 
 * **Encaminhar:** Envia as mídias selecionadas para outra conversa.
 * **Excluir:** Remove as mídias selecionadas.
 
-
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(4).avif)
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(5).avif)
-
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(7).png)
 
 
 #### **Excluindo uma Mensagem**
@@ -62,7 +54,7 @@ Ao clicar em **"Excluir"** na barra de ações, um pop-up de confirmação será
 2. **Apagar para todos:** Remove a mensagem para você e para o contato **(Nota: Esta opção está disponível apenas para canais da API Não Oficial).**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `YS6HGu1x3dZhnNIArpZm`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(11).png)
 
 
 #### **Detalhes da Mensagem (Avançado)**
@@ -73,7 +65,7 @@ Clicando no menu de três pontos (`...`) ao lado da mensagem, você pode acessar
 * Para usuários com perfil de **Administrador**, esta tela também exibe o **"ID da mensagem"** e o **"ID do canal"**, informações úteis para auditoria e integrações.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `xjGfpgCOyfrYYpyO3e1Q`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(12).png)
 
 
 ### Regras de Formato e Tamanho por Canal
@@ -142,7 +134,7 @@ Dessa forma, o envio é suportado para **qualquer formato de documento** (PDF, D
 **Mensagem de Alerta:** Caso o limite de 200 MB seja excedido, o usuário receberá o aviso: "Tamanho máximo permitido é de 200 MB. Tente compactar o arquivo antes de enviar."
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Ugk2Hb8vKnggzvnWhYNl`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(7).png)
 
 
 :::warning

@@ -18,12 +18,12 @@ A funcionalidade de solicitação de pagamentos permite agilizar e simplificar o
 
 1. Na tela de Atendimentos, selecione a conversa em que deseja enviar a solicitação de pagamento.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(23).avif)
 
 3. No menu exibido, selecione a opção **“Solicitar pagamento”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image.avif)
 
 
 ### **Passo 2: Configurar o Pagamento**
@@ -41,7 +41,7 @@ Ao selecionar a opção de solicitação, será aberto um caixa de seleção par
 4. Defina a **data de vencimento/limite** para o pagamento.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(1).avif)
 
 
 **Aba: Dados do Cliente**
@@ -51,10 +51,10 @@ Ao selecionar a opção de solicitação, será aberto um caixa de seleção par
 3. Você também pode optar por solicitar que o cliente preencha esses dados no momento do pagamento, marcando o checkbox **“Solicitar dados do cliente no momento do pagamento”**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(5).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(2).avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(3).avif)
 
 
 **Aba: Endereço do Cliente**
@@ -64,7 +64,7 @@ Ao selecionar a opção de solicitação, será aberto um caixa de seleção par
 3. Para permitir que o cliente preencha o endereço no momento do pagamento, marque o checkbox **“Solicitar dados do cliente no momento do pagamento”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `u54UN0mmyjuereiKoGfn`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(4).avif)
 
 
 **Finalização da solicitação**
@@ -87,10 +87,10 @@ Ao clicar em **“Ver detalhes”**, será aberto uma caixa de informação com:
 7. Botão **“Abrir pagamento”**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `cT6mu6n8X8QsPqwCEVNI`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(5).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `9tKlyEiPj9prhE4XyqRi`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(6).avif)
 
 
 **Botão: Cancelar Solicitação**
@@ -103,13 +103,13 @@ Quando confirmado:
 * O link para pagamento exibirá a mensagem **“A solicitação de pagamento foi cancelada”**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `a8rlfLScUoe3AsEkQX14`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(7).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `8Ga8Q7CfVDHhqLFTfzCN`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(8).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `sbFMhG4zAyVPpe5VLubT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(9).avif)
 
 
 **Botão: Abrir Pagamento**
@@ -120,7 +120,7 @@ Ao clicar em **“Abrir pagamento”**, duas opções serão exibidas:
 * **Abrir em uma nova aba** → A página de **Pagamentos** será aberta em uma nova aba do navegador.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `czzGTrmn5ILUsAQzXsgW`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(10).avif)
 
 
 **Visualização do Link de Pagamento**
@@ -139,7 +139,7 @@ Abaixo estão os fluxos conforme o método escolhido.
 5. Ao clicar em **“Pagar agora”**, o pagamento será processado.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `xFgMWA63TjXoq30x7hy6`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/Anima%C3%A7%C3%A3o.gif)
 
 
 **2. Pagamento com Pix**
@@ -150,7 +150,7 @@ Abaixo estão os fluxos conforme o método escolhido.
 4. Assim que o pagamento for confirmado, a página é automaticamente atualizada.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `0yhCwG4pcYdDuYbYhL2Z`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/Anima%C3%A7%C3%A3o%20(1).gif)
 
 
 **3. Pagamento com Boleto**
@@ -161,7 +161,7 @@ Abaixo estão os fluxos conforme o método escolhido.
 4. O cliente poderá clicar em **“Abrir boleto”** para visualizar o PDF em uma nova aba.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1IHK5dzVnySY4UXGX411`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/Anima%C3%A7%C3%A3o%20(2).gif)
 
 
 ### **Passo 3: Gerenciando Pagamentos Enviados**
@@ -176,7 +176,7 @@ Ao passar o mouse sobre a mensagem de pagamento, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar a imagem da solicitação em seu computador.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `VlX2gwmWt185pSdbtf35`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(11).avif)
 
 
 **Ações de Seleção**
@@ -188,10 +188,10 @@ Você também pode selecionar uma ou mais mensagens clicando na caixa de seleç�
 * **Excluir:** Remove as conversas selecionadas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `OaGPb0dZ8nZW2gBSX7K1`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(11).avif)
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `0GytotLQFEnGzX2eC7r3`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(13).avif)
 
 
 **Excluindo uma Mensagem**
@@ -202,7 +202,7 @@ Ao clicar em **"Excluir"** na barra de ações, um pop-up de confirmação será
 2. **Apagar para todos:** Remove a mensagem para você e para o contato **(Nota: Esta opção está disponível apenas para canais da API Não Oficial).**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `0tes5g3JkvZm4vY7i0LX`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(14).avif)
 
 
 **Detalhes da Mensagem (Avançado)**
@@ -213,7 +213,7 @@ Clicando no menu de três pontos (`...`) ao lado da mensagem, você pode acessar
 * Para usuários com perfil de **Administrador**, esta tela também exibe o **"ID da mensagem"** e o **"ID do canal"**, informações úteis para auditoria e integrações.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `dWkKOqG2TvP4yJHfYlHk`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(15).avif)
 
 
 :::info

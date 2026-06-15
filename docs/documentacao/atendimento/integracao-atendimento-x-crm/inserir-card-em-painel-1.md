@@ -10,13 +10,13 @@ Os Painéis são uma ferramenta que permite gerenciar e visualizar informações
 
 1. Na tela de Atendimentos, selecione a conversa em que deseja adicionar um card.
 2. Na barra de digitação, clique no ícone de Painel
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image%20(33).avif)
 
 3. No menu exibido, escolha o Painel em que o card será incluído.
 4. Clique em **"Novo item"**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image.avif)
 
 
 **Passo 2: Inserir um card no Painel**
@@ -40,13 +40,13 @@ Apenas o **título** é obrigatório; todos os outros campos são opcionais.
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `eNpdKPt5hDTAX3FDewHc`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/Anima%C3%A7%C3%A3o%20(4).gif)
 
 
 **Passo 3: Visualizar e inserir mais informações**
 
 Após salvar, uma prévia do card será exibida no ícone de Painel
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `DFrcZ7HgeN2PF5jPZpjr`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image%20(34).avif)
  do atendimento. Ao clicar, a janela completa do card será aberta.
 
 1. **Lado esquerdo:** são exibidas as informações preenchidas na criação do card. Ao clicar em qualquer campo, é possível editá-lo.
@@ -57,7 +57,7 @@ Após salvar, uma prévia do card será exibida no ícone de Painel
 4. **Fases do Painel:** na parte inferior do lado esquerdo, são exibidas as fases do painel. Ao clicar em uma fase, é possível mover o card entre elas.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `BwSeAXVyxUbrUI7PkLdt`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image%20(1).avif)
 
 
 **Passo 4: Visualização do Painel**
@@ -76,7 +76,7 @@ Para que um usuário consiga visualizar um painel, é necessário que ele tenha 
 **Observação:**
 
 * Se um contato estiver em atendimento e possuir um card em um painel, mas o usuário responsável pelo atendimento não tiver acesso ao painel, ele **não visualizará o painel** ao clicar no ícone de Painel
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `LsTI137Ho1Na6IgC8NSN`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/integracao-com-o-crm/image%20(33).avif)
  dentro do atendimento.
 * Administradores têm acesso a todos os painéis, independentemente das configurações de visibilidade.
 

@@ -23,12 +23,9 @@ Ter, no mínimo, um modelo de mensagem do tipo **Atendimento** cadastrado e ativ
 
 1. Na tela de Atendimentos, abra a conversa do contato para o qual deseja enviar o modelo.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image.avif)
-
 3. No menu de opções que será exibido, escolha **"Modelo de mensagem"**
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image.avif)
 
 
 ### **Passo 2: Selecionar o Modelo**
@@ -48,8 +45,7 @@ Para os demais perfis, este botão não será exibido.
 
 :::
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(14).png)
 
 
 ### **Passo 3: Preencher os Parâmetros (Se houver)**
@@ -58,8 +54,7 @@ Para os demais perfis, este botão não será exibido.
 2. Preencha os campos com as informações do cliente (ex: Nome, número do pedido, etc.).
 3. Clique em **"Enviar Mensagem"**.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(2).avif)
 
 
 ### **Passo 4: Mensagem Enviada**
@@ -67,8 +62,7 @@ Para os demais perfis, este botão não será exibido.
 1. O modelo de mensagem será enviado e aparecerá na janela de conversa.
 2. Aguarde o contato responder para que a janela de atendimento seja aberta e você possa conversar livremente.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(5).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(3).avif)
 
 
 :::tip
@@ -93,7 +87,8 @@ Após o modelo de mensagem ser enviado, você terá várias opções para intera
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `zFJqTbaTq6Kz9t8Gqb0R`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(4).avif)
+
 
 
 **Detalhes da Mensagem (Avançado)**
@@ -104,7 +99,7 @@ Clicando no menu de três pontos (`...`) ao lado da mensagem, você pode acessar
 * Para usuários com perfil de **Administrador**, esta tela também exibe o **"ID da mensagem"** e o **"ID do canal"**, informações úteis para auditoria e integrações.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `rHNJrkNv2vYqrs4AkpzO`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/modelo-de-mensagem/image%20(5).avif)
 
 
 :::warning

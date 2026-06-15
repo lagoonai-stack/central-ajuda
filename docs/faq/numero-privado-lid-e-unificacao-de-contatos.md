@@ -28,7 +28,7 @@ Enquanto o sistema tiver apenas o LID, **não é possível responder à conversa
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `yBWxiKu8BzRhDrnWTSFe`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/numero_privado_lid/image.avif)
 
 
 **2. Como Unificar Contatos (Resolvendo o LID)**
@@ -46,7 +46,7 @@ O sistema identifica automaticamente se o dado que você está inserindo pertenc
 5. **Assistente de Mesclagem:** Em vez de bloquear, o sistema abrirá automaticamente o modal **"Contato semelhante já existente"**, perguntando se você deseja revisar as informações
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `1B1qazSw693RNIowCCSv`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/numero_privado_lid/image%20(11).png)
 
 
 6. **Confirmação:** Clique em **Revisar** para prosseguir.
@@ -62,7 +62,7 @@ O sistema irá **mesclar** os dois perfis. O registro duplicado (LID) será dele
 Isso garante que você não perca nenhuma mensagem e centralize toda a comunicação em um único perfil organizado.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `3xqJU6CvyjzBGQsAfJFg`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/numero_privado_lid/mesclar%20contatos%20de%20numero%20privado.gif)
 
 
 **3. Perguntas Frequentes Adicionais**

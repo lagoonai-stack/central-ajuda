@@ -23,7 +23,7 @@ Após criar uma carteira, é possível editar suas configurações ou excluí-la
 4. Um painel lateral será aberto exibindo os detalhes da carteira.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `26fFRKGWTRHukBEm1pCM`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/alterar-ou-excluir-uma-carteira/image%20(1).avif)
 
 
 #### **Passo 2: Alterar a carteira**
@@ -40,7 +40,7 @@ Após criar uma carteira, é possível editar suas configurações ou excluí-la
 * **Equipe e Usuários** — no tipo Atendente Único, é possível alterar a equipe e os usuários vinculados. No tipo Múltiplos Atendentes, é possível inserir ou remover equipes e editar os usuários de cada uma.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `a9ZVnqKKg5OFHJI1tN9i`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/alterar-ou-excluir-uma-carteira/Anima%C3%A7%C3%A3o.gif)
 
 
 #### **Passo 3: Excluir a carteira**
@@ -55,7 +55,7 @@ A exclusão de uma carteira é **permanente** e não **pode ser desfeita.**
 2. Uma mensagem de confirmação será exibida. Clique em **Excluir** para confirmar.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `xzBscRPX24Cxf2tR8ecX`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/alterar-ou-excluir-uma-carteira/image.avif)
 
 
 #### **Passo 4: Salvar a carteira**

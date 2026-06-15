@@ -20,7 +20,7 @@ A coluna **Visibilidade de contatos** da tabela acima depende da flag **Restring
 * **Flag habilitada:** atendentes com carteiras atribuídas visualizam apenas os contatos das suas carteiras. Atendentes sem carteira continuam vendo todos os contatos.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `xeBVpY4XVD17mY00vkjU`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/permissoes-por-perfil/image.png)
 
 
 :::warning

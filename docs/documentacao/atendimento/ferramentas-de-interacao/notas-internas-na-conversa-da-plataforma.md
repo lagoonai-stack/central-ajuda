@@ -10,12 +10,11 @@ As **Notas Internas** permitem que os atendentes registrem informações relevan
 
 1. Na tela de Atendimentos, selecione a conversa para a qual deseja adicionar a nota.
 2. Na barra de digitação, clique no ícone de Anexo
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `RWOsz0Dk1v3hnL2yruJc`)
-
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/notas_da_conversa/image%20(22).avif)
 3. No menu de opções que será exibido, escolha **"Notas da conversa".**
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `VrcHq51xmaC7NaLmToMy`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/notas_da_conversa/image%20(5).avif)
 
 
 **Passo 2: Escrever e adicionar a nota na conversa**
@@ -30,10 +29,9 @@ Após escrever e salvar, a nota será imediatamente adicionada e exibida na linh
 * Na parte superior da nota, é exibido o nome do usuário que a adicionou.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `dK4Q5ugUZSqykpk7QLeX`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/notas_da_conversa/image.avif)
 
-
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `WMJYgCDKOkY0PGpSNhbT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/notas_da_conversa/image%20(1).avif)
 
 
 **Passo 3: Editar ou excluir uma nota**
@@ -44,7 +42,7 @@ Cada nota exibe dois ícones:
 * O ícone de **três pontos**, que abre as opções **Editar** e **Excluir**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `9laWUy4eTVACys5oMh7M`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/notas_da_conversa/image%20(2).avif)
 
 
 :::warning
@@ -72,12 +70,11 @@ Ao selecionar **Editar**, a barra inferior é exibida novamente, permitindo alte
 * Ao clicar em **Salvar**, a edição é registrada e a nota é atualizada na conversa.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `zL0ijkWC715xViqasyGJ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/notas_da_conversa/image%20(3).avif)
 
 
 **Excluir uma nota**
 Ao selecionar **Excluir**, a nota é removida e substituída pela mensagem “Nota apagada”.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `krqttKFd2l4n8X4LCdMe`)
-
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/notas_da_conversa/image%20(4).avif)

@@ -33,7 +33,7 @@ A inclusão de contatos em uma carteira também pode ocorrer de forma automátic
 5. Um popup será aberto. Selecione a carteira desejada e clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `QI86cdUQTkK26epCLEdT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/incluir-e-remover-contatos-da-carteira/Anima%C3%A7%C3%A3o.gif)
 
 
 **Pela tela de Atendimentos**
@@ -44,7 +44,7 @@ A inclusão de contatos em uma carteira também pode ocorrer de forma automátic
 4. Um popup será aberto. Selecione a carteira desejada e clique em **Salvar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `UykY2ulXrGTuHL90vjk8`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/incluir-e-remover-contatos-da-carteira/Anima%C3%A7%C3%A3o%20(1).gif)
 
 
 #### **Remover contato da carteira**
@@ -80,7 +80,7 @@ Na aba **Contatos** da carteira, além do ícone de remover, há também um íco
 :::
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `ii522Cq46u41GMTpDrn2`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/incluir-e-remover-contatos-da-carteira/Anima%C3%A7%C3%A3o%20(2).gif)
 
 
 #### **Visualizar os contatos de uma carteira**
@@ -93,5 +93,5 @@ Para verificar quais contatos estão atribuídos a uma carteira:
 4. Serão exibidos todos os contatos atribuídos àquela carteira.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `d6LJX7QMoZ3yfyB9gxev`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/incluir-e-remover-contatos-da-carteira/image.avif)
 

@@ -9,13 +9,11 @@ Você pode programar o envio de uma mensagem ou o início de um chatbot para o f
 ## Passo 1: Acessar a Funcionalidade
 
 * Na tela de Atendimentos, abra a conversa do contato para o qual deseja agendar uma mensagem.
-* Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image.avif)
-
+* Na barra de digitação, clique no ícone de Anexo.
 * No menu de opções que será exibido, escolha **“Agendar Mensagem”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image.avif)
 
 
 ## Passo 2: Definir a Data e o Conteúdo
@@ -29,6 +27,7 @@ Na janela "Novo agendamento" que será aberta, preencha os seguintes campos:
    * Selecione se deseja enviar um **"Modelo de mensagem"** ou iniciar um **"Chatbot"**.
 3. Clique em **"Próximo"**.
 
+
 :::tip
 
 **Praticidade**
@@ -37,8 +36,7 @@ Ao agendar a partir de um atendimento, o sistema preenche automaticamente o Cana
 
 :::
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(1).avif)
 
 
 ## Passo 3: Selecionar o Conteúdo e Agendar
@@ -50,8 +48,7 @@ Após clicar em "Próximo", você será direcionado para a tela de seleção de 
   2. Clique em **"Definir parâmetros"**.
   3. Preencha as variáveis do modelo (se houver) e clique em **"Agendar mensagem"**.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(2).avif)
 
 
 :::warning
@@ -66,8 +63,7 @@ O botão **"+ Novo"**, que permite criar um novo modelo de mensagem diretamente 
   1. Selecione o chatbot desejado na lista
   2. Clique em **"Agendar mensagem"** para finalizar.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(3).avif)
 
 
 ## Consultando Agendamentos do Contato
@@ -94,5 +90,5 @@ A plataforma permite que você consulte facilmente o histórico de todas as mens
 2. Se o agendamento tiver um status que permite a edição (como "Falha" ou "Cancelado"), o botão **"Reagendar"** estará disponível para você nesta tela de detalhes.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `wYjj2gp6wwD2SgxyJvfw`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/agendar-mensagem/image%20(4).avif)
 

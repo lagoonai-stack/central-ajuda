@@ -22,7 +22,7 @@ A funcionalidade de **Carteiras** permite organizar e distribuir contatos de for
 3. Clique em **Novo** para iniciar a criação de uma nova carteira.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `FVAJb83jVlIeV4TpSDJN`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/criar-uma-nova-carteira/image.avif)
 
 
 #### **Passo 2: Escolher o tipo de carteira**
@@ -35,7 +35,7 @@ Na tela de configuração, selecione entre os dois tipos disponíveis:
 Após selecionar o tipo que melhor atende à sua operação, clique em **Continuar**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `gv9ZhwHwralGFmEgLJqF`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/criar-uma-nova-carteira/image.png)
 
 
 #### **Passo 3: Configurar a carteira**
@@ -50,7 +50,7 @@ As configurações variam conforme o tipo de carteira escolhido.
 * **Equipe e Usuários:** selecione a equipe e o atendente responsável. Ao selecionar **Todos os usuários**, a plataforma criará automaticamente uma carteira individual para cada usuário da equipe.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `LbHxyHWGnPx1EPUq50aV`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/criar-uma-nova-carteira/image%20(1).png)
 
 
 **Múltiplos Atendentes**
@@ -61,7 +61,7 @@ As configurações variam conforme o tipo de carteira escolhido.
 * **Equipes e usuários:** no campo **Adicionar equipe**, selecione a equipe desejada e clique no ícone **+** para adicioná-la. A equipe será exibida na seção **Equipes** e, a partir daí, você poderá selecionar individualmente os usuários que participarão da carteira. É possível adicionar múltiplas equipes à mesma carteira.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `npddN0iPo1iDOVWOHJP9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/carteiras/criar-uma-nova-carteira/image%20(2).png)
 
 
 #### **Passo 4: Salvar a carteira**

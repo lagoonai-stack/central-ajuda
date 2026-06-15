@@ -22,12 +22,9 @@ Existem duas formas de acessar e enviar suas mensagens rápidas:
 
 1. Na tela de Atendimentos, abra a conversa do contato para o qual deseja enviar o modelo.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image.avif)
-
 3. No menu de opções que será exibido, escolha **"Mensagens Rápidas"**
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image.avif)
 
 
 ### **Passo 2: Selecionar e Enviar a Mensagem**
@@ -36,16 +33,15 @@ Existem duas formas de acessar e enviar suas mensagens rápidas:
 2. Use a barra de pesquisa ou role a lista para encontrar a resposta desejada.
 3. Clique na mensagem que você quer enviar.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(13).png)
 
 
 1. A mensagem será **automaticamente inserida na barra de digitação**
 2. (Opcional) Você pode editar o texto na barra de digitação antes de enviar.
 3. Clique no **ícone de Envio** (➤) para enviar a mensagem.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(2).avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(3).gif)
 
 
 ## 2° Usando o Atalho de Barra (/)
@@ -69,7 +65,7 @@ Esta é a forma mais ágil de usar a funcionalidade.
 3. Clique no **ícone de Envio** (➤)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image.gif)
 
 
 ### **Passo 4: Gerenciando Mídias Enviadas**
@@ -82,7 +78,8 @@ Após a resposta rápida ser enviada, você terá várias opções para interagi
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `suUTAXrQIGgX8kWLH0MT`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(3).avif)
+
 
 
 **Detalhes da Mensagem (Avançado)**
@@ -92,10 +89,7 @@ Clicando no menu de três pontos (`...`) ao lado da mensagem, você pode acessar
 * Este painel mostra o status de entrega (Criado, Enviado, Entregue, Lido).
 * Para usuários com perfil de **Administrador**, esta tela também exibe o **"ID da mensagem"** e o **"ID do canal"**, informações úteis para auditoria e integrações.
 
-
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Ebru1BdT0x0aNIuEDZ2t`)
-
-
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(4).avif)
 :::warning
 
 ⚠️ **Atenção: Regras para Excluir Mensagens**
@@ -125,7 +119,7 @@ Antes de enviar, é possível criar novos modelos, visualizar detalhes ou editar
 * **Excluir**: Para remover o modelo permanentemente.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `94jhY9Pb5xfteC6Ot1un`)
+![image](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/mensagens-rapidas/image%20(3).gif)
 
 
 :::tip

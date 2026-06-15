@@ -39,7 +39,7 @@ A transição automática entre estes status foi desenhada para garantir que **a
 Mesmo que o canal entre em estado de **"Alerta"** ou **"Crítico"**, o atendente pode continuar digitando e enviando as mensagens no chat; a plataforma irá guardá-las em segurança e entregá-las aos clientes na ordem correta assim que o status retornar para **"Estável"**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `c8AR6lGDA9kb4tUr5zsj`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/faq/Status%20de%20Integridade%20do%20Canal/image.png)
 
 
 ### Detalhes Técnicos

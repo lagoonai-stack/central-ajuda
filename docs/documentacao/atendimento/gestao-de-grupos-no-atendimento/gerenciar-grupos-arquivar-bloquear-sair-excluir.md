@@ -10,20 +10,20 @@ As **Ações de Arquivamento** permitem controlar a visibilidade, o status e o c
 
 1. Abra a conversa do grupo.
 2. Clique no ícone
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image.avif)
+![imagem](hhttps://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image%20(31).avif)
 (Ver detalhes do grupo) no cabeçalho.
    Isso abrirá o painel lateral **“Dados do grupo”**, onde todas as opções de administração ficam centralizadas.
 
 **Passo 2: Selecionar e visualizar a ação desejada**
 
 1. No painel lateral, clique no ícone
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image%20(32).avif)
 (Ações de Arquivamento).
 2. Um painel com quatro opções será exibido.
    Por padrão, a ação **“Arquivar”** virá pré-selecionada.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image%20(3).gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image.avif)
 
 
 Escolha a ação que deseja executar:
@@ -44,7 +44,7 @@ Escolha a ação que deseja executar:
     A exclusão remove o grupo para todos os participantes e é **irreversível**, refletindo também no WhatsApp.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/Anima%C3%A7%C3%A3o%20(11).gif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image%20(3).gif)
 
 
 **Passo 3: Finalizar a ação**
@@ -89,13 +89,13 @@ Grupos que foram **arquivados** ou **bloqueados** podem ser reativados a qualque
 
 1. Acesse a conversa do grupo na aba **Concluídos**.
 2. Clique no ícone
-> 🖼️ **[IMAGEM PENDENTE]** (ref. `8AaInlROAhm0mVik0pa9`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image%20(31).avif)
 (Ver detalhes do grupo) no cabeçalho.
 3. No painel lateral **“Dados do grupo”**, identifique o botão **“Desarquivar”** ou **“Desbloquear”**, conforme o status atual do grupo.
 4. Clique no ícone correspondente e confirme a ação para reativar o grupo.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `HxDBjxyRz8RrQFl0UV7o`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/image%20(1).avif)
 
 
 **Regras de Hierarquia entre Bloqueio e Arquivamento**
@@ -124,5 +124,5 @@ Quando um grupo é **concluído** (via Arquivar ou Bloquear) e posteriormente re
 * Para visualizar mensagens mais antigas, clique no botão **“Ver conversa anterior”** no topo da janela de chat.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `cSF9NktYWaoEjqeX9ZgQ`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/grupos-do-whatsapp/criar-grupos/gerenciar-grupos/Anima%C3%A7%C3%A3o%20(11).gif)
 

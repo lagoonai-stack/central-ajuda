@@ -17,13 +17,13 @@ O cadastro de contatos é essencial para uma gestão eficiente de clientes e rel
 **Passo 1:** Na tela inicial, acesse o menu **CRM** e clique na opção **Contatos** para iniciar o processo de cadastro de contatos na **plataforma**.
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/cadastrar-contato/image%20(4).avif)
 
 
 **Passo 2:** Na tela que se abrirá, clique na opção **"+ Novo"**, localizada na lateral direita. Um popup será exibido para o preenchimento dos dados do novo contato. **Os campos de nome e telefone são obrigatórios**, mas você pode adicionar outras informações, como e-mail, etiquetas e notas, conforme necessário. Após concluir o preenchimento, clique no botão **Salvar** para registrar o contato..
 
 
-> 🖼️ **[IMAGEM PENDENTE]** — reenviar do GitBook (ref. `Y9G0DAmYSjJqMLfgxps0`)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/crm/contato/cadastrar-contato/image.avif)
 
 
 **Considerações Adicionais**:
