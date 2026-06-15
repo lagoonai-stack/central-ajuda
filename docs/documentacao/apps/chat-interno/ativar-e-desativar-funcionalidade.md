@@ -37,9 +37,9 @@ Ao longo deste conteúdo, você verá como ativar e desativar essa funcionalidad
 
 
 A partir desse momento, todos os usuários da equipe passam a ter acesso ao **Chat Interno** e podem se comunicar diretamente dentro da plataforma. O recurso fica disponível na lateral direita da tela e pode ser acessado clicando diretamente no **ícone do Chat Interno**
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(10).avif)
+<img src="https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(10).avif" width="26" />
 ou no menu das **três barras**
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(9).avif)
+<img src="https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chatbot/habilitar-app/image%20(9).avif" width="40" />
 , onde a opção também estará disponível.
 
 
