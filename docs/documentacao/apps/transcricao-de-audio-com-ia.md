@@ -34,19 +34,17 @@ Ao receber uma mensagem de áudio de um contato, a **IA integrada** da plataform
 **Passo 3:** Em seguida, será exibida uma tela de configuração. **Ative a chave para habilitar o aplicativo** e visualize o valor mensal que será cobrado pela funcionalidade. Clique em "**Salvar**" para finalizar a ativação.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/transcricao-audio-com-ia/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/transcricao-audio-com-ia/image%20(7).png)
 
 
 **Passo 4:** Será enviada uma senha para confirmar a habilitação da funcionalidade.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/transcricao-audio-com-ia/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/transcricao-audio-com-ia/image%20(8).png)
 
 
 **Passo 5:** Após a ativação, sempre que uma mensagem de áudio for recebida, ela será **transcrita automaticamente**. A transcrição ficará visível na conversa, facilitando o atendimento e o registro das informações compartilhadas pelo contato.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/transcricao-audio-com-ia/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/transcricao-audio-com-ia/image%20(2).avif)
 
 
 **Considerações finais**

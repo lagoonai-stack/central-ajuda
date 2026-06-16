@@ -2,7 +2,15 @@
 title: "Gerenciar Grupos (Arquivar, Bloquear, Sair, Excluir)"
 ---
 
-[https://drive.google.com/file/d/1DE1f1BVmFJWT3D6274jzOyordW2eSC7Z/view?usp=sharing](https://drive.google.com/file/d/1DE1f1BVmFJWT3D6274jzOyordW2eSC7Z/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://youtu.be/x9mnYykXLDY"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Gerenciar Grupos"
+  ></iframe>
+</div>
 
 As **Ações de Arquivamento** permitem controlar a visibilidade, o status e o comportamento de um grupo diretamente pela plataforma. Siga os passos abaixo para gerenciar corretamente cada uma dessas opções.
 

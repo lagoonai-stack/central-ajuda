@@ -2,7 +2,15 @@
 title: "Iniciar Chatbot"
 ---
 
-[https://drive.google.com/file/d/17INSvylOjzuV0PBJi8WZY_zAw5TYZDae/view?usp=sharing](https://drive.google.com/file/d/17INSvylOjzuV0PBJi8WZY_zAw5TYZDae/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://youtu.be/zanvs1osVjE"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Iniciar Chatbot"
+  ></iframe>
+</div>
 
 O uso de chatbots contribui para aumentar a eficiência operacional e aprimorar a experiência do usuário, permitindo responder rapidamente a dúvidas frequentes, direcionar clientes aos recursos adequados e executar tarefas simples de forma automática. Dessa forma, os agentes humanos podem focar em atendimentos que exigem análise e intervenção mais complexas.
 

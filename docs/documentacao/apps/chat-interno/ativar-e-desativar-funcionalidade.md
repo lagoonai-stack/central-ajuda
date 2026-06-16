@@ -2,7 +2,15 @@
 title: "Habilitar o App"
 ---
 
-[https://drive.google.com/file/d/19Yr_I2Aaq8l6nKUp0FE74HEu3IEwMJWK/view](https://drive.google.com/file/d/19Yr_I2Aaq8l6nKUp0FE74HEu3IEwMJWK/view)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://youtu.be/X5dAm8YcxsM"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Habilitar o App"
+  ></iframe>
+</div>
 
 Ao longo deste conteúdo, você verá como ativar e desativar essa funcionalidade de acordo com as necessidades da operação, entendendo em quais cenários ela deve ser utilizada.
 

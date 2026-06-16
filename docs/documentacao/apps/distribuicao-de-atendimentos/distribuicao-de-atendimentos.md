@@ -46,7 +46,7 @@ Quando a funcionalidade de Distribuição de Atendimento está habilitada, o enc
 **Passo 4:** Em Ajustes ⟶ Equipes é possível visualizar a ordem que os atendimentos são distribuídos e uma seta estará no próximo atendente que receberá o atendimento.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/distribuicao-atendimentos/image%20(12).png)
 
 
 **Passo 5:** É possível configurar as informações da distribuição de atendimento clicando em: Ajustes ⟶ Equipes ⟶ Selecione a equipe ⟶ Alterar

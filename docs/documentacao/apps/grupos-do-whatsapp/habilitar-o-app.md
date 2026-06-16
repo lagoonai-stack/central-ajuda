@@ -33,7 +33,7 @@ Ao longo deste conteúdo, você verá como habilitar e desabilitar essa funciona
    Após realizar as configurações, clique em **“Salvar”** para concluir.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/grupos-whatsapp/habilitar-app/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/grupos-whatsapp/habilitar-app/image%20(7).png)
 
 
 A partir desse momento, todos os usuários da equipe passam a ter acesso à funcionalidade de **Grupos** e podem participar das conversas em grupo diretamente pela plataforma.
@@ -47,7 +47,7 @@ A partir desse momento, todos os usuários da equipe passam a ter acesso à func
 * Ao iniciar a ação, o sistema exibirá uma notificação informando que a sincronização está em andamento. Ao final do processo, será apresentada a **quantidade de grupos sincronizados com sucesso**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/grupos-whatsapp/habilitar-app/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/grupos-whatsapp/habilitar-app/image%20(13).png)
 
 
 :::
@@ -60,7 +60,7 @@ A partir desse momento, todos os usuários da equipe passam a ter acesso à func
 4. Clique no botão **Configurar**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/grupos-whatsapp/habilitar-app/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/grupos-whatsapp/habilitar-app/image%20(2).avif)
 
 
 5\. Na tela de configuração, desative a chave do aplicativo e clique em **Salvar**.

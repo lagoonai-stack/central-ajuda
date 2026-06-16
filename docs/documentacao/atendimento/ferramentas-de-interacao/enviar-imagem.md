@@ -2,7 +2,15 @@
 title: "Enviar Imagem"
 ---
 
-[https://drive.google.com/file/d/1awEBFWvHSXZwPDDscSdiE_viE5HjgsIb/view?usp=sharing](https://drive.google.com/file/d/1awEBFWvHSXZwPDDscSdiE_viE5HjgsIb/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="hhttps://youtu.be/C0j43OXgiSw"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Enviar Imagem"
+  ></iframe>
+</div>
 
 Enviar imagens na plataforma é uma funcionalidade essencial para enriquecer a comunicação e fornecer suporte visual ao seu contato. Este artigo guiará você pelo passo a passo de como enviar imagens durante um atendimento e, em seguida, como gerenciar essas mídias.
 
@@ -66,7 +74,7 @@ Ao clicar em **"Excluir"** na barra de ações, um pop-up de confirmação será
 2. **Apagar para todos:** Remove a mensagem para você e para o contato **(Nota: Esta opção está disponível apenas para canais da API Não Oficial).**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(5).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-imagem/image%20(5).avif)
 
 
 #### **Detalhes da Mensagem (Avançado)**
@@ -77,7 +85,7 @@ Clicando no menu de três pontos (`...`) ao lado da mensagem, você pode acessar
 * Para usuários com perfil de **Administrador**, esta tela também exibe o **"ID da mensagem"** e o **"ID do canal"**, informações úteis para auditoria e integrações.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(6).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-imagem/image%20(6).avif)
 
 
 ### Regras de Formato e Tamanho por Canal
@@ -128,7 +136,7 @@ O sistema adapta o formato de envio de imagens para garantir a entrega, seguindo
 **Mensagem de Alerta:** Caso o limite de 200 MB seja excedido, o usuário receberá o aviso: "Tamanho máximo permitido é de 200 MB. Tente compactar o arquivo antes de enviar."
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(7).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-imagem/image%20(7).avif)
 
 
 :::warning
