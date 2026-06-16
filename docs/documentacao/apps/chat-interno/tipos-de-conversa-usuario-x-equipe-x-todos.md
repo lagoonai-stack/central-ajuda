@@ -2,7 +2,15 @@
 title: "Tipos de Conversa no Chat Interno"
 ---
 
-[https://drive.google.com/file/d/1HUPaOhIE23sp7OSiS2dkX9TgsZsZ4ACV/view](https://drive.google.com/file/d/1HUPaOhIE23sp7OSiS2dkX9TgsZsZ4ACV/view)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/1HUPaOhIE23sp7OSiS2dkX9TgsZsZ4ACV/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Tipos de Conversa no Chat Interno"
+  ></iframe>
+</div>
 
 Neste conteúdo, você entenderá como funcionam os três tipos de conversa do Chat Interno, **Usuário, Equipe e Todos**, quando utilizá-los e como eles impactam o fluxo de trabalho, a colaboração e a privacidade na plataforma.
 

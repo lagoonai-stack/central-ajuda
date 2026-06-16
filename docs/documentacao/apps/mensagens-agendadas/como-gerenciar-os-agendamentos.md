@@ -2,7 +2,15 @@
 title: "Como Gerenciar os Agendamentos"
 ---
 
-[https://drive.google.com/file/d/15nAD7aFvnZvWHsxIEe5NGf97NW2zae12/view](https://drive.google.com/file/d/15nAD7aFvnZvWHsxIEe5NGf97NW2zae12/view)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/15nAD7aFvnZvWHsxIEe5NGf97NW2zae12/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Como Gerenciar os Agendamentos"
+  ></iframe>
+</div>
 
 É uma nova ferramenta que permite que você programe o envio de mensagens para uma data e hora específicas no futuro, diretamente pela nossa plataforma.
 

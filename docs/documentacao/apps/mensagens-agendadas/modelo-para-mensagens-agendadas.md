@@ -4,8 +4,15 @@ title: "Modelo para Mensagens Agendadas"
 
 #### Como Criar um Modelo para Mensagens Agendadas
 
-[https://drive.google.com/file/d/13O6zHOlnE_my5WEte2oohOknXjMi2Q4U/view?usp=drive_link](https://drive.google.com/file/d/13O6zHOlnE_my5WEte2oohOknXjMi2Q4U/view?usp=drive_link)
-
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/13O6zHOlnE_my5WEte2oohOknXjMi2Q4U/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Modelo para Mensagens Agendadas"
+  ></iframe>
+</div>
 Agora você pode criar e organizar modelos de mensagem exclusivos para a funcionalidade de agendamento, facilitando a gestão das suas comunicações programadas.
 
 Siga os passos abaixo:
