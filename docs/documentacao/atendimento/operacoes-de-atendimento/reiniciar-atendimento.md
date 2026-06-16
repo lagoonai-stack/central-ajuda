@@ -2,7 +2,15 @@
 title: "Reiniciar Atendimento"
 ---
 
-[https://drive.google.com/file/d/1aO0pF1eAF1ULeNSJyjSaqsfQoX1l-ov8/view?usp=sharing](https://drive.google.com/file/d/1aO0pF1eAF1ULeNSJyjSaqsfQoX1l-ov8/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://www.youtube.com/embed/P089EDObjmw"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Reiniciar Atendimento"
+  ></iframe>
+</div>
 
 Em determinadas situações, pode ser necessário retomar o contato com um cliente mesmo após o encerramento do atendimento ou depois que a janela de 24 horas da Meta expira. Para isso, a plataforma oferece recursos específicos que permitem reabrir conversas e restabelecer a comunicação de forma segura e controlada.
 

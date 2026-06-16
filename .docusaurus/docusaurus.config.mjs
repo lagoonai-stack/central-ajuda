@@ -36,6 +36,22 @@ export default {
       }
     ]
   ],
+  "themes": [
+    [
+      "C:\\Users\\neonitro\\Downloads\\central-ajuda-docusaurus\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true,
+        "language": [
+          "pt"
+        ],
+        "indexDocs": true,
+        "indexBlog": false,
+        "docsRouteBasePath": "/",
+        "highlightSearchTermsOnTargetPage": true,
+        "searchResultLimits": 8
+      }
+    ]
+  ],
   "themeConfig": {
     "image": "img/social-card.png",
     "colorMode": {
@@ -47,8 +63,8 @@ export default {
       "title": "Central de Ajuda",
       "logo": {
         "alt": "Lagoon One",
-        "src": "img/favicon.ico",
-        "srcDark": "img/favicon.ico"
+        "src": "img/logo.png",
+        "srcDark": "img/logo.png"
       },
       "items": [
         {
@@ -310,7 +326,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

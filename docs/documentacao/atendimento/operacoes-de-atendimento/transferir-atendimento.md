@@ -2,7 +2,15 @@
 title: "Transferir Atendimento"
 ---
 
-[https://drive.google.com/file/d/1VDgntx73JKrSHxe3BSNRnkNPPh1LUNAG/view](https://drive.google.com/file/d/1VDgntx73JKrSHxe3BSNRnkNPPh1LUNAG/view)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://www.youtube.com/embed/p48ma9fwzRY"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Transferir Atendimento"
+  ></iframe>
+</div>
 
 Um atendimento pode ser transferido **antes de ser assumido** ou **durante seu andamento**. A transferência pode ser feita tanto para outra equipe quanto para outro usuário.
 

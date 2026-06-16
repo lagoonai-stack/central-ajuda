@@ -2,7 +2,15 @@
 title: "Agendar Mensagem"
 ---
 
-[https://drive.google.com/file/d/1piMIYunr9Il1IoQxrclGh-6sF2xETYqA/view?usp=sharing](https://drive.google.com/file/d/1piMIYunr9Il1IoQxrclGh-6sF2xETYqA/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/1piMIYunr9Il1IoQxrclGh-6sF2xETYqA/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Agendar Mensagem"
+  ></iframe>
+</div>
 
 Você pode programar o envio de uma mensagem ou o início de um chatbot para o futuro sem sair da tela de conversa do cliente. Este atalho é ideal para programar follow-ups, enviar lembretes ou continuar um fluxo de automação.
 

@@ -2,7 +2,15 @@
 title: "Enviar Vídeo"
 ---
 
-[https://drive.google.com/file/d/13WQN5JoWkz5FcQyRehu7fSf6zWkdCyVe/view?usp=sharing](https://drive.google.com/file/d/13WQN5JoWkz5FcQyRehu7fSf6zWkdCyVe/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/13WQN5JoWkz5FcQyRehu7fSf6zWkdCyVe/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Enviar Vídeo"
+  ></iframe>
+</div>
 
 Enviar **vídeos** na plataforma é uma funcionalidade essencial para enriquecer a comunicação e fornecer suporte **visual** dinâmico. Este artigo guiará você pelo passo a passo de como enviar vídeos durante um atendimento e, em seguida, como gerenciar essas mídias.
 

@@ -2,8 +2,15 @@
 title: "Criar Cards Através do Atendimento"
 ---
 
-[https://drive.google.com/file/d/1M20U1wqVPGLJx3_7pKv6WXTmCEovQKb0/view?usp=sharing](https://drive.google.com/file/d/1M20U1wqVPGLJx3_7pKv6WXTmCEovQKb0/view?usp=sharing)
-
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://www.youtube.com/embed/zKIiCH5dn48"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Criar Card"
+  ></iframe>
+</div>
 Os Painéis são uma ferramenta que permite gerenciar e visualizar informações de forma organizada e eficiente. Com eles, é possível inserir cards para destacar informações importantes, tarefas, métricas e muito mais. Neste artigo, você encontrará um passo a passo detalhado para inserir cards nos Painéis durante o atendimento.
 
 **Passo 1: Acessar os Painéis**

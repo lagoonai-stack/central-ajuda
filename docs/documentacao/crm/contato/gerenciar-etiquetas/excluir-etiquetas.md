@@ -3,7 +3,15 @@ title: "Excluir Etiquetas"
 ---
 
 Excluir uma etiqueta de contatos é uma ação permanente e irreversível — ao confirmar, a etiqueta é removida de todos os contatos que a possuem simultaneamente. Para evitar exclusões acidentais, a plataforma exibe o impacto em tempo real e, quando necessário, solicita uma validação de segurança antes de concluir a ação. Este artigo explica quem pode excluir etiquetas, como funciona o processo e o que esperar em cada situação.
-
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://www.youtube.com/embed/IeZrOqMrWW8"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Excluir Etiquetas"
+  ></iframe>
+</div>
 #### **Quem pode excluir etiquetas de contatos?**
 
 Somente usuários com perfil de **Administrador** ou **Super Administrador** têm permissão para editar e excluir etiquetas de contatos.

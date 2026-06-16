@@ -2,7 +2,15 @@
 title: "Criar uma Nova Carteira"
 ---
 
-[https://drive.google.com/file/d/1QCAPcV6EIG93JkxAdUZwIc_PWEMHqwOE/view](https://drive.google.com/file/d/1QCAPcV6EIG93JkxAdUZwIc_PWEMHqwOE/view)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/1QCAPcV6EIG93JkxAdUZwIc_PWEMHqwOE/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Criar uma Nova Carteira"
+  ></iframe>
+</div>
 
 A funcionalidade de **Carteiras** permite organizar e distribuir contatos de forma estratégica entre os membros da equipe. Neste artigo, você verá como criar uma nova carteira e configurá-la conforme o perfil da sua operação.
 

@@ -2,7 +2,15 @@
 title: "Gravar Áudio"
 ---
 
-[https://drive.google.com/file/d/1WK3q5CAym9Hl12LOjfiM8XcYItitkxoM/view?usp=sharing](https://drive.google.com/file/d/1WK3q5CAym9Hl12LOjfiM8XcYItitkxoM/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/1WK3q5CAym9Hl12LOjfiM8XcYItitkxoM/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Gravar Áudio"
+  ></iframe>
+</div>
 
 Para uma comunicação mais ágil e pessoal, você pode gravar mensagens de voz diretamente pela plataforma. Este guia detalha o processo de como usar o microfone do seu dispositivo para capturar e enviar áudios em tempo real, além de mostrar como gerenciar a reprodução desses áudios.
 

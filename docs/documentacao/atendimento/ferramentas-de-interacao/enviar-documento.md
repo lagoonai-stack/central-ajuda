@@ -2,7 +2,15 @@
 title: "Enviar Documento"
 ---
 
-[https://drive.google.com/file/d/1-ESAyivkH_Y4lDu7U6jWwxBri29ZmAZm/view?usp=sharing](https://drive.google.com/file/d/1-ESAyivkH_Y4lDu7U6jWwxBri29ZmAZm/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/1-ESAyivkH_Y4lDu7U6jWwxBri29ZmAZm/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Enviar Documento"
+  ></iframe>
+</div>
 
 Enviar documentos é uma funcionalidade essencial para compartilhar propostas, faturas, contratos ou qualquer arquivo importante durante a conversa. Este artigo guiará você pelo passo a passo de como anexar e, em seguida, como gerenciar esses documentos.
 

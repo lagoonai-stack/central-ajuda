@@ -2,7 +2,15 @@
 title: "Assumir Atendimento"
 ---
 
-[https://drive.google.com/file/d/1DqXcygXDnXw6SYr0rMZRP7Jlb7UNPoxM/view?usp=sharing](https://drive.google.com/file/d/1DqXcygXDnXw6SYr0rMZRP7Jlb7UNPoxM/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/1DqXcygXDnXw6SYr0rMZRP7Jlb7UNPoxM/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Assumir Atendimento"
+  ></iframe>
+</div>
 
 Toda nova interação recebida é direcionada primeiro para a aba **“Novos”** da equipe responsável. O atendimento chega para a **equipe cadastrada como padrão** ou, caso exista um **chatbot recepcionando**, para a **equipe padrão configurada nesse chatbot**.
 Enquanto estiver na aba **“Novos”**, o atendimento permanece aguardando até que um membro da equipe o assuma para iniciar a troca de mensagens.

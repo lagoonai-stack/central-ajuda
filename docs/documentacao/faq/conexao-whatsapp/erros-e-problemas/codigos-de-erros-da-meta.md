@@ -82,7 +82,7 @@ Embora essa restrição seja aplicada diretamente pela Meta, algumas práticas p
 ### **Erro 130472 - Experimento da Meta** <a href="#cdbuvqduo7ju" id="cdbuvqduo7ju"></a>
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/image%20(10).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/erros_comuns/codigos_de_erros/bkp2.avif)
 
 
 **Por que esse erro ocorre?**

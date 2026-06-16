@@ -25,7 +25,7 @@ Importante: Essa alteração afeta **todas as pessoas que têm acesso ao Portfó
 Acesse o[ Gerenciador de Negócios da Meta](https://business.facebook.com/). No painel principal do **Portfólio empresarial**, selecione a empresa correta e clique no ícone de **engrenagem**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/desativar-autenticacao-dois-fatores/image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/whatsapp_(oficial)/portifolio_empresarial/desativar_autenticacao_em_dois_fatores/image.avif)
 
 
 **Passo 2:** No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**”. Em seguida, role o cursor da lateral direita até o fim e clique em “**Gerenciador de WhatasApp**”.

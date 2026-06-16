@@ -35,14 +35,13 @@ No menu lateral esquerdo, clique em **"Gerenciador de Negócios"**.
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(2).avif)
 
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(7).png)
 
 
 **Passo 4**: Após o preenchimento clique em **salvar**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/informacoes-do-portifolio/image%20(3).avif)
 
 
 **Considerações Finais**

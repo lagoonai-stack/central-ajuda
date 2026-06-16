@@ -2,7 +2,15 @@
 title: "Preferências de Arquivamento"
 ---
 
-[https://drive.google.com/file/d/1_cyPOTrOS7cjFQKc_SZnbFcdkm03U_3s/view?usp=sharing](https://drive.google.com/file/d/1_cyPOTrOS7cjFQKc_SZnbFcdkm03U_3s/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/1_cyPOTrOS7cjFQKc_SZnbFcdkm03U_3s/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Preferências de Arquivamento"
+  ></iframe>
+</div>
 
 Este guia explica como configurar as **preferências de arquivamento** na plataforma, permitindo que você defina o que acontece após a conclusão de um atendimento. Com essas orientações, é possível personalizar o sistema para:
 

@@ -2,7 +2,15 @@
 title: "Iniciar Atendimento"
 ---
 
-[https://drive.google.com/file/d/1Cd8d4KXSFMHwjjC43ZATn39m0LCrsPf3/view?usp=sharing](https://drive.google.com/file/d/1Cd8d4KXSFMHwjjC43ZATn39m0LCrsPf3/view?usp=sharing)
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://www.youtube.com/embed/-7y6f_aP-IA"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Iniciar Atendimento"
+  ></iframe>
+</div>
 
 Na plataforma, os atendimentos podem ser iniciados de duas formas:
 
