@@ -8,12 +8,10 @@ Para uma comunicação mais ágil e pessoal, você pode gravar mensagens de voz 
 
 ### **Passo 1: Iniciar a Gravação**
 
-1. Na janela de conversa, localize e clique no ícone de Microfone
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(16).avif)
+1. Na janela de conversa, localize e clique no ícone de Microfone <img src=https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(16).avif width=26 style={{verticalAlign: 'middle'}} />
 
 2. Mantenha o botão pressionado para iniciar a gravação da sua mensagem.
-3. O ícone de microfone se transformará em um ícone de parar
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(17).avif)
+3. O ícone de microfone se transformará em um ícone de parar <img src=https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(17).avif width=26 style={{verticalAlign: 'middle'}} />
 
 
 ### **Passo 2: Parar e Enviar**
@@ -21,19 +19,15 @@ Para uma comunicação mais ágil e pessoal, você pode gravar mensagens de voz 
 1. Solte o botão do mouse ou pare de pressionar o microfone para finalizar a gravação.
 2. O sistema processará o áudio. Uma pré-visualização da mensagem de voz aparecerá na barra de digitação.
 
-* Para **ouvir**, clique no **ícone**
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(18).avif)
+* Para **ouvir**, clique no **ícone** <img src=https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(18).avif width=26 style={{verticalAlign: 'middle'}} />
 
-* Para **cancelar**, clique no **ícone**
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(19).avif)
+* Para **cancelar**, clique no **ícone** <img src=https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(19).avif width=26 style={{verticalAlign: 'middle'}} />
 
-* Para **enviar**, clique no **ícone**
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(20).avif)
+* Para **enviar**, clique no **ícone** <img src=https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(20).avif width=26 style={{verticalAlign: 'middle'}} />
 
 
 3. Ou Clique no ícone de Enviar
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(20).avif)
-para enviar a mensagem de áudio imediatamente.
+<img src=(https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(20).avif width=26 style={{verticalAlign: 'middle'}} /> para enviar a mensagem de áudio imediatamente.
 
 
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/Anima%C3%A7%C3%A3o%20(2).gif)
