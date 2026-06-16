@@ -26,12 +26,12 @@ A funcionalidade de solicitação de pagamentos permite agilizar e simplificar o
 
 1. Na tela de Atendimentos, selecione a conversa em que deseja enviar a solicitação de pagamento.
 2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(23).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(23).avif)
 
 3. No menu exibido, selecione a opção **“Solicitar pagamento”.**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image.avif)
 
 
 ### **Passo 2: Configurar o Pagamento**
@@ -49,7 +49,7 @@ Ao selecionar a opção de solicitação, será aberto um caixa de seleção par
 4. Defina a **data de vencimento/limite** para o pagamento.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(1).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(1).avif)
 
 
 **Aba: Dados do Cliente**
@@ -59,10 +59,10 @@ Ao selecionar a opção de solicitação, será aberto um caixa de seleção par
 3. Você também pode optar por solicitar que o cliente preencha esses dados no momento do pagamento, marcando o checkbox **“Solicitar dados do cliente no momento do pagamento”**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(2).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(2).avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(3).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(3).avif)
 
 
 **Aba: Endereço do Cliente**
@@ -72,7 +72,7 @@ Ao selecionar a opção de solicitação, será aberto um caixa de seleção par
 3. Para permitir que o cliente preencha o endereço no momento do pagamento, marque o checkbox **“Solicitar dados do cliente no momento do pagamento”**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(4).avif)
 
 
 **Finalização da solicitação**
@@ -95,10 +95,10 @@ Ao clicar em **“Ver detalhes”**, será aberto uma caixa de informação com:
 7. Botão **“Abrir pagamento”**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(5).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(5).avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(6).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(6).avif)
 
 
 **Botão: Cancelar Solicitação**
@@ -111,13 +111,13 @@ Quando confirmado:
 * O link para pagamento exibirá a mensagem **“A solicitação de pagamento foi cancelada”**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(7).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(7).avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(8).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(8).avif)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(9).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(9).avif)
 
 
 **Botão: Abrir Pagamento**
@@ -128,7 +128,7 @@ Ao clicar em **“Abrir pagamento”**, duas opções serão exibidas:
 * **Abrir em uma nova aba** → A página de **Pagamentos** será aberta em uma nova aba do navegador.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-documento/image%20(10).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(10).avif)
 
 
 **Visualização do Link de Pagamento**
