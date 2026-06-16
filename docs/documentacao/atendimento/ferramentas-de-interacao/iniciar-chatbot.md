@@ -54,7 +54,7 @@ Ao escolher a opção **Iniciar chatbot**, será aberto uma caixa de seleção p
 3. Durante a execução, também ficará disponível a opção **“Interromper fluxo do chatbot”**, permitindo encerrar a automação a qualquer momento.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(2).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(2).png)
 
 
 **Passo 4: Interromper o Fluxo do Chatbot**
@@ -67,10 +67,10 @@ Ao confirmar a ação clicando em **“Interromper”**:
 * O usuário do atendimento pode enviar mensagens normalmente.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(3).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(3).png)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(4).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(4).png)
 
 
 **Passo 5: Gerenciando Mensagens Enviadas**
@@ -85,7 +85,7 @@ Ao passar o mouse sobre a mensagem, duas ações rápidas aparecem:
 * **Baixar:** Clique no ícone de download (↓) para salvar o arquivo em seu computador (Disponível apenas para mensagens que contêm arquivos.)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(5).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(5).png)
 
 
 **Ações de Seleção**
@@ -97,10 +97,10 @@ Você também pode selecionar uma ou mais mensagens clicando na caixa de seleç�
 * **Encaminhar:** Envia as mensagens selecionadas para outra conversa.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(6).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(6).png)
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(7).png)
 
 
 **Excluindo uma Mensagem**
@@ -111,7 +111,7 @@ Ao clicar em **"Excluir"** na barra de ações, um pop-up de confirmação será
 2. **Apagar para todos:** Remove a mensagem para você e para o contato **(Nota: Esta opção está disponível apenas para canais da API Não Oficial).**
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/enviar-audio/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(8).png)
 
 
 :::warning
