@@ -27,7 +27,7 @@ Para uma comunicação mais ágil e pessoal, você pode gravar mensagens de voz 
 
 
 3. Ou Clique no ícone de Enviar
-<img src=(https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(20).avif width=26 style={{verticalAlign: 'middle'}} /> para enviar a mensagem de áudio imediatamente.
+<img src=https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/image%20(20).avif width=26 style={{verticalAlign: 'middle'}} /> para enviar a mensagem de áudio imediatamente.
 
 
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/gravar-audio/Anima%C3%A7%C3%A3o%20(2).gif)
