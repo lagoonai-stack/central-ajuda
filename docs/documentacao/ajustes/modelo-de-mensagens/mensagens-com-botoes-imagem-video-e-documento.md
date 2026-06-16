@@ -16,14 +16,14 @@ A criação de **mensagens interativas** na **plataforma** melhora a comunicaç�
 
 **Passo 1:** No menu **"Ajustes"**, clique em **"Modelos de Mensagens"**.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(7).png)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image.avif)
 
 
 **Passo 2:** Clique no ícone **"+ Novo"**, escolha o tipo de modelo de mensagem e adicione os elementos desejados.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image.avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(1).avif)
 
 
 **Passo 3:** Além do texto, você pode incluir **imagens, vídeos, documentos e botões** para tornar a mensagem mais interativa.
@@ -45,11 +45,8 @@ A criação de **mensagens interativas** na **plataforma** melhora a comunicaç�
 
 * **Resposta Rápida** → Permite continuar a conversa sem precisar digitar.
 * **Abrir Página** → Direciona o cliente para um link externo.
-
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(7).png)
-
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(8).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(9).png)
 
  Existem dois tipos de botões: **Resposta Rápida** e **Abrir Página**.
 
@@ -63,6 +60,5 @@ A criação de **mensagens interativas** na **plataforma** melhora a comunicaç�
 * **O tempo de aprovação** varia conforme a conta. Contas mais novas ou com menor taxa de feedback podem demorar mais.
 * O **status do modelo** é atualizado na **barra de notificações** da plataforma.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(9).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/mensagens_com_botoes_imagem_video_e_documento/image%20(7).png)
 

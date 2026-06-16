@@ -17,16 +17,16 @@ Manter seus modelos de mensagem atualizados é fundamental para garantir uma com
 
 Na tela inicial da plataforma, clique em **"Ajustes"**. No menu que se abrir, clique em **"Modelos de Mensagem"**.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/editar_modelos_de_mensagem/image%20(7).png)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/editar_modelos_de_mensagem/image.avif)
 
 
 **Passo 2:** **Selecione o modelo a ser editado**
 
 Localize o modelo desejado na lista. Clique sobre ele para abrir a tela de edição.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/editar_modelos_de_mensagem/image.avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/editar_modelos_de_mensagem/image%20(1).avif)
 
 
 **Passo 3**: **Edite os campos permitidos**
@@ -36,8 +36,8 @@ Localize o modelo desejado na lista. Clique sobre ele para abrir a tela de ediç
 * **Disponível para**
 * **Parâmetros já existentes**
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/editar_modelos_de_mensagem/image%20(1).avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/editar_modelos_de_mensagem/image%20(2).avif)
 
 
 **Passo 4:** **Salve as alterações**
@@ -45,8 +45,7 @@ Localize o modelo desejado na lista. Clique sobre ele para abrir a tela de ediç
 Após realizar as edições necessárias, clique em **"Salvar"**. O modelo atualizado estará pronto para uso imediatamente.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/editar_modelos_de_mensagem/image%20(7).png)
-
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/editar_modelos_de_mensagem/image%20(2).avif)
 
 **Considerações Adicionais:**
 

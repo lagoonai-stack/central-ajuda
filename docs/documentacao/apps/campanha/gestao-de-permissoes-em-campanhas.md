@@ -4,6 +4,16 @@ title: "Gestão de Permissões em Campanhas"
 
 A funcionalidade de Gestão de Permissões em Campanhas permite que administradores definam, de forma individualizada, o que cada usuário pode fazer dentro do módulo — criando campanhas, disparando envios ou apenas visualizando. Isso garante mais segurança e autonomia operacional sem a necessidade de elevar o perfil global de um colaborador. Este artigo explica como acessar, configurar e entender os diferentes níveis de permissão disponíveis.
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://www.youtube.com/embed/ncnht62ZNp8"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Gestão de Permissões em Campanhas"
+  ></iframe>
+</div>
+
 #### Quem pode acessar essa funcionalidade?
 
 Somente usuários com perfil de **Administrador** ou **Super Administrador** conseguem abrir e utilizar o gerenciador de permissões.

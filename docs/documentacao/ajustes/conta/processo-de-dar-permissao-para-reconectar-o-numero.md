@@ -56,20 +56,19 @@ No menu de opções, clique em "**Canais de Atendimento**”, em seguida clique 
 
 **Passo 6:** Um popup será exibido na tela. Clique em **"Reconectar"** para iniciar o processo de reconexão do número.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/conta/processo_de_dar_permissao_para_reconectar_o_numero/image%20(7).png)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/conta/processo_de_dar_permissao_para_reconectar_o_numero/image%20(5).avif)
 
 
 **Passo 7:** Você será redirecionado para a **janela de integração** da plataforma. Selecione o número que deseja **reconectar** e, em seguida, clique em **"Continuar".**
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/conta/processo_de_dar_permissao_para_reconectar_o_numero/image%20(5).avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/conta/processo_de_dar_permissao_para_reconectar_o_numero/image%20(6).avif)
 
 
 **Passo 8:** Para concluir o processo, clique em **finalizar**.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/conta/processo_de_dar_permissao_para_reconectar_o_numero/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/conta/processo_de_dar_permissao_para_reconectar_o_numero/image%20(6).avif)
 
 
 **Considerações Finais**

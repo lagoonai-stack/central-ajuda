@@ -16,8 +16,7 @@ O cadastro de novos usuários na **plataforma** permite incluir membros da equip
 
 **Passo 1**: Na tela inicial, clique em **"Ajustes"** e, em seguida, em **"Usuários"**. em seguida clique em **"+ Novo"** para iniciar o cadastro.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image%20(7).png)
 
 
 **Passo 2**: **Preencher as informações do usuário**
@@ -32,15 +31,16 @@ Todos os campos marcados com \* são obrigatórios e devem ser preenchidos.\
   * **Atendente restrito:** Acesso apenas ao módulo de atendimento e CRM. O usuário **não tem visibilidade** dos atendimentos de outros membros nem dos contatos da empresa, podendo visualizar apenas seus próprios atendimentos concluídos.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image%20(7).png)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image%20(8).png)
 
 
 **Passo 3**: **Finalizar o cadastro**
 
 Após preencher todas as informações, clique em **"Salvar"** no canto direito inferior da tela.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image.avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/usuarios/cadastrar_usuarios/image%20(8).png)
+
 
 
 **Considerações Adicionais**:

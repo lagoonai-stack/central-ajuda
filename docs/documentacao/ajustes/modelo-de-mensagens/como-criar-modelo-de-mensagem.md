@@ -16,13 +16,14 @@ Criar e utilizar modelos de mensagem na a plataforma é essencial para padroniza
 **Passo 1**: Na tela inicial da plataforma, **clique** na opção **"Ajustes"**, o menu de opções se abrirá. **Clique** em **"Modelos de Mensagens"**.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image.avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(2).jpg)
+
 
 
 **Passo 2:** **Selecione** o modelo de mensagem que deseja criar e **clique** em **continuar**.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image.avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(1).avif)
 
 
 **Passo 3:** **Preencha os campos necessários para criar seu modelo de mensagem:**
@@ -50,16 +51,15 @@ Criar e utilizar modelos de mensagem na a plataforma é essencial para padroniza
 
 **Adicione o texto da mensagem**. É possível utilizar **parâmetros** no texto para automatizar a personalização da mensagem. Para definir um campo personalizado, basta adicionar o nome do campo entre **colchetes** \[ ]. Por exemplo: **\[NOME]**.
 
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(1).avif)
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(2).avif)
 
 
 Além do **texto**, é possível adicionar **foto**, **vídeo**, **anexar arquivo** e adicionar **botões**.
 
 São dois tipos de botões: **Resposta rápida** e **Abrir página**. O botão de **resposta rápida** é utilizado para dar sequência na conversa, facilitando o fluxo da conversa com o atendente. O botão **Abrir página** permite adicionar um **link** para direcionar o contato para uma nova página.
 
-
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(2).jpg)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/ajustes/modelo_de_mensagens/como_criar_modelo_de_mensagem/image%20(2).avif)
 
 
 **Passo 4**: **Clique em salvar** e o modelo de mensagem será enviado automaticamente para **aprovação**. A **Meta** analisará e aprovará ou rejeitará o modelo.
