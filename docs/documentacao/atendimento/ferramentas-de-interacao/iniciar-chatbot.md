@@ -25,8 +25,7 @@ O uso de chatbots contribui para aumentar a eficiência operacional e aprimorar 
 **Passo 1**: **Acessar a Opção de Anexo**<br/>
 
 1. Com a conversa já iniciada, na tela de **Atendimentos**, selecione a conversa em que deseja enviar o chatbot.
-2. Na barra de digitação, clique no ícone de Anexo
-<img src="https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(21).avif)" width="26" style={{verticalAlign: 'middle'}} />
+2. Na barra de digitação, clique no ícone de Anexo <img src="https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/iniciar_chatbot/image%20(21).avif)" width="26" style={{verticalAlign: 'middle'}} />
 
 3. No menu exibido, selecione a opção **“Iniciar chatbot”.**
 
