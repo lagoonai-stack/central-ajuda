@@ -25,8 +25,7 @@ A funcionalidade de solicitação de pagamentos permite agilizar e simplificar o
 ### **Passo 1**: **Acessar a Opção de Anexo**
 
 1. Na tela de Atendimentos, selecione a conversa em que deseja enviar a solicitação de pagamento.
-2. Na barra de digitação, clique no ícone de Anexo
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(23).avif)
+2. Na barra de digitação, clique no ícone de Anexo <img src="https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/ferramentas-de-interacao/solicitar_pagamento/image%20(23).avif" width="26" style={{verticalAlign:'middle'}} />
 
 3. No menu exibido, selecione a opção **“Solicitar pagamento”.**
 
