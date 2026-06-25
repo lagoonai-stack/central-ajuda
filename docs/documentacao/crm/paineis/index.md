@@ -2,6 +2,16 @@
 title: "Painéis"
 ---
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+    src="https://drive.google.com/file/d/1E-j0JWo6sD5I7JJBS0zPuo1oUg-ztmz0/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Painéis"
+  ></iframe>
+</div>
+
 O **CRM Painéis** é onde você organiza e acompanha suas negociações e fluxos operacionais. A plataforma oferece dois tipos de painel — **Vendas** e **Gestão** — cada um pensado para um propósito diferente.
 
 O painel de **Vendas** é voltado para acompanhar oportunidades comerciais: tem funil com etapas, controle de ganho e perda, motivos de perda e relatório de desempenho.

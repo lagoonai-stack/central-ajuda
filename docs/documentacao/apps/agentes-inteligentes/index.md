@@ -6,6 +6,8 @@ Eleve o nível do seu atendimento com os Agentes de IA. Agora, você pode implem
 
 - [Novo Agente](/documentacao/apps/agentes-inteligentes/novo-agente)
 
+- [Supervisor de IA] (/documentacao/apps/agentes-inteligentes/supervisor-de-ia)
+
 - [Aba Configurações](/documentacao/apps/agentes-inteligentes/aba-configuracoes)
 
 - [Habilidades](/documentacao/apps/agentes-inteligentes/habilidades)

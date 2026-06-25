@@ -83,6 +83,16 @@ Nesta primeira seção, você define quem é o seu agente:
 * **Apelido:** O nome pelo qual o agente se apresentará ao cliente (ex: "Bia", "João").
 * **Assinar a conversa:** Defina se o agente deve assinar as mensagens com o apelido dele (Sim ou Não).
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+src="https://drive.google.com/file/d/1kZBGRHxsmapPQM48lGEAc4afvvrjxofo/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Perfil Agente"
+  ></iframe>
+</div>
+
 **B. Comportamento e Estilo**
 
 Aqui você ajusta a "personalidade" da IA escolhendo opções pré-definidas para garantir que ela fale como a sua marca:
@@ -97,11 +107,31 @@ No campo **"Descreva o objetivo deste agente"**, você dará as instruções cen
 
 * *Exemplo:* "Você é um especialista em vendas da empresa X. Seu objetivo é qualificar o lead e agendar uma reunião. Seja sempre cordial e persuasivo."
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+src="https://drive.google.com/file/d/1ZptdBjSZ6JLJJs-VcOa1Ihkj3YFK4ZaG/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Habilidades"
+  ></iframe>
+</div>
+
 **D. Conhecimento (Associação da Empresa)**
 
 Por fim, na seção **"Informações sobre a Empresa"**, selecione na lista qual perfil de negócio (Empresa) este agente deve utilizar para responder às perguntas.
 
 Após preencher todos os campos obrigatórios (\*), clique no botão **“Salvar”** para criar seu agente.
+
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+src="https://drive.google.com/file/d/1W4oBfkTu2_K4zJhAQDdPbYKf6FCn4AQl/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Conhecimento do Agente"
+  ></iframe>
+</div>
 
 #### Pronto! Seu Agente Foi Criado!
 

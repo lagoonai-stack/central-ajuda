@@ -2,6 +2,16 @@
 title: "Habilidades"
 ---
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+src="https://drive.google.com/file/d/1ZptdBjSZ6JLJJs-VcOa1Ihkj3YFK4ZaG/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Habilidades"
+  ></iframe>
+</div>
+
 As Habilidades são as ações práticas que seu Agente de IA pode executar. É aqui que você transforma a capacidade de conversação do agente em resultados tangíveis, como transferir um atendimento, criar um card no CRM ou atualizar dados de um contato.
 
 Para começar, na aba “Habilidades”, clique em “+ Adicionar habilidade”. Uma janela se abrirá com todas as ações disponíveis.

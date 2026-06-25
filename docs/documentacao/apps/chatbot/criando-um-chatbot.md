@@ -224,6 +224,16 @@ Ao final você clique no botão **salvar alterações**. Após os testes você c
 ![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/apps/chat-interno/criando-um-chatbot/image%20(33).png)
 
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+src="https://drive.google.com/file/d/1Q3k7ZxUNK2mMSxXx5TSdG9EMtctIhlkS/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Chatbot Avançado"
+  ></iframe>
+</div>
+
 ### Considerações finais
 
 * Criar um chatbot na **plataforma** é uma forma inteligente de oferecer **atendimento 24/7**, qualificar seus leads e garantir mais agilidade no suporte. Além disso, você pode monitorar os resultados através de **relatórios de atendimento**, acompanhando quantos contatos foram atendidos pelo bot e onde os clientes mais interagem.

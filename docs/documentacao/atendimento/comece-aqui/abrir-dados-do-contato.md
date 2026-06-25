@@ -65,5 +65,3 @@ Você pode acompanhar:
 * **Status Financeiro:** O status atualizado de cada transação (como "Vencido", "Pago", "Pendente", etc.), permitindo que você identifique rapidamente pendências financeiras durante o atendimento.
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/central-de-atendimento/dados-do-contato-e-gestao-rapida/image%20(2).avif)
-

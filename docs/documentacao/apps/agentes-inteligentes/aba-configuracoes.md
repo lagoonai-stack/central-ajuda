@@ -2,6 +2,16 @@
 title: "Aba Configurações"
 ---
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: '8px', marginBottom: '1.5rem'}}>
+  <iframe
+src="https://drive.google.com/file/d/1mJcx4CH3HyzazLN2oRgfKMVXSseWQOhf/preview"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0}}
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+    title="Configurações"
+  ></iframe>
+</div>
+
 A aba **“Configurações”** é o painel de controle do seu Agente de IA. Aqui você define desde seu modelo de raciocínio até como ele deve se comportar em situações de transferência e no controle de suas respostas.
 
 Abaixo, detalhamos cada opção disponível nesta tela.

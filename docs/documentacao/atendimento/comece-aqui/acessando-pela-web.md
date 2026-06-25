@@ -40,7 +40,7 @@ Sua sessão permanecerá ativa na plataforma após o login bem-sucedido. Para ga
 :::
 
 
-![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/lagoon-help-desk/atendimento/central-de-atendimento/acessando-a-plataforma-pela-web/image%20(4).avif)
+![imagem](https://pub-eb092ec0af8f4647afd1a46435d20f24.r2.dev/atendimento/central-de-atendimento/acessando-a-plataforma-pela-web/image%20(4).avif)
 
 
 :::info
